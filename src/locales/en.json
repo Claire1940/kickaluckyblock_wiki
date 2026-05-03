@@ -288,137 +288,205 @@
     "lucidBlocksQualiaAndBaseBuilding": {
       "title": "Kick a Lucky Block Zones",
       "displayType": "cards",
-      "intro": "Zones represent distance bands. Reaching farther zones improves reward tables, but only if you can return safely with your drop.",
+      "intro": "Learn every zone from Common to Celestial and how Kick Power changes the Brainrot you roll. Higher zones give better Brainrots, but they also make the return run more dangerous.",
       "cards": [
         {
-          "name": "Starter Zones",
-          "description": "Common and early Rare zones are ideal for stable first income and consistent base slot filling."
+          "name": "1. Common (Starter)",
+          "description": "Kick Power: no training or very low power. Brainrot value: lowest tier. Use it only to start passive income, then move into Rare quickly after early weight upgrades."
         },
         {
-          "name": "Mid Zones",
-          "description": "Epic through Mythic ranges become practical once your kick power and run speed move together."
+          "name": "2. Rare (Starter)",
+          "description": "Kick Power: low. Brainrot value: low to moderate. This is an early training stop, so use the income for weight upgrades and prepare for Epic."
         },
         {
-          "name": "High Zones",
-          "description": "Godly and Secret bands offer better upside but demand better timing and return discipline."
+          "name": "3. Epic (Early Game)",
+          "description": "Kick Power: early upgrades such as Bone Barbell range. Brainrot value: first meaningful tier. Add some Run Speed before pushing farther to survive longer returns."
         },
         {
-          "name": "Top Zones",
-          "description": "Divine, Hacked, OG, and Celestial routes are endgame targets where optimization matters most."
+          "name": "4. Legend (Early-Mid Game)",
+          "description": "Kick Power: mid power after stronger early weights. Brainrot value: stronger early-mid earnings. Start replacing weak Common and Rare units here."
+        },
+        {
+          "name": "5. Mythic (Mid Game)",
+          "description": "Kick Power: high. Brainrot value: major income jump. Prioritize stronger Mythic pulls and expand plot capacity so valuable rolls are not wasted."
+        },
+        {
+          "name": "6. Godly (Mid-Late Game)",
+          "description": "Kick Power: high with stronger weights. Brainrot value: very high, often millions per second. Pair every distance push with Speed upgrades for safer returns."
+        },
+        {
+          "name": "7. Secret (Late Game)",
+          "description": "Kick Power: very high. Brainrot value: massive rewards. Do not chase distance alone; only push when your speed can survive the tsunami chase."
+        },
+        {
+          "name": "8. Divine (Late Game)",
+          "description": "Kick Power: very high after multiple upgrades. Brainrot value: large multipliers with strong income potential. Use Divine runs to prepare endgame mutation cycles."
+        },
+        {
+          "name": "9. Hacked (Endgame)",
+          "description": "Kick Power: endgame. Brainrot value: top-three tier with billion-per-second potential. Time runs around luck windows to maximize mutation value."
+        },
+        {
+          "name": "10. OG (Endgame+)",
+          "description": "Kick Power: very high endgame. Brainrot value: billion-plus potential. Farm OG only when Run Speed can support the full return distance."
+        },
+        {
+          "name": "11. Celestial (Final Endgame)",
+          "description": "Kick Power: highest tier. Brainrot value: maximum listed value. Best used with stacked rebirth multipliers, strong speed, and active luck boosts."
         }
       ],
       "highlights": [
-        "Match zone targets to your current speed ceiling",
-        "Use safer routes when carrying high-value drops",
-        "Increase distance only after stable return consistency",
-        "Treat zone unlocks as progression checkpoints"
+        "Treat zones as a progression ladder from Common to Celestial.",
+        "Increase Kick Power only when Run Speed can still secure the return.",
+        "Use higher-zone farming to support mutation and rebirth planning.",
+        "Replace low-tier plot units aggressively as zone quality improves."
       ]
     },
     "lucidBlocksWorldRegions": {
       "title": "Kick a Lucky Block Mutations",
       "displayType": "regionCards",
-      "intro": "Mutations increase value and can shift priority decisions across your plot. Learn which mutation tiers are worth keeping.",
+      "intro": "Mutations turn a normal Brainrot into a higher-earning version. Each mutation boosts both cash-per-second income and sale value, making high-zone mutated Brainrots the strongest progression targets.",
       "regions": [
         {
-          "name": "Entry Mutations",
-          "type": "Low Multiplier",
-          "description": "Useful during early progression, especially when your baseline unit quality is still limited."
+          "name": "Gold (Golden)",
+          "type": "1.5x multiplier - 1 in 10",
+          "description": "Increases earning rate and sale value by 1.5x. Useful early, but replace it when stronger zones and mutations become available."
         },
         {
-          "name": "Core Mutations",
-          "type": "Reliable Gain",
-          "description": "These are the daily drivers for faster economy growth and smoother upgrade pacing."
+          "name": "Diamond",
+          "type": "2x multiplier - 1 in 25",
+          "description": "Doubles earning rate and sale value. Strong on Rare, Epic, and Legend while building toward deeper zones."
         },
         {
-          "name": "Premium Mutations",
-          "type": "High Multiplier",
-          "description": "Strong value jumps that often justify replacing plain units even at similar rarity."
+          "name": "Plasma",
+          "type": "4x multiplier - 1 in 33",
+          "description": "Quadruples earning rate and sale value. A strong mid-game keeper when it lands on Mythic or better units."
         },
         {
-          "name": "Event-Boosted Mutations",
-          "type": "Window Farming",
-          "description": "During luck events, mutation farming can outperform standard grinding routes."
+          "name": "Molten",
+          "type": "6x multiplier - 1 in 125",
+          "description": "Raises earning rate and sale value by 6x. Prioritize Molten on Godly, Secret, and Divine units for better scaling."
+        },
+        {
+          "name": "Radioactive",
+          "type": "8x multiplier - 1 in 333",
+          "description": "Raises earning rate and sale value by 8x. This is a major late-game farming spike on already valuable Brainrots."
+        },
+        {
+          "name": "Shadow",
+          "type": "12x multiplier - 1 in 2,000",
+          "description": "Raises earning rate and sale value by 12x. Save this tier for high-value zones because the multiplier is too strong for starter units."
+        },
+        {
+          "name": "Electrified",
+          "type": "16x multiplier - 1 in 5,000",
+          "description": "Raises earning rate and sale value by 16x. Extremely strong with rebirth cash multipliers in endgame loops."
+        },
+        {
+          "name": "Rainbow",
+          "type": "30x multiplier - 1 in 20,000",
+          "description": "Raises earning rate and sale value by 30x. The top listed mutation target for Perfect Kick runs and global luck windows."
         }
       ]
     },
     "lucidBlocksCreaturesAndEnemies": {
       "title": "Kick a Lucky Block Rebirth",
       "displayType": "cards",
-      "intro": "Rebirth resets part of your short-term progress but improves long-term cash scaling. The right timing prevents recovery slowdowns.",
+      "intro": "Rebirth trades your current Kick Power for permanent cash multipliers. It is the main long-term progression system after you start reaching better zones consistently.",
       "creatures": [
         {
-          "name": "First Rebirth Threshold",
-          "role": "Major Milestone",
-          "description": "Your first rebirth should happen after a stable earning loop, not during a weak or inconsistent route."
+          "name": "What does Rebirth do?",
+          "role": "System Basics",
+          "description": "Rebirth resets your current Kick Power progression and grants a permanent cash multiplier. Later rebirths stack so future Brainrots earn faster."
         },
         {
-          "name": "Pre-Rebirth Checklist",
-          "role": "Preparation",
-          "description": "Confirm weight progression, speed stability, and a reliable brainrot lineup before you reset."
+          "name": "What is the first Rebirth requirement?",
+          "role": "Requirement",
+          "description": "The first rebirth unlocks at 1,000 Kick Power and grants a permanent 2x cash multiplier when confirmed."
         },
         {
-          "name": "Post-Rebirth Recovery",
-          "role": "Early Loop",
-          "description": "Focus on rapid route rebuilding and quick slot recovery to re-enable passive income."
+          "name": "What resets when you Rebirth?",
+          "role": "Reset Rules",
+          "description": "Kick Power progression resets, so you train again for distance. Run Speed remains a critical long-term survival upgrade for return routes."
         },
         {
-          "name": "Multiplier Stacking",
-          "role": "Long-Term Value",
-          "description": "Each cycle improves future upgrade pace. Plan rebirth cadence around measurable return speed."
+          "name": "What do you keep after Rebirth?",
+          "role": "Permanent Rewards",
+          "description": "You keep the cash multiplier, which applies to future earnings and helps you rebuy stronger weights faster after each cycle."
         },
         {
-          "name": "When To Delay Rebirth",
-          "role": "Risk Control",
-          "description": "Delay briefly if one more upgrade creates a large recovery advantage after reset."
+          "name": "Should you Rebirth immediately at 1,000 Kick Power?",
+          "role": "Timing",
+          "description": "Early rebirth can accelerate progression, but often it is stronger to push one or two zones deeper first so the multiplier amplifies a better income base."
         },
         {
-          "name": "Late-Game Rebirth Rhythm",
-          "role": "Optimization",
-          "description": "Use milestone-based triggers so each rebirth cycle keeps advancing instead of repeating busywork."
+          "name": "How does the 99 Robux Rebirth Skip work?",
+          "role": "Paid Option",
+          "description": "Rebirth Skip lets you reset without meeting the current Kick Power requirement. It saves time, while normal progression remains the core upgrade loop."
+        },
+        {
+          "name": "What is the best Rebirth strategy?",
+          "role": "Best Practice",
+          "description": "Before rebirthing, fill your plot with better Brainrots, improve Run Speed, and secure stronger weights so every reset returns to high zones faster."
+        },
+        {
+          "name": "Common Rebirth mistakes",
+          "role": "Mistakes to Avoid",
+          "description": "Avoid resetting with a weak plot, ignoring Run Speed, or over-hoarding cash instead of upgrading income and weight progression."
         }
       ]
     },
     "lucidBlocksMobilityGear": {
       "title": "Kick a Lucky Block Tsunami Survival",
       "displayType": "itemCards",
-      "intro": "Every profitable run depends on surviving the return. Tsunami discipline turns risky kicks into consistent income.",
+      "intro": "After every kick, the tsunami chase decides whether your Brainrot becomes real profit or disappears. The farther your Lucky Block lands, the more important Run Speed becomes.",
       "items": [
         {
-          "name": "Read the Return Lane",
-          "type": "Route Setup",
-          "description": "Pick the cleanest path back before overextending into a farther zone."
+          "name": "Kick the Lucky Block",
+          "type": "Step 1",
+          "description": "Start each run from your plot or safe area. Landing distance determines zone quality and the Brainrot tier you can roll."
         },
         {
-          "name": "Respect Turnaround Timing",
-          "type": "Decision Timing",
-          "description": "The best kick is the one you can convert. Turn back early when pacing looks unsafe."
+          "name": "Watch the landing distance",
+          "type": "Step 2",
+          "description": "Use the reached zone to estimate return risk. Common through Legend is easier, while Mythic and above create longer and riskier chases."
         },
         {
-          "name": "Use Speed Breakpoints",
-          "type": "Movement",
-          "description": "Upgrade run speed at fixed breakpoints to keep your recovery window healthy."
+          "name": "Become the Brainrot and turn back fast",
+          "type": "Step 3",
+          "description": "Once the Brainrot appears, return toward safety immediately. Delay can waste a strong roll before it is banked."
         },
         {
-          "name": "Prioritize Safe Value",
-          "type": "Risk Control",
-          "description": "During rough waves, choose lower-risk kicks over all-in attempts that frequently fail."
+          "name": "Avoid the tsunami wave",
+          "type": "Step 4",
+          "description": "Move directly back with minimal detours. If the wave catches you before return, the rolled Brainrot is lost."
         },
         {
-          "name": "Recover After Missed Returns",
-          "type": "Reset Discipline",
-          "description": "Do not tilt after a failed run. Re-establish consistency before pushing distance again."
+          "name": "Place the Brainrot on your plot",
+          "type": "Step 5",
+          "description": "After reaching safety, place the unit immediately so it starts generating passive cash for progression."
         },
         {
-          "name": "Practice Return Rhythm",
-          "type": "Consistency",
-          "description": "Repetition builds a stable pace for kick timing, pathing, and survival reactions."
+          "name": "Upgrade Run Speed before pushing farther",
+          "type": "Step 6",
+          "description": "Spend income on Speed upgrades near the Weight Shop as distance grows. Higher Kick Power without matching Speed is unstable."
+        },
+        {
+          "name": "Balance Kick Power and Speed",
+          "type": "Step 7",
+          "description": "Do not chase Secret, Divine, Hacked, OG, or Celestial through raw power alone. Safe conversions beat repeated high-zone losses."
+        },
+        {
+          "name": "Use Rebirth and mutations to reduce wasted runs",
+          "type": "Step 8",
+          "description": "Build permanent multipliers through Rebirth and prioritize mutated high-tier rolls you can safely return with."
         }
       ],
       "unlockMilestones": [
-        "Achieve five safe returns in a row",
-        "Reach a farther zone without breaking route safety",
-        "Upgrade speed before the next distance push",
-        "Maintain stable returns after rebirth"
+        "Pair every major distance push with a Run Speed upgrade.",
+        "Turn back immediately after each roll to reduce wave losses.",
+        "Farm high zones only when return consistency remains stable.",
+        "Use rebirth multipliers to accelerate safe Speed and weight scaling."
       ]
     },
     "lucidBlocksFarmingAndGrowth": {
