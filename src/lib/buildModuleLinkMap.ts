@@ -35,25 +35,25 @@ const MODULE_FIELDS: Record<string, { field: string; nameKey: string }> = {
 // Extra semantic keywords per module to boost matching for h2 titles
 // These supplement the module title text when matching against articles
 const MODULE_EXTRA_KEYWORDS: Record<string, string[]> = {
-  lucidBlocksBeginnerGuide: ['guide', 'mastering', 'progression', 'crafting', 'starter'],
-  lucidBlocksApotheosisCrafting: ['apotheosis', 'fusion', 'essence'],
-  lucidBlocksToolsAndWeapons: ['crafting recipes', 'frost pick', 'osmium', 'azrael', 'faith wand'],
-  lucidBlocksStorageAndInventory: ['chest', 'cache cube', 'cabinet', 'storage'],
-  lucidBlocksQualiaAndBaseBuilding: ['qualia', 'clonaqualia', 'personal dimensions'],
-  lucidBlocksWorldRegions: ['tiamana', 'leyline', 'biomes', 'regions'],
-  lucidBlocksCreaturesAndEnemies: ['survival', 'combat', 'surreal creatures'],
-  lucidBlocksMobilityGear: ['bee glider', 'hookshot', 'glider', 'movement'],
-  lucidBlocksFarmingAndGrowth: ['seed', 'farming', 'growth', 'material', 'progression', 'crafting'],
-  lucidBlocksBestEarlyUnlocks: ['early', 'osmium', 'frost pick', 'starter', 'progression'],
-  lucidBlocksAchievementTracker: ['achievement', 'tiamana', 'leyline'],
-  lucidBlocksSingleplayerAndPlatformFAQ: ['multiplayer', 'platform', 'co op'],
-  lucidBlocksSteamDeckAndController: ['steam deck', 'controller', 'proton'],
-  lucidBlocksSettingsAndAccessibility: ['full screen', 'controls', 'display'],
-  lucidBlocksUpdatesAndPatchNotes: ['update', 'patch', 'fix'],
-  lucidBlocksCrashFixAndTroubleshooting: ['crash', 'vulkan', 'troubleshooting', 'full screen', 'controls', 'gameplay'],
+  lucidBlocksBeginnerGuide: ['codes', 'redeem', 'active codes', 'expired codes', 'code box'],
+  lucidBlocksApotheosisCrafting: ['beginner guide', 'first hour', 'tsunami timer', 'plot', 'momentum'],
+  lucidBlocksToolsAndWeapons: ['brainrots', 'rarity', 'mutated', 'plot slots', 'endgame keep list'],
+  lucidBlocksStorageAndInventory: ['weights', 'kick power', 'bone barbell', 'copper plate', 'endgame plates'],
+  lucidBlocksQualiaAndBaseBuilding: ['zones', 'common', 'mythic', 'divine', 'celestial'],
+  lucidBlocksWorldRegions: ['mutations', 'golden', 'molten', 'electrified', 'rainbow'],
+  lucidBlocksCreaturesAndEnemies: ['rebirth', '1000 kick power', '2x cash', 'rebirth skip', 'strategy'],
+  lucidBlocksMobilityGear: ['tsunami survival', 'run speed', 'landing distance', 'return route', 'avoid wave'],
+  lucidBlocksFarmingAndGrowth: ['run speed', 'survival', 'return path', 'weight progression', 'rebirth rebuild'],
+  lucidBlocksBestEarlyUnlocks: ['perfect kick', 'green zone', 'timing', 'extra reach', 'luck boost'],
+  lucidBlocksAchievementTracker: ['luck events', 'event windows', 'burst windows', 'stacking setup', 'claims'],
+  lucidBlocksSingleplayerAndPlatformFAQ: ['game passes', 'x2 cash', 'brainrot luck', 'mutation luck', 'vip'],
+  lucidBlocksSteamDeckAndController: ['afk income', 'offline cash', 'idle cycle', 'weight milestones', 'afk training'],
+  lucidBlocksSettingsAndAccessibility: ['no robux', 'free progression', 'run speed', 'weight breakpoints', 'rebirth timing'],
+  lucidBlocksUpdatesAndPatchNotes: ['updates', 'patch notes', 'roblox launch', 'update 1', 'mutation coverage'],
+  lucidBlocksCrashFixAndTroubleshooting: ['live stats', 'official links', 'players', 'visits', 'favorites'],
 }
 
-const FILLER_WORDS = ['lucid', 'blocks', '2026', '2025', 'complete', 'the', 'and', 'for', 'how', 'with', 'our', 'this', 'your', 'all', 'from', 'learn', 'master']
+const FILLER_WORDS = ['kick', 'lucky', 'block', '2026', '2025', 'complete', 'the', 'and', 'for', 'how', 'with', 'our', 'this', 'your', 'all', 'from', 'learn', 'master']
 
 function normalize(text: string): string {
   return text
@@ -77,9 +77,9 @@ function matchScore(queryText: string, article: ArticleWithType, extraKeywords?:
 
   let score = 0
 
-  // Exact phrase match in title (stripped of "Lucid Blocks")
-  const strippedQuery = normalizedQuery.replace(/lucid blocks?\s*/g, '').trim()
-  const strippedTitle = normalizedTitle.replace(/lucid blocks?\s*/g, '').trim()
+  // Exact phrase match in title (stripped of "Kick a Lucky Block")
+  const strippedQuery = normalizedQuery.replace(/kick\s+(a\s+)?lucky\s+blocks?\s*/g, '').trim()
+  const strippedTitle = normalizedTitle.replace(/kick\s+(a\s+)?lucky\s+blocks?\s*/g, '').trim()
   if (strippedQuery.length > 3 && strippedTitle.includes(strippedQuery)) {
     score += 100
   }
