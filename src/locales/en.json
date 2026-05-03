@@ -10,7 +10,15 @@
       "twitterDescription": "Track code status, brainrots, mutations, weights, zones, and rebirth strategy in one clear Kick a Lucky Block guide hub."
     }
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "mutations": "Mutations",
+    "brainrots": "Brainrots",
+    "power": "Power",
+    "shop": "Shop",
+    "leaderboard": "Leaderboard"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -822,125 +830,145 @@
     "disclaimer": "All trademarks belong to their respective owners. This is an independent fan knowledge project."
   },
   "pages": {
-    "guides": {
-      "title": "Kick a Lucky Block Guides",
-      "description": "Beginner, rebirth, and optimization guides for every progression phase.",
-      "metaTitle": "Kick a Lucky Block Guides - Beginner to Endgame",
-      "metaDescription": "Practical Kick a Lucky Block guides for codes status checks, route safety, upgrades, and rebirth pacing.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
+    "codes": {
+      "title": "Kick a Lucky Block Codes",
+      "description": "Track working codes, expired codes, and redemption menu status in one place.",
+      "metaTitle": "Kick a Lucky Block Codes - Working and Expired Status",
+      "metaDescription": "Check the latest Kick a Lucky Block codes status, redemption steps, and where new rewards are announced.",
+      "categoryLabel": "CODE TRACKER",
+      "whatIs": "What are Codes?",
+      "whatIsDescription": "Codes are limited promotional rewards shared by the developers. This section tracks whether redemption is currently available, which entries are active, and which ones have expired.",
+      "why": "Why check codes first?",
       "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
+        "step1Title": "Claim Free Boosts Fast",
+        "step1Description": "Use active rewards to speed up early power growth and plot income without extra grind.",
+        "step2Title": "Avoid Expired Entries",
+        "step2Description": "See active and expired status clearly so you do not waste time testing dead entries.",
+        "step3Title": "Follow Official Drops",
+        "step3Description": "Track where new rewards are announced so you can redeem them before they expire."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Codes"
+    },
+    "guide": {
+      "title": "Kick a Lucky Block Guide",
+      "description": "Beginner routes, progression priorities, and daily play loops for faster growth.",
+      "metaTitle": "Kick a Lucky Block Guide - Beginner to Advanced Progression",
+      "metaDescription": "Learn efficient Kick a Lucky Block progression, from first kicks to optimized rebirth and income loops.",
+      "categoryLabel": "PROGRESSION GUIDE",
+      "whatIs": "What is the Guide section?",
+      "whatIsDescription": "The guide section explains practical progression order: what to do in your first session, when to train power, how to balance risk and income, and how to avoid common stalls.",
+      "why": "Why use a structured guide?",
+      "whySteps": {
+        "step1Title": "Start With the Right Loop",
+        "step1Description": "Follow a proven opening sequence so every minute improves power, distance, and economy.",
+        "step2Title": "Reduce Trial-and-Error",
+        "step2Description": "Skip inefficient upgrades by using tested priorities for training, placement, and rebirth timing.",
+        "step3Title": "Scale Into Endgame",
+        "step3Description": "Transition from basic farming to higher-value routes with fewer resets and better planning."
       },
       "featured": "Featured & Essential",
       "all": "All Guides"
     },
-    "crafting": {
-      "title": "Kick a Lucky Block Codes",
-      "description": "Code status tracking, redemption menu checks, and official update watchlist.",
-      "metaTitle": "Kick a Lucky Block Codes - Active and Expired Status",
-      "metaDescription": "Track active and expired code status, code menu availability, and where to verify future rewards.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
+    "mutations": {
+      "title": "Kick a Lucky Block Mutations",
+      "description": "Mutation effects, value impact, and practical roll strategy by progression stage.",
+      "metaTitle": "Kick a Lucky Block Mutations - Effects and Value Comparison",
+      "metaDescription": "Compare mutation effects and value impact in Kick a Lucky Block to decide what to keep, reroll, or replace.",
+      "categoryLabel": "MUTATION INDEX",
+      "whatIs": "What are Mutations?",
+      "whatIsDescription": "Mutations are special modifiers that change Brainrot output and rarity value. Their impact can be large, so understanding priorities is key to stable long-term growth.",
+      "why": "Why track mutation value?",
       "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
+        "step1Title": "Keep High-Impact Rolls",
+        "step1Description": "Identify which mutation outcomes deserve long-term slots instead of immediate replacement.",
+        "step2Title": "Plan Rerolls Better",
+        "step2Description": "Use value tiers to decide when rerolling is worth the resources and when to hold.",
+        "step3Title": "Match Stage Objectives",
+        "step3Description": "Use different mutation targets for early acceleration, midgame consistency, and late-game scaling."
       },
       "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
+      "all": "All Mutations"
     },
-    "items": {
+    "brainrots": {
       "title": "Kick a Lucky Block Brainrots",
-      "description": "Brainrot value tiers, replacement strategy, and passive income optimization.",
-      "metaTitle": "Kick a Lucky Block Brainrots - Value and Progression",
-      "metaDescription": "Compare brainrot value, mutation impact, and plot-slot priorities to scale your economy faster.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
+      "description": "Brainrot lists, rarity/value comparisons, and slot management strategy.",
+      "metaTitle": "Kick a Lucky Block Brainrots - List, Value, and Best Picks",
+      "metaDescription": "Browse Kick a Lucky Block brainrots by rarity and value to choose better placements and replacement targets.",
+      "categoryLabel": "BRAINROT DATABASE",
+      "whatIs": "What are Brainrots?",
+      "whatIsDescription": "Brainrots are the core collectible units that generate income on your plot. Their rarity, mutation state, and placement choices directly affect your earning speed.",
+      "why": "Why optimize Brainrot choices?",
       "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
+        "step1Title": "Improve Plot Earnings",
+        "step1Description": "Prioritize units that produce stronger returns for each slot in your current progression stage.",
+        "step2Title": "Replace Low Performers",
+        "step2Description": "Use value comparisons to remove weak units earlier and free space for better options.",
+        "step3Title": "Build a Stable Core",
+        "step3Description": "Create a balanced lineup that supports both daily income and long-term mutation upgrades."
       },
       "featured": "Featured & Essential",
-      "all": "All Items"
+      "all": "All Brainrots"
     },
-    "biomes": {
-      "title": "Kick a Lucky Block Zones",
-      "description": "Zone distance bands, reward quality, and safe route planning.",
-      "metaTitle": "Kick a Lucky Block Zones - Distance and Rewards",
-      "metaDescription": "Learn how zone distance impacts reward quality and how to push farther without losing returns.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
+    "power": {
+      "title": "Kick a Lucky Block Power",
+      "description": "Weights, kick power breakpoints, speed gains, and rebirth pacing.",
+      "metaTitle": "Kick a Lucky Block Power - Weights, Kick Scaling, and Rebirth Timing",
+      "metaDescription": "Plan Kick a Lucky Block power growth with weight upgrades, distance breakpoints, and practical rebirth timing.",
+      "categoryLabel": "POWER PROGRESSION",
+      "whatIs": "What is Power progression?",
+      "whatIsDescription": "Power progression covers weight upgrades, kick distance scaling, and movement efficiency. Good breakpoint planning lets you reach better zones and rewards sooner.",
+      "why": "Why optimize power routes?",
       "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
+        "step1Title": "Hit Better Distances Sooner",
+        "step1Description": "Use clear upgrade checkpoints to unlock farther zones without wasted spending.",
+        "step2Title": "Balance Power and Speed",
+        "step2Description": "Avoid over-investing in one stat by matching training choices to your current farm route.",
+        "step3Title": "Rebirth at Better Times",
+        "step3Description": "Use threshold-based rebirth timing to protect momentum and avoid inefficient resets."
       },
       "featured": "Featured & Essential",
-      "all": "All Biomes"
+      "all": "All Power Guides"
     },
-    "building": {
-      "title": "Kick a Lucky Block Weights and Rebirth",
-      "description": "Weight progression, run speed breakpoints, and rebirth cadence planning.",
-      "metaTitle": "Kick a Lucky Block Weights and Rebirth - Upgrade Strategy",
-      "metaDescription": "Plan weight upgrades, rebirth timing, and speed breakpoints for reliable long-term scaling.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
+    "shop": {
+      "title": "Kick a Lucky Block Shop",
+      "description": "Shop priorities, gifting/trading unlocks, and smart spending order.",
+      "metaTitle": "Kick a Lucky Block Shop - Best Buy Order and Economy Priorities",
+      "metaDescription": "Use a practical Kick a Lucky Block shop priority list for upgrades, gifting features, and economy planning.",
+      "categoryLabel": "SHOP PLANNING",
+      "whatIs": "What is the Shop section?",
+      "whatIsDescription": "The shop section focuses on purchase order, upgrade value, and utility unlocks such as gifting and trading-related functions. It helps reduce wasteful spending.",
+      "why": "Why plan purchases?",
       "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
+        "step1Title": "Spend on Highest ROI First",
+        "step1Description": "Prioritize upgrades that improve income loops immediately instead of low-impact vanity purchases.",
+        "step2Title": "Unlock Utility Features",
+        "step2Description": "Track when to unlock gifting and other functions so they support progression rather than delay it.",
+        "step3Title": "Protect Your Economy",
+        "step3Description": "Avoid dead-end spending paths that slow your power growth and reset preparation."
       },
       "featured": "Featured & Essential",
-      "all": "All Building Guides"
+      "all": "All Shop Guides"
     },
-    "support": {
-      "title": "Kick a Lucky Block Updates and Help",
-      "description": "Update tracking, official links, and troubleshooting resources.",
-      "metaTitle": "Kick a Lucky Block Support - Updates and Official Links",
-      "metaDescription": "Track key updates, verify official channels, and keep your progression plan current.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Roblox, multiplayer questions, and settings.",
-      "why": "Why check support?",
+    "leaderboard": {
+      "title": "Kick a Lucky Block Leaderboard",
+      "description": "Leaderboard patterns, top-player setups, and climb planning.",
+      "metaTitle": "Kick a Lucky Block Leaderboard - Climb Strategy and Top Meta Patterns",
+      "metaDescription": "Study Kick a Lucky Block leaderboard trends to improve setup decisions and climb rankings more efficiently.",
+      "categoryLabel": "LEADERBOARD META",
+      "whatIs": "What is the Leaderboard section?",
+      "whatIsDescription": "This section tracks leaderboard-focused play: ranking signals, top-player progression patterns, and setup adjustments that help you climb consistently.",
+      "why": "Why analyze leaderboard trends?",
       "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Roblox, controller support, and system requirements"
+        "step1Title": "Learn Competitive Benchmarks",
+        "step1Description": "See what top performers prioritize so you can compare your setup against proven standards.",
+        "step2Title": "Refine Your Build Path",
+        "step2Description": "Use ranking patterns to adjust your mutation, power, and plot decisions with clear goals.",
+        "step3Title": "Climb With Consistency",
+        "step3Description": "Turn leaderboard data into repeatable routines instead of random experimentation."
       },
       "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "all": "All Leaderboard Guides"
     }
   }
 }

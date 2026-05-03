@@ -11,12 +11,13 @@
     }
   },
   "nav": {
-    "guides": "Guias",
-    "crafting": "Criação",
-    "items": "Itens",
-    "biomes": "Biomas",
-    "building": "Construção",
-    "support": "Suporte"
+    "codes": "Codes",
+    "guide": "Guide",
+    "mutations": "Mutations",
+    "brainrots": "Brainrots",
+    "power": "Power",
+    "shop": "Shop",
+    "leaderboard": "Leaderboard"
   },
   "common": {
     "home": "Início",
