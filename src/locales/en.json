@@ -123,22 +123,22 @@
       {
         "icon": "Gamepad2",
         "title": "Kick a Lucky Block AFK Income",
-        "description": "Idle loops and return-to-spend routine"
+        "description": "Passive cash loops, offline collection, and reinvest timing"
       },
       {
         "icon": "Settings",
         "title": "Kick a Lucky Block No Robux Progression",
-        "description": "Free-to-play upgrade route by phase"
+        "description": "Free-to-play checkpoints from starter runs to rebirth"
       },
       {
         "icon": "Clock",
         "title": "Kick a Lucky Block Updates",
-        "description": "Patch changes and event priorities"
+        "description": "Roblox timeline changes, mutation notes, and event priorities"
       },
       {
         "icon": "Shield",
         "title": "Kick a Lucky Block Live Stats and Official Links",
-        "description": "Live metrics and trusted official destinations"
+        "description": "Official IDs, live metrics, and verified community links"
       }
     ]
   },
@@ -643,136 +643,126 @@
     "lucidBlocksSteamDeckAndController": {
       "title": "Kick a Lucky Block AFK Income",
       "displayType": "faq",
-      "intro": "AFK routines work best when your plot is already filled with efficient earners and your spending routine is disciplined.",
+      "intro": "The strongest AFK route is to lock in high-value Brainrots first, then convert idle cash into meaningful weight and speed milestones.",
       "faqs": [
         {
-          "question": "How do I set up a simple AFK loop?",
-          "answer": "Fill your strongest available slots, keep your route stable, then let passive income accumulate before periodic upgrade check-ins."
+          "question": "How should I prepare before AFK training starts?",
+          "answer": "Place your best Brainrots on the plot before stepping away. Your passive income only scales if strong earners are already active."
         },
         {
-          "question": "What should I buy first after an AFK session?",
-          "answer": "Prioritize the upgrade that unlocks your next zone or protects return consistency, usually weight or speed."
+          "question": "Which weight milestones matter most for AFK growth?",
+          "answer": "A practical route is Wooden Stick, Bone Barbell at $7,500, Copper Plate at $500,000, Iron Plate at $7.2M, and Ice Barbell at $350M."
         },
         {
-          "question": "Is AFK better than active farming?",
-          "answer": "AFK is steady but slower. Active sessions are better for breakthrough milestones, while AFK smooths your baseline growth."
+          "question": "When should I collect offline cash?",
+          "answer": "Collect regularly instead of letting the cap sit full. Frequent collection turns stored income into faster progression and safer runs."
         },
         {
-          "question": "How often should I rotate plot units?",
-          "answer": "Refresh whenever new units clearly outperform older fillers. Keep top earners locked in to protect passive output."
+          "question": "What should I buy first after collecting AFK income?",
+          "answer": "Spend on the next upgrade that changes outcomes, usually weight for farther zones or run speed to protect valuable returns."
         },
         {
-          "question": "Does AFK help rebirth timing?",
-          "answer": "Yes. It can close the final resource gap before rebirth, especially when you are near a planned threshold."
+          "question": "Which Brainrots should get upgrades first?",
+          "answer": "Prioritize top-tier or mutated Brainrots. Limited plot slots make wide spending on weak Common and Rare units inefficient."
         },
         {
-          "question": "How do I avoid wasting AFK gains?",
-          "answer": "Plan your next two purchases in advance so idle income is converted immediately into meaningful progress."
+          "question": "What is the repeatable AFK money cycle?",
+          "answer": "Kick, return safely, place better Brainrots, collect offline income, reinvest, and repeat. That loop compounds both passive cash and kick power."
         }
       ]
     },
     "lucidBlocksSettingsAndAccessibility": {
       "title": "Kick a Lucky Block No Robux Progression",
       "displayType": "cards",
-      "intro": "A no-Robux route is fully viable with disciplined upgrades, safer returns, and smart rebirth timing.",
+      "intro": "No-Robux progression works when each phase has one clear goal: build income, hit weight breakpoints, protect returns, then rebirth on timing.",
       "settings": [
         {
-          "name": "Phase 1: Stabilize Basics",
-          "type": "Early Route",
-          "description": "Prioritize safe returns and quick slot filling before chasing long-distance high-variance runs."
+          "name": "Step 1: Start With Fast Kick Runs",
+          "type": "Build Income Base",
+          "description": "Kick, return before the tsunami, and place each Brainrot quickly. In the opening minutes, consistency beats perfect rarity."
         },
         {
-          "name": "Phase 2: Weight Breakpoints",
-          "type": "Power Plan",
-          "description": "Target meaningful weight jumps and avoid overpaying for upgrades that do not unlock new zones."
+          "name": "Step 2: Buy the First Useful Weight",
+          "type": "Early Power",
+          "description": "Use free Wooden Stick first, then save for Bone Barbell at $7,500 to improve early zone reach without paid boosts."
         },
         {
-          "name": "Phase 3: Speed Insurance",
-          "type": "Survival Plan",
-          "description": "Upgrade run speed whenever longer routes start failing, even if power upgrades are available."
+          "name": "Step 3: Save for Bigger Jumps",
+          "type": "Milestone Planning",
+          "description": "After Bone Barbell, prioritize larger jumps like Copper Plate at $500,000, then Iron Plate and Ice Barbell as long-term targets."
         },
         {
-          "name": "Phase 4: Plot Quality Shift",
-          "type": "Income Plan",
-          "description": "Replace low-yield units methodically so passive income scales without premium boosts."
+          "name": "Step 4: Add Run Speed Before Overextending",
+          "type": "Route Safety",
+          "description": "When zones get farther, run speed protects rare returns and prevents losing valuable Brainrots during wave pressure."
         },
         {
-          "name": "Phase 5: Event Window Farming",
-          "type": "Efficiency Plan",
-          "description": "Use luck events as free acceleration windows and reinvest gains immediately."
+          "name": "Step 5: Upgrade Best Brainrots Only",
+          "type": "Cash Efficiency",
+          "description": "Replace low earners as stronger units arrive, and focus upgrade cash on high-rarity or mutated Brainrots."
         },
         {
-          "name": "Phase 6: Rebirth Cadence",
-          "type": "Long-Term Plan",
-          "description": "Rebirth on milestone logic, then rebuild quickly using your tested route template."
+          "name": "Step 6: Rebirth at the Right Time",
+          "type": "Long-Term Multiplier",
+          "description": "First rebirth unlocks at 1,000 Kick Power with a 2x cash multiplier. Rebirth when your base can rebuild quickly, not just when the threshold appears."
         }
       ]
     },
     "lucidBlocksUpdatesAndPatchNotes": {
       "title": "Kick a Lucky Block Updates",
       "displayType": "timeline",
-      "intro": "Use update notes to adjust priorities fast: new multipliers, economy tweaks, and event windows can change optimal routes.",
+      "intro": "Track dated Roblox and event milestones to decide what to farm first whenever the live progression meta shifts.",
       "entries": [
         {
-          "type": "Patch Watch",
-          "title": "Track Economy and Drop Table Changes",
-          "description": "When reward balance changes, re-evaluate your best zone target and replacement threshold immediately."
+          "type": "Roblox API",
+          "title": "May 2, 2026: Roblox Listing Updated",
+          "description": "The official games API recorded an update at 2026-05-02T16:52:37Z. Use this timestamp as the newest public marker before rechecking active events and store changes."
         },
         {
-          "type": "Event",
-          "title": "Prioritize Limited-Time Luck Windows",
-          "description": "Temporary boosts can outperform normal farming; shift your session plan around active events."
+          "type": "Mutation Meta",
+          "title": "May 2, 2026: Mutation Coverage Expanded",
+          "description": "Current public mutation set includes Gold, Diamond, Plasma, Molten, Radioactive, Shadow, Electrified, and Rainbow, with multipliers ranging from 1.5x to 30x."
         },
         {
-          "type": "Systems",
-          "title": "Review Any Rebirth Formula Adjustments",
-          "description": "If reset values or multipliers move, update your rebirth timing checklist before the next cycle."
+          "type": "Event Preview",
+          "title": "April 26, 2026: Update 1 Event Signal",
+          "description": "The Update 1 event listing promoted new Brainrots, new Mutations, and an Admin Abuse preview, indicating luck-driven limited-time activity."
         },
         {
-          "type": "Progression",
-          "title": "Recheck Weight and Speed Breakpoints",
-          "description": "Balance updates can make previously weak upgrade paths suddenly efficient."
-        },
-        {
-          "type": "Quality of Life",
-          "title": "Adopt New UI or Flow Improvements",
-          "description": "Small interface upgrades often reduce downtime and improve session consistency."
-        },
-        {
-          "type": "Meta",
-          "title": "Refresh Your Module Priorities",
-          "description": "After each significant update, reorder your focus across codes, farming, and rebirth planning."
+          "type": "Release",
+          "title": "April 7, 2026: Public Roblox Launch",
+          "description": "Kick a Lucky Block launched on Roblox with the core loop of kicking, escaping the tsunami, placing Brainrots for money, buying weights, and scaling with rebirth."
         }
       ]
     },
     "lucidBlocksCrashFixAndTroubleshooting": {
       "title": "Kick a Lucky Block Live Stats and Official Links",
       "displayType": "steps",
-      "intro": "Use live metrics and official destinations to verify you are tracking the right game and the right community channels.",
+      "intro": "Use official IDs and live platform metrics to confirm you are tracking the correct experience and active channels.",
       "steps": [
         {
-          "title": "Confirm Official Roblox Experience",
-          "description": "Open the official Roblox game page first to avoid lookalike entries or outdated mirrors."
+          "title": "Confirm Official Game Identity",
+          "description": "Use root place ID 89469502395769 and universe ID 10004244222 to verify the official Kick a Lucky Block experience page."
         },
         {
-          "title": "Check Current Player Activity",
-          "description": "Active player trends help you spot peak windows for events and social updates."
+          "title": "Track Current Players and Capacity",
+          "description": "Current players are around 217,831 with a max server size of 5, which helps you gauge active farming windows and server pressure."
         },
         {
-          "title": "Monitor Visit and Favorite Growth",
-          "description": "Visit and favorite movement is useful for understanding update impact over time."
+          "title": "Monitor Visits and Favorites",
+          "description": "Recent public totals include 142,117,343 visits and 5,907,791 favorites, useful for tracking momentum after patches."
         },
         {
-          "title": "Use Official Community Channels",
-          "description": "Follow the official Discord and developer group for announcements, events, and community notices."
+          "title": "Review Approval and Vote Signals",
+          "description": "Approval is about 96.76% based on 285,768 upvotes and 9,573 downvotes from the Roblox votes endpoint."
         },
         {
-          "title": "Bookmark Trusted External Destinations",
-          "description": "Keep quick access to Roblox, Discord, YouTube gameplay references, and the developer group."
+          "title": "Bookmark Official Channels",
+          "description": "Keep quick access to the Roblox game page, No More Flops developer group, and official Discord for announcements and event tracking."
         },
         {
-          "title": "Revalidate Links After Major Updates",
-          "description": "When update cycles are active, quickly verify your source links are still current and relevant."
+          "title": "Check Historical Markers Before Sessions",
+          "description": "Use Created date April 7, 2026 and latest listed update date May 2, 2026 as baseline references when reviewing progression changes."
         }
       ]
     }

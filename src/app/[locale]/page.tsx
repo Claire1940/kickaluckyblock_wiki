@@ -91,6 +91,9 @@ const HOME_EXTERNAL_LINKS = {
 		joinDiscord: 'https://discord.com/invite/tfwUnqvdUX',
 		developerGroup: 'https://www.roblox.com/communities/1041977165/No-More-Flops',
 		youtubeVideo: 'https://www.youtube.com/watch?v=14Adm06VEBE',
+		officialStatsApi: 'https://games.roblox.com/v1/games?universeIds=10004244222',
+		officialVotesApi: 'https://games.roblox.com/v1/games/votes?universeIds=10004244222',
+		rolimonsTracker: 'https://www.rolimons.com/game/89469502395769',
 	},
 }
 
