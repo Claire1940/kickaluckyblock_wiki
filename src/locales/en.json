@@ -492,122 +492,118 @@
     "lucidBlocksFarmingAndGrowth": {
       "title": "Kick a Lucky Block Run Speed",
       "displayType": "cards",
-      "intro": "Run speed is the safety valve for long kicks. If speed lags behind power, high-value runs become unstable.",
+      "intro": "Run Speed is the survival side of progression. Every longer kick creates a longer return path, so stronger weights should be paired with speed upgrades instead of treated as a late-game luxury.",
       "sections": [
         {
-          "name": "Early Run Speed Floor",
-          "description": "Set a minimum speed target early so normal route mistakes do not wipe your income loop."
+          "name": "Buy One Early Speed Upgrade",
+          "description": "After your first few placements, add Run Speed before chasing only weights so your first valuable Rare or Epic roll is less likely to be lost."
         },
         {
-          "name": "Mid-Game Speed Pairing",
-          "description": "Pair each weight jump with a speed check to keep return consistency high."
+          "name": "Match Speed With Weight Progression",
+          "description": "Weights unlock farther zones, but farther zones also lengthen the run back. Add one Run Speed upgrade after every few meaningful weight upgrades."
         },
         {
-          "name": "Late-Game Recovery Pace",
-          "description": "At long distances, even small speed upgrades can rescue otherwise failed return windows."
+          "name": "Protect Mutated Brainrots",
+          "description": "Mutation rolls only pay off after you return and place them. Better Run Speed converts lucky mutation moments into real passive income."
         },
         {
-          "name": "Rebirth Speed Rebuild",
-          "description": "After reset, recover speed quickly to avoid stalling your new progression cycle."
+          "name": "Use Routes, Not Just Raw Speed",
+          "description": "Run Speed is your stat advantage, but route discipline matters too. Learn the shortest clean return line before grinding deeper zones."
+        },
+        {
+          "name": "Rebuild Speed After Rebirth Momentum",
+          "description": "Rebirth improves long-term scaling, but claim survival still decides your next climb. Re-balance weights and speed quickly once income restarts."
         }
       ],
       "growthMilestones": [
-        "No repeated wave catches on your core route",
-        "Speed upgrade before each major distance push",
-        "Consistent returns from your current best zone",
-        "Stable speed rebuild after each rebirth"
+        "Place two or three early Brainrots, then buy a cheap Run Speed level.",
+        "Do not let Kick Power advance several zones ahead of movement speed.",
+        "During luck windows, farm only zones you can safely return from.",
+        "Practice one repeatable shortest route from each new zone.",
+        "After rebirth, restore the weight-speed balance as soon as cash flow stabilizes."
       ]
     },
     "lucidBlocksBestEarlyUnlocks": {
       "title": "Kick a Lucky Block Perfect Kick",
       "displayType": "solutionCards",
-      "intro": "Perfect-kick consistency is about timing discipline, not random spamming. Build repeatable habits for better distance results.",
+      "intro": "Perfect Kick is the timing skill that connects Kick Power, zone reach, and mutation hunting. Reliable meter control improves every farming session without needing premium boosts.",
       "priorities": [
         {
-          "name": "Watch the Timing Window",
+          "name": "Start From Your Plot",
           "priority": "Essential",
-          "description": "Focus on the release rhythm first. Reliable timing creates repeatable kick quality."
+          "description": "Stand at your plot, trigger the block, and focus on the timing bar before launch for cleaner and more repeatable setup."
         },
         {
-          "name": "Use a Stable Camera Angle",
+          "name": "Fill The Green Zone",
+          "priority": "Essential",
+          "description": "Land the meter in the green zone instead of releasing early. A full green hit gives a true Perfect Kick with maximum launch power."
+        },
+        {
+          "name": "Use The Extra Reach",
           "priority": "Very High",
-          "description": "Keeping your visual reference steady helps reduce input drift across repeated runs."
+          "description": "Use the stronger launch to target the farthest zone your current setup can safely convert into completed returns."
         },
         {
-          "name": "Sync With Return Safety",
-          "priority": "Essential",
-          "description": "Perfect distance is only valuable when it still fits your tsunami recovery route."
-        },
-        {
-          "name": "Train in Short Sessions",
+          "name": "Convert The Luck Boost",
           "priority": "High",
-          "description": "Brief focused practice improves consistency faster than long unfocused grinding."
+          "description": "The kick-specific luck bonus matters only after a successful claim, so sprint the cleanest route back and place immediately."
         },
         {
-          "name": "Record Your Best Rhythm",
+          "name": "Stack With Luck Windows",
           "priority": "High",
-          "description": "Track the timing feel that produced your most stable results and repeat it."
-        },
-        {
-          "name": "Increase Difficulty Gradually",
-          "priority": "Medium",
-          "description": "Move to longer targets only after your current perfect-kick success rate is stable."
+          "description": "During Global Luck windows, prioritize Perfect Kicks continuously so event luck, kick timing, and mutation attempts compound together."
         }
       ]
     },
     "lucidBlocksAchievementTracker": {
       "title": "Kick a Lucky Block Luck Events",
       "displayType": "cards",
-      "intro": "Luck events are temporary windows. Treat them as planned farming sessions with clear priorities.",
+      "intro": "Luck events are strongest when you are prepared before the timer starts. Keep income running, lock in your route, and convert each boosted window into completed claims.",
       "groups": [
         {
-          "name": "Event Preparation",
+          "name": "Core Event Windows",
           "achievements": [
             {
-              "title": "Route Ready",
-              "description": "Prepare a dependable return lane before event start so boosted drops are not wasted."
+              "title": "Global Luck Event",
+              "description": "When server-wide luck starts, switch from slow setup tasks to rapid repeated kicks from the strongest zone you can safely return from."
             },
             {
-              "title": "Cash Buffer",
-              "description": "Keep spending room ready for immediate weight and speed upgrades during boosted farming."
-            },
-            {
-              "title": "Slot Cleanup",
-              "description": "Free low-value plot slots before the event so strong drops can be placed immediately."
+              "title": "2x Luck Window",
+              "description": "Use 2x periods for stable loops: Perfect Kick, return, place, repeat. This is especially efficient while building early and mid-game consistency."
             }
           ]
         },
         {
-          "name": "During Event",
+          "name": "High-Value Burst Windows",
           "achievements": [
             {
-              "title": "Prioritize Safe Conversion",
-              "description": "Choose routes that reliably convert boosted drops instead of chasing risky maximum distance every run."
+              "title": "4x Luck Window",
+              "description": "A 4x window is strong enough to justify full focus on kick volume. Minimize shop downtime unless one quick upgrade keeps your loop safe."
             },
             {
-              "title": "Stack Smart Bonuses",
-              "description": "Combine event luck with your existing mutation and progression strategy for stronger returns."
+              "title": "8x Luck Window",
+              "description": "Use your best setup only: strongest reachable zone, clean route, enough Run Speed, and disciplined Perfect Kick timing."
             },
             {
-              "title": "Track Value per Minute",
-              "description": "Measure results by usable income gain, not just by occasional flashy drops."
+              "title": "Admin Abuse Event Window",
+              "description": "Treat special event spikes as premium mutation-hunting bursts and convert as many high-value rolls as possible before the window ends."
             }
           ]
         },
         {
-          "name": "Post Event Follow-Through",
+          "name": "Best Stacking Setup",
           "achievements": [
             {
-              "title": "Reinvest Quickly",
-              "description": "Convert event gains into durable upgrades before momentum fades."
+              "title": "Global Luck + Perfect Kick",
+              "description": "Use server luck and clean meter timing together so each kick has both stronger launch quality and better event conditions."
             },
             {
-              "title": "Refresh Rebirth Plan",
-              "description": "Recalculate your next rebirth window after event-driven income spikes."
+              "title": "Add Kick Power At The Right Pace",
+              "description": "Kick Power expands zone reach, but only push higher when Run Speed and route control can still secure returns."
             },
             {
-              "title": "Keep New Core Units",
-              "description": "Lock in your best event acquisitions as the base for standard non-event farming."
+              "title": "Layer Mutation Luck For Event Bursts",
+              "description": "If you are actively mutation farming, combine mutation-focused boosts with event timing rather than using them in low-value idle windows."
             }
           ]
         }
@@ -616,31 +612,31 @@
     "lucidBlocksSingleplayerAndPlatformFAQ": {
       "title": "Kick a Lucky Block Game Passes",
       "displayType": "faq",
-      "intro": "Game passes can speed specific bottlenecks. Buy only when a pass clearly improves your current stage.",
+      "intro": "Game passes can accelerate progression, but value depends on your current bottleneck. Prioritize passes that solve today’s constraint instead of buying everything at once.",
       "faqs": [
         {
-          "question": "Which pass helps early progression the most?",
-          "answer": "The best early value is usually the pass that improves your immediate cash flow or consistency, not a niche bonus you cannot leverage yet."
+          "question": "When is x2 Cash the right purchase?",
+          "answer": "It becomes strong after your plot already has reliable earners and you can recycle extra cash directly into weights, speed, and rebirth recovery."
         },
         {
-          "question": "Should I buy mutation-focused passes first?",
-          "answer": "Only after your core kick and return loop is stable. Mutation boosts are stronger when your base farming route already works."
+          "question": "Why buy x2 Brainrot Luck early to mid game?",
+          "answer": "Better base Brainrot outcomes improve every later multiplier and make each successful return more valuable while your economy is still forming."
         },
         {
-          "question": "When does x2 cash become worth it?",
-          "answer": "It becomes more efficient once you already run steady returns and can continuously reinvest into power and speed upgrades."
+          "question": "Who should prioritize x2 Mutation Luck?",
+          "answer": "Players who already reach valuable zones and actively farm event windows get the most from this pass because mutation attempts scale with strong routes."
         },
         {
-          "question": "Do game passes replace rebirth strategy?",
-          "answer": "No. Passes accelerate parts of progression, but rebirth timing and route discipline still decide long-term scaling."
+          "question": "Is VIP a first purchase for progression?",
+          "answer": "Usually no. It is better treated as an optional premium add-on after core progression passes like cash, Brainrot luck, mutation luck, or kick power."
         },
         {
-          "question": "Can free players stay competitive without passes?",
-          "answer": "Yes. A clean free-to-play route with strong timing, upgrades, and rebirth pacing can progress steadily."
+          "question": "When does x2 Kick Power offer the highest value?",
+          "answer": "It is most useful when income is stable but distance is blocking access to higher-value zones such as Mythic, Godly, Secret, and beyond."
         },
         {
-          "question": "What is the safest purchase approach?",
-          "answer": "Buy one pass at a time, measure the practical gain over a few sessions, then decide whether another pass is justified."
+          "question": "What is a practical pass-buying order?",
+          "answer": "Start with the pass that fixes your current bottleneck, then reassess after a few sessions. Free routes remain viable with good timing, speed balance, and rebirth planning."
         }
       ]
     },
