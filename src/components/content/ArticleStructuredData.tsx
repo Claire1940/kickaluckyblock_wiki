@@ -13,11 +13,12 @@ export function ArticleStructuredData({
 	locale,
 	slug,
 }: ArticleStructuredDataProps) {
-	const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.lucidblocks.wiki'
+	const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.kickaluckyblock.wiki'
 	const articleUrl =
 		locale === 'en'
 			? `${siteUrl}/${contentType}/${slug}`
 			: `${siteUrl}/${locale}/${contentType}/${slug}`
+	const listUrl = locale === 'en' ? `${siteUrl}/${contentType}` : `${siteUrl}/${locale}/${contentType}`
 
 	const breadcrumbData = {
 		'@context': 'https://schema.org',
@@ -29,12 +30,12 @@ export function ArticleStructuredData({
 				name: 'Home',
 				item: siteUrl,
 			},
-			{
-				'@type': 'ListItem',
-				position: 2,
-				name: contentType.charAt(0).toUpperCase() + contentType.slice(1),
-				item: `${siteUrl}/${contentType}`,
-			},
+				{
+					'@type': 'ListItem',
+					position: 2,
+					name: contentType.charAt(0).toUpperCase() + contentType.slice(1),
+					item: listUrl,
+				},
 			{
 				'@type': 'ListItem',
 				position: 3,
@@ -46,22 +47,22 @@ export function ArticleStructuredData({
 
 	const structuredData = {
 		'@context': 'https://schema.org',
-		'@type': 'Article',
-		headline: frontmatter.title,
-		description: frontmatter.description,
-		image: frontmatter.image || `${siteUrl}/default-article-image.jpg`,
+			'@type': 'Article',
+			headline: frontmatter.title,
+			description: frontmatter.description,
+			image: frontmatter.image || `${siteUrl}/images/hero.webp`,
 		datePublished: frontmatter.date,
 		dateModified: ('lastModified' in frontmatter && frontmatter.lastModified) || frontmatter.date,
-		author: {
-			'@type': 'Organization',
-			name: 'Lucid Blocks Wiki Team',
-		},
-		publisher: {
-			'@type': 'Organization',
-			name: 'Lucid Blocks Wiki',
-			logo: {
-				'@type': 'ImageObject',
-				url: `${siteUrl}/images/hero.webp`,
+			author: {
+				'@type': 'Organization',
+				name: 'Kick a Lucky Block Wiki Team',
+			},
+			publisher: {
+				'@type': 'Organization',
+				name: 'Kick a Lucky Block Wiki',
+				logo: {
+					'@type': 'ImageObject',
+					url: `${siteUrl}/images/hero.webp`,
 			},
 		},
 		mainEntityOfPage: {

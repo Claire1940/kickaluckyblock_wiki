@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 import { NextIntlClientProvider } from 'next-intl'
-import { getMessages, getTranslations } from 'next-intl/server'
+import { getMessages } from 'next-intl/server'
 import { notFound } from 'next/navigation'
 import { routing, type Locale } from '@/i18n/routing'
 import { buildLanguageAlternates } from '@/lib/i18n-utils'
@@ -28,6 +28,11 @@ type Props = {
 	params: Promise<{ locale: string }>
 }
 
+const SITE_NAME = 'Kick a Lucky Block Wiki'
+const SITE_TITLE = 'Kick a Lucky Block Wiki - Codes, Brainrots & Guide'
+const SITE_DESCRIPTION =
+	'Kick a Lucky Block Wiki with codes status, brainrot list, mutations, weights, rebirth tips, zones and beginner guides for the Roblox tycoon.'
+
 // 生成静态参数
 export function generateStaticParams() {
 	return routing.locales.map((locale) => ({ locale }))
@@ -36,14 +41,14 @@ export function generateStaticParams() {
 // 生成元数据
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
 	const { locale } = await params
-	const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.lucidblocks.wiki'
-
-	// 获取 SEO 翻译
-	const t = await getTranslations('seo.home')
+	const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.kickaluckyblock.wiki'
+	const canonicalUrl = locale === 'en' ? siteUrl : `${siteUrl}/${locale}`
+	const heroImage = new URL('/images/hero.webp', siteUrl).toString()
 
 	return {
-		title: t('title'),
-		description: t('description'),
+		metadataBase: new URL(siteUrl),
+		title: SITE_TITLE,
+		description: SITE_DESCRIPTION,
 		robots: {
 			index: true,
 			follow: true,
@@ -58,25 +63,24 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 		openGraph: {
 			type: 'website',
 			locale: locale,
-			url: locale === 'en' ? siteUrl : `${siteUrl}/${locale}`,
-			siteName: 'Lucid Blocks Wiki',
-			title: t('ogTitle'),
-			description: t('ogDescription'),
+			url: canonicalUrl,
+			siteName: SITE_NAME,
+			title: SITE_TITLE,
+			description: SITE_DESCRIPTION,
 			images: [
 				{
-					url: `${siteUrl}/images/hero.webp`,
-					width: 1920,
-					height: 1080,
-					alt: 'Lucid Blocks - Surreal Voxel Sandbox',
+					url: heroImage,
+					width: 1200,
+					height: 630,
+					alt: SITE_NAME,
 				},
 			],
 		},
 		twitter: {
 			card: 'summary_large_image',
-			title: t('twitterTitle'),
-			description: t('twitterDescription'),
-			images: [`${siteUrl}/images/hero.webp`],
-			creator: '@lucidblocks',
+			title: SITE_TITLE,
+			description: SITE_DESCRIPTION,
+			images: [heroImage],
 		},
 		icons: {
 			icon: [
