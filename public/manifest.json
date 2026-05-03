@@ -1,12 +1,18 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "id": "/",
+  "name": "Kick a Lucky Block Wiki - Codes, Brainrots & Guide",
+  "short_name": "Kick a Lucky Block",
+  "description": "Kick a Lucky Block Wiki with codes status, brainrot list, mutations, weights, rebirth tips, zones and beginner guides for the Roblox tycoon.",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
   "orientation": "any",
-  "theme_color": "#1a7a7a",
-  "background_color": "#0a0a0a",
+  "lang": "en",
+  "dir": "ltr",
+  "theme_color": "#fabf0f",
+  "background_color": "#fffaf0",
+  "categories": ["games", "entertainment", "utilities"],
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
