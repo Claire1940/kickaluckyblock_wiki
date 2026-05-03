@@ -1,4 +1,4 @@
-import Link from 'next/link'
+import { Link } from '@/i18n/navigation'
 import type { Metadata } from 'next'
 import { buildLanguageAlternates } from '@/lib/i18n-utils'
 import { type Locale } from '@/i18n/routing'
@@ -90,12 +90,12 @@ export default function TermsOfService() {
               and resources related to the Roblox game "Kick a Lucky Block". Our services include, but are not limited to:
             </p>
             <ul>
-              <li>Game guides and survival strategies</li>
-              <li>Crafting and Apotheosis fusion guides</li>
-              <li>Biome and world region information</li>
-              <li>Creature and enemy guides</li>
-              <li>Achievement walkthroughs</li>
-              <li>Community discussion and content</li>
+              <li>Codes status tracking and redemption references</li>
+              <li>Beginner progression and rebirth strategy guides</li>
+              <li>Brainrot value, mutation, and upgrade references</li>
+              <li>Weights, run speed, and kick power planning content</li>
+              <li>Patch updates, event windows, and official link monitoring</li>
+              <li>Community discussion and educational content</li>
             </ul>
             <p>
               <strong>Important:</strong> Kick a Lucky Block Wiki is NOT affiliated with, endorsed by, or associated with

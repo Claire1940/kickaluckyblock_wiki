@@ -1,11 +1,974 @@
 {
+  "seo": {
+    "home": {
+      "title": "Wiki Kick a Lucky Block - Kode, Brainrots & Panduan",
+      "description": "Wiki Kick a Lucky Block dengan status kode, daftar brainrot, mutasi, beban, kecepatan lari, tips rebirth, zona, dan rute pemula untuk tycoon Roblox.",
+      "keywords": "Kick a Lucky Block, wiki Kick a Lucky Block, kode Kick a Lucky Block, brainrots, mutasi, beban, rebirth, roblox",
+      "ogTitle": "Wiki Kick a Lucky Block - Kode, Brainrots & Panduan",
+      "ogDescription": "Wiki Kick a Lucky Block dengan status kode, daftar brainrot, mutasi, beban, kecepatan lari, tips rebirth, zona, dan rute pemula untuk tycoon Roblox.",
+      "twitterTitle": "Wiki Kick a Lucky Block - Kode, Brainrots & Panduan",
+      "twitterDescription": "Pantau status kode, brainrots, mutasi, beban, zona, dan strategi rebirth dalam satu pusat panduan Kick a Lucky Block yang jelas."
+    }
+  },
   "nav": {
-    "codes": "Codes",
-    "guide": "Guide",
-    "mutations": "Mutations",
+    "codes": "Kode",
+    "guide": "Panduan",
+    "mutations": "Mutasi",
     "brainrots": "Brainrots",
-    "power": "Power",
-    "shop": "Shop",
-    "leaderboard": "Leaderboard"
+    "power": "Kekuatan",
+    "shop": "Toko",
+    "leaderboard": "Papan Peringkat"
+  },
+  "common": {
+    "home": "Beranda",
+    "more": "Lainnya",
+    "playNow": "Mainkan di Roblox",
+    "switchLanguage": "Ganti Bahasa",
+    "switchTheme": "Ganti Tema",
+    "lightMode": "Mode Terang",
+    "darkMode": "Mode Gelap",
+    "notFound": "Halaman Tidak Ditemukan",
+    "notFoundDescription": "Halaman yang Anda cari tidak ada.",
+    "backToHome": "Kembali ke Beranda",
+    "relatedArticles": "Artikel Terkait",
+    "readMore": "Baca Selengkapnya",
+    "articlesComingSoon": "Artikel segera hadir"
+  },
+  "hero": {
+    "badge": "Tycoon Brainrot Roblox",
+    "title": "Wiki Kick a Lucky Block",
+    "description": "Tendang lucky blocks, roll brainrots, bertahan dari tsunami, tempatkan unit bernilai tinggi di lahan Anda, latih kekuatan tendangan, dan tingkatkan jalur pendapatan rebirth Anda.",
+    "getFreeCodesCTA": "Cek Status Kode",
+    "playOnSteamCTA": "Mainkan di Roblox",
+    "stats": {
+      "stat1": {
+        "value": "141.5M",
+        "label": "Total Kunjungan"
+      },
+      "stat2": {
+        "value": "200.7K",
+        "label": "Pemain Aktif"
+      },
+      "stat3": {
+        "value": "5.9M",
+        "label": "Favorit"
+      },
+      "stat4": {
+        "value": "96.8%",
+        "label": "Rating Persetujuan"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Siklus Gameplay Kick a Lucky Block",
+    "description": "Tendang lebih jauh, kembali dengan selamat, tempatkan brainrots yang lebih baik, dan investasikan kembali ke beban, kecepatan, dan pencapaian rebirth."
+  },
+  "tools": {
+    "title": "Kick a Lucky Block",
+    "titleHighlight": "Navigasi Modul",
+    "subtitle": "Lompat ke semua 16 modul beranda dan gulir langsung ke setiap bagian.",
+    "cards": [
+      {
+        "icon": "BookOpen",
+        "title": "Kode Kick a Lucky Block",
+        "description": "Status aktif, daftar kedaluwarsa, dan pemeriksaan menu kode"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Panduan Pemula Kick a Lucky Block",
+        "description": "Siklus inti dari tendangan pertama hingga rebirth pertama"
+      },
+      {
+        "icon": "Hammer",
+        "title": "Brainrots Kick a Lucky Block",
+        "description": "Nilai kelangkaan, peran pendapatan, dan logika penggantian"
+      },
+      {
+        "icon": "Package",
+        "title": "Beban Kick a Lucky Block",
+        "description": "Tingkatan beban, biaya, dan urutan pembelian"
+      },
+      {
+        "icon": "Home",
+        "title": "Zona Kick a Lucky Block",
+        "description": "Zona jarak dan pemetaan kualitas hadiah"
+      },
+      {
+        "icon": "Eye",
+        "title": "Mutasi Kick a Lucky Block",
+        "description": "Jenis mutasi, pengganda, dan strategi"
+      },
+      {
+        "icon": "AlertTriangle",
+        "title": "Rebirth Kick a Lucky Block",
+        "description": "Waktu reset, pengganda, dan rencana tempo"
+      },
+      {
+        "icon": "ArrowRight",
+        "title": "Bertahan dari Tsunami Kick a Lucky Block",
+        "description": "Rute pelarian dan kebiasaan kembali dengan aman"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Kecepatan Lari Kick a Lucky Block",
+        "description": "Titik batas kecepatan untuk rute yang lebih panjang"
+      },
+      {
+        "icon": "Star",
+        "title": "Tendangan Sempurna Kick a Lucky Block",
+        "description": "Disiplin waktu dan pelatihan konsistensi"
+      },
+      {
+        "icon": "ClipboardCheck",
+        "title": "Acara Keberuntungan Kick a Lucky Block",
+        "description": "Jendela keberuntungan global dan urutan penumpukan"
+      },
+      {
+        "icon": "MessageCircle",
+        "title": "Game Pass Kick a Lucky Block",
+        "description": "Kegunaan setiap pass dan kapan itu menguntungkan"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Pendapatan AFK Kick a Lucky Block",
+        "description": "Siklus uang pasif, koleksi offline, dan waktu investasi kembali"
+      },
+      {
+        "icon": "Settings",
+        "title": "Progres Tanpa Robux Kick a Lucky Block",
+        "description": "Titik pemeriksaan gratis (F2P) dari lari awal hingga rebirth"
+      },
+      {
+        "icon": "Clock",
+        "title": "Pembaruan Kick a Lucky Block",
+        "description": "Perubahan lini masa Roblox, catatan mutasi, dan prioritas acara"
+      },
+      {
+        "icon": "Shield",
+        "title": "Statistik Langsung dan Tautan Resmi Kick a Lucky Block",
+        "description": "ID resmi, metrik langsung, dan tautan komunitas terverifikasi"
+      }
+    ]
+  },
+  "modules": {
+    "lucidBlocksBeginnerGuide": {
+      "title": "Kode Kick a Lucky Block",
+      "displayType": "steps",
+      "intro": "Lacak status kode dengan jelas: kode aktif, entri kedaluwarsa, dan apakah menu penukaran dalam game saat ini tersedia.",
+      "steps": [
+        {
+          "title": "Periksa Kode Aktif Terlebih Dahulu",
+          "description": "Mulailah dengan panel status kode aktif yang sederhana. Jika tidak ada kode yang berfungsi, nyatakan dengan jelas agar pemain tidak membuang-buang percobaan."
+        },
+        {
+          "title": "Tinjau Kode yang Kedaluwarsa atau Dihapus",
+          "description": "Simpan bagian kedaluwarsa untuk mencegah pengulangan percobaan pada teks mati yang disalin dari video lama dan halaman posting ulang."
+        },
+        {
+          "title": "Konfirmasi Apakah Kotak Kode Ada",
+          "description": "Jika UI game tidak memiliki kolom entri kode, sampaikan secara langsung agar pemain mengerti mengapa setiap kode yang ditempel gagal."
+        },
+        {
+          "title": "Saring Klaim Hadiah Palsu",
+          "description": "Abaikan postingan yang menjanjikan permata, spin, atau peningkatan uang instan kecuali jika sesuai dengan alur penukaran dalam game yang sebenarnya."
+        },
+        {
+          "title": "Pantau Saluran Rilis Resmi",
+          "description": "Pantau pembaruan game Roblox dan postingan komunitas resmi untuk pengumuman peluncuran kode pertama kali."
+        }
+      ],
+      "quickTips": [
+        "Tidak ada kotak kode berarti belum ada kode yang bisa ditukarkan.",
+        "Uji ulang hanya saat UI game berubah atau ada postingan resmi yang mengumumkan kode.",
+        "Pisahkan daftar aktif dan kedaluwarsa untuk mengurangi kebingungan.",
+        "Gunakan bahasa status yang sederhana agar pemain dapat memutuskan dengan cepat dan terus bermain."
+      ]
+    },
+    "lucidBlocksApotheosisCrafting": {
+      "title": "Panduan Pemula Kick a Lucky Block",
+      "displayType": "cards",
+      "intro": "Siklus jam pertama sangat sederhana: tendang, mendarat di zona, lari dari ombak, tempatkan Brainrot Anda, dan investasikan kembali hasilnya.",
+      "cards": [
+        {
+          "name": "Tendang di Plot Anda",
+          "description": "Setiap percobaan dimulai di plot Anda. Kekuatan tendangan Anda saat ini mengontrol seberapa jauh Lucky Block dapat meluncur."
+        },
+        {
+          "name": "Dorong ke Zona yang Lebih Baik",
+          "description": "Zona yang lebih jauh membuka kolam Brainrot yang lebih baik. Bahkan peningkatan berat yang kecil dapat memindahkan Anda ke rentang hadiah yang lebih kuat."
+        },
+        {
+          "name": "Kalahkan Pengatur Waktu Tsunami",
+          "description": "Setelah setiap tendangan, kecepatan kembali sangat penting. Jika ombak mengejar Anda, percobaan tersebut tidak akan dikonversi menjadi pendapatan plot."
+        },
+        {
+          "name": "Belanja untuk Momentum",
+          "description": "Gunakan uang awal untuk berat dan kecepatan lari agar setiap percobaan berikutnya lebih aman, lebih cepat, dan lebih menguntungkan."
+        }
+      ],
+      "milestones": [
+        "Capai rute kembali yang konsisten untuk pertama kalinya",
+        "Isi slot plot awal Anda dengan penghasil pendapatan yang stabil",
+        "Buka lompatan berat signifikan pertama Anda",
+        "Rencanakan ambang batas rebirth pertama Anda"
+      ]
+    },
+    "lucidBlocksToolsAndWeapons": {
+      "title": "Brainrot Kick a Lucky Block",
+      "displayType": "itemCards",
+      "intro": "Brainrot adalah mesin ekonomi Anda. Zona yang lebih baik dan kepulangan yang lebih aman memberikan unit yang lebih baik, dan unit yang lebih baik mendanai peningkatan yang lebih cepat.",
+      "items": [
+        {
+          "name": "Brainrot Pemula",
+          "type": "Pendapatan Awal",
+          "description": "Gunakan drop awal untuk mengisi slot kosong dengan cepat. Waktu aktif slot lebih penting daripada kelangkaan sempurna di fase pertama."
+        },
+        {
+          "name": "Brainrot Tingkat Menengah",
+          "type": "Stabilitas",
+          "description": "Setelah rute Anda dapat diandalkan, ganti unit pemula yang lemah dengan unit tingkat menengah yang lebih kuat untuk memperlancar laju peningkatan."
+        },
+        {
+          "name": "Brainrot Kelangkaan Tinggi",
+          "type": "Lonjakan Kekuatan",
+          "description": "Drop Mythic ke atas mempercepat ekonomi Anda dan membuka akses lebih cepat ke lompatan berat yang mahal."
+        },
+        {
+          "name": "Brainrot Mutasi",
+          "type": "Pengganda",
+          "description": "Mutasi yang kuat dapat mengungguli unit tingkat tinggi biasa. Bandingkan nilai pendapatan sebelum menggantinya."
+        },
+        {
+          "name": "Optimalisasi Slot Plot",
+          "type": "Manajemen",
+          "description": "Pastikan penghasil pendapatan terkuat Anda tetap aktif. Keluarkan unit berpenghasilan rendah setelah akses ke zona yang lebih baik stabil."
+        },
+        {
+          "name": "Pilihan Pembawa yang Disesuaikan Risiko",
+          "type": "Kelangsungan Hidup",
+          "description": "Selama rute ombak yang sulit, utamakan kepulangan yang andal daripada percobaan jarak jauh yang terlalu berisiko."
+        },
+        {
+          "name": "Portofolio Persiapan Rebirth",
+          "type": "Transisi",
+          "description": "Sebelum rebirth, bangun set penghasil pendapatan kuat yang seimbang agar pemulihan setelah reset lebih cepat."
+        },
+        {
+          "name": "Daftar Simpan Akhir Game",
+          "type": "Akhir Game",
+          "description": "Prioritaskan unit tingkat atas atau pengganda tinggi yang tetap berskala saat biaya berat dan kecepatan naik tajam."
+        }
+      ]
+    },
+    "lucidBlocksStorageAndInventory": {
+      "title": "Beban Kick a Lucky Block",
+      "displayType": "solutionCards",
+      "intro": "Beban mendorong pertumbuhan kekuatan tendangan. Rute terbaik adalah membeli lonjakan kekuatan nyata daripada berinvestasi berlebihan pada langkah-langkah kecil.",
+      "solutions": [
+        {
+          "name": "Tongkat Kayu ke Barbel Tulang",
+          "role": "Rute Pemula",
+          "description": "Segera tinggalkan pemula bawaan dan amankan peningkatan kekuatan pertama yang berarti."
+        },
+        {
+          "name": "Blok Batu ke Pelat Tembaga",
+          "role": "Lonjakan Awal",
+          "description": "Transisi ini menentukan seberapa cepat Anda dapat secara konsisten mencapai zona yang lebih baik dan hasil bernilai lebih tinggi."
+        },
+        {
+          "name": "Beban Tingkat Besi dan Es",
+          "role": "Inti Pertengahan Game",
+          "description": "Pembelian tingkat menengah harus selaras dengan kecepatan lari Anda agar tendangan yang lebih jauh tetap dapat diambil kembali."
+        },
+        {
+          "name": "Donat ke Pelat Akhir Game",
+          "role": "Penskalaan Akhir",
+          "description": "Beban akhir sangat mahal, jadi gabungkan pengganda rebirth dan pendapatan plot yang kuat sebelum berkomitmen."
+        }
+      ],
+      "managementTips": [
+        "Beli untuk nilai ambang batas, bukan untuk label kelangkaan kosmetik.",
+        "Jangan biarkan jarak tendangan melampaui rute bertahan hidup Anda.",
+        "Jika pendapatan terhenti, tingkatkan kualitas Brainrot sebelum memaksakan tingkat beban lainnya.",
+        "Hubungkan setiap pembelian beban utama dengan target zona yang konkret."
+      ]
+    },
+    "lucidBlocksQualiaAndBaseBuilding": {
+      "title": "Zona Kick a Lucky Block",
+      "displayType": "cards",
+      "intro": "Pelajari setiap zona dari Common hingga Celestial dan bagaimana Kekuatan Tendangan mengubah Brainrot yang Anda dapatkan. Zona yang lebih tinggi memberikan Brainrot yang lebih baik, tetapi juga membuat perjalanan kembali lebih berbahaya.",
+      "cards": [
+        {
+          "name": "1. Common (Pemula)",
+          "description": "Kekuatan Tendangan: tanpa latihan atau kekuatan sangat rendah. Nilai Brainrot: tingkat terendah. Gunakan hanya untuk memulai pendapatan pasif, lalu segera pindah ke Rare setelah peningkatan beban awal."
+        },
+        {
+          "name": "2. Rare (Pemula)",
+          "description": "Kekuatan Tendangan: rendah. Nilai Brainrot: rendah hingga sedang. Ini adalah tempat latihan awal, jadi gunakan pendapatan untuk peningkatan beban dan bersiaplah untuk Epic."
+        },
+        {
+          "name": "3. Epic (Awal Game)",
+          "description": "Kekuatan Tendangan: peningkatan awal seperti rentang Barbel Tulang. Nilai Brainrot: tingkat pertama yang berarti. Tambahkan Kecepatan Lari sebelum mendorong lebih jauh untuk bertahan dalam perjalanan kembali yang lebih lama."
+        },
+        {
+          "name": "4. Legend (Awal-Pertengahan Game)",
+          "description": "Kekuatan Tendangan: kekuatan menengah setelah beban awal yang lebih kuat. Nilai Brainrot: pendapatan awal-menengah yang lebih kuat. Mulailah mengganti unit Common dan Rare yang lemah di sini."
+        },
+        {
+          "name": "5. Mythic (Pertengahan Game)",
+          "description": "Kekuatan Tendangan: tinggi. Nilai Brainrot: lonjakan pendapatan besar. Prioritaskan tarikan Mythic yang lebih kuat dan perluas kapasitas plot agar hasil yang berharga tidak terbuang sia-sia."
+        },
+        {
+          "name": "6. Godly (Pertengahan-Akhir Game)",
+          "description": "Kekuatan Tendangan: tinggi dengan beban yang lebih kuat. Nilai Brainrot: sangat tinggi, seringkali jutaan per detik. Pasangkan setiap dorongan jarak dengan peningkatan Kecepatan untuk perjalanan kembali yang lebih aman."
+        },
+        {
+          "name": "7. Secret (Akhir Game)",
+          "description": "Kekuatan Tendangan: sangat tinggi. Nilai Brainrot: hadiah besar. Jangan mengejar jarak saja; hanya dorong saat kecepatan Anda dapat bertahan dari kejaran tsunami."
+        },
+        {
+          "name": "8. Divine (Akhir Game)",
+          "description": "Kekuatan Tendangan: sangat tinggi setelah beberapa peningkatan. Nilai Brainrot: pengganda besar dengan potensi pendapatan yang kuat. Gunakan putaran Divine untuk mempersiapkan siklus mutasi akhir game."
+        },
+        {
+          "name": "9. Hacked (Akhir Game)",
+          "description": "Kekuatan Tendangan: akhir game. Nilai Brainrot: tingkat tiga teratas dengan potensi miliaran per detik. Atur waktu putaran di sekitar jendela keberuntungan untuk memaksimalkan nilai mutasi."
+        },
+        {
+          "name": "10. OG (Akhir Game+)",
+          "description": "Kekuatan Tendangan: akhir game yang sangat tinggi. Nilai Brainrot: potensi miliaran lebih. Farm OG hanya saat Kecepatan Lari dapat mendukung jarak kembali penuh."
+        },
+        {
+          "name": "11. Celestial (Akhir Game Final)",
+          "description": "Kekuatan Tendangan: tingkat tertinggi. Nilai Brainrot: nilai maksimum yang terdaftar. Paling baik digunakan dengan pengganda rebirth yang ditumpuk, kecepatan yang kuat, dan peningkatan keberuntungan aktif."
+        }
+      ],
+      "highlights": [
+        "Anggap zona sebagai tangga kemajuan dari Common hingga Celestial.",
+        "Tingkatkan Kekuatan Tendangan hanya jika Kecepatan Lari masih dapat mengamankan perjalanan kembali.",
+        "Gunakan farming zona yang lebih tinggi untuk mendukung perencanaan mutasi dan rebirth.",
+        "Ganti unit plot tingkat rendah secara agresif seiring meningkatnya kualitas zona."
+      ]
+    },
+    "lucidBlocksWorldRegions": {
+      "title": "Mutasi Kick a Lucky Block",
+      "displayType": "regionCards",
+      "intro": "Mutasi mengubah Brainrot normal menjadi versi dengan penghasilan lebih tinggi. Setiap mutasi meningkatkan pendapatan uang per detik dan nilai jual, menjadikan Brainrot yang bermutasi di zona tinggi sebagai target kemajuan terkuat.",
+      "regions": [
+        {
+          "name": "Gold (Golden)",
+          "type": "Pengganda 1,5x - 1 banding 10",
+          "description": "Meningkatkan tingkat pendapatan dan nilai jual sebesar 1,5x. Berguna di awal, tetapi ganti saat zona dan mutasi yang lebih kuat tersedia."
+        },
+        {
+          "name": "Diamond",
+          "type": "Pengganda 2x - 1 banding 25",
+          "description": "Melipatgandakan tingkat pendapatan dan nilai jual. Kuat pada Rare, Epic, dan Legend saat membangun menuju zona yang lebih dalam."
+        },
+        {
+          "name": "Plasma",
+          "type": "Pengganda 4x - 1 banding 33",
+          "description": "Meningkatkan tingkat pendapatan dan nilai jual empat kali lipat. Penjaga pertengahan game yang kuat saat mendarat di unit Mythic atau yang lebih baik."
+        },
+        {
+          "name": "Molten",
+          "type": "Pengganda 6x - 1 banding 125",
+          "description": "Meningkatkan tingkat pendapatan dan nilai jual sebesar 6x. Prioritaskan Molten pada unit Godly, Secret, dan Divine untuk penskalaan yang lebih baik."
+        },
+        {
+          "name": "Radioactive",
+          "type": "Pengganda 8x - 1 banding 333",
+          "description": "Meningkatkan tingkat pendapatan dan nilai jual sebesar 8x. Ini adalah lonjakan farming akhir game yang besar pada Brainrot yang sudah berharga."
+        },
+        {
+          "name": "Shadow",
+          "type": "Pengganda 12x - 1 banding 2.000",
+          "description": "Meningkatkan tingkat pendapatan dan nilai jual sebesar 12x. Simpan tingkat ini untuk zona bernilai tinggi karena penggandanya terlalu kuat untuk unit pemula."
+        },
+        {
+          "name": "Electrified",
+          "type": "Pengganda 16x - 1 banding 5.000",
+          "description": "Meningkatkan tingkat pendapatan dan nilai jual sebesar 16x. Sangat kuat dengan pengganda uang rebirth dalam loop akhir game."
+        },
+        {
+          "name": "Rainbow",
+          "type": "Pengganda 30x - 1 banding 20.000",
+          "description": "Meningkatkan tingkat pendapatan dan nilai jual sebesar 30x. Target mutasi teratas yang terdaftar untuk putaran Perfect Kick dan jendela keberuntungan global."
+        }
+      ]
+    },
+    "lucidBlocksCreaturesAndEnemies": {
+      "title": "Rebirth Kick a Lucky Block",
+      "displayType": "cards",
+      "intro": "Rebirth menukarkan Kick Power Anda saat ini dengan pengganda uang permanen. Ini adalah sistem progres jangka panjang utama setelah Anda mulai mencapai zona yang lebih baik secara konsisten.",
+      "creatures": [
+        {
+          "name": "Apa fungsi Rebirth?",
+          "role": "Dasar Sistem",
+          "description": "Rebirth mengatur ulang progres Kick Power Anda saat ini dan memberikan pengganda uang permanen. Rebirth selanjutnya akan menumpuk sehingga Brainrot di masa depan menghasilkan uang lebih cepat."
+        },
+        {
+          "name": "Apa syarat Rebirth pertama?",
+          "role": "Persyaratan",
+          "description": "Rebirth pertama terbuka pada 1.000 Kick Power dan memberikan pengganda uang 2x permanen saat dikonfirmasi."
+        },
+        {
+          "name": "Apa yang diatur ulang saat Anda melakukan Rebirth?",
+          "role": "Aturan Reset",
+          "description": "Progres Kick Power diatur ulang, jadi Anda harus berlatih lagi untuk jarak. Run Speed tetap menjadi peningkatan kelangsungan hidup jangka panjang yang kritis untuk rute kembali."
+        },
+        {
+          "name": "Apa yang tetap Anda miliki setelah Rebirth?",
+          "role": "Hadiah Permanen",
+          "description": "Anda tetap memiliki pengganda uang, yang berlaku untuk penghasilan di masa depan dan membantu Anda membeli kembali beban yang lebih kuat lebih cepat setelah setiap siklus."
+        },
+        {
+          "name": "Haruskah Anda segera melakukan Rebirth pada 1.000 Kick Power?",
+          "role": "Waktu",
+          "description": "Rebirth awal dapat mempercepat progres, tetapi seringkali lebih baik untuk menembus satu atau dua zona lebih dalam terlebih dahulu agar pengganda memperkuat basis pendapatan yang lebih baik."
+        },
+        {
+          "name": "Bagaimana cara kerja Lewati Rebirth seharga 99 Robux?",
+          "role": "Opsi Berbayar",
+          "description": "Lewati Rebirth memungkinkan Anda mengatur ulang tanpa memenuhi syarat Kick Power saat ini. Ini menghemat waktu, sementara progres normal tetap menjadi inti dari siklus peningkatan."
+        },
+        {
+          "name": "Apa strategi Rebirth terbaik?",
+          "role": "Praktik Terbaik",
+          "description": "Sebelum melakukan rebirth, isi plot Anda dengan Brainrot yang lebih baik, tingkatkan Run Speed, dan amankan beban yang lebih kuat agar setiap reset kembali ke zona tinggi lebih cepat."
+        },
+        {
+          "name": "Kesalahan umum saat Rebirth",
+          "role": "Kesalahan yang Harus Dihindari",
+          "description": "Hindari mengatur ulang dengan plot yang lemah, mengabaikan Run Speed, atau menimbun uang secara berlebihan alih-alih meningkatkan pendapatan dan progres beban."
+        }
+      ]
+    },
+    "lucidBlocksMobilityGear": {
+      "title": "Bertahan Hidup dari Tsunami Kick a Lucky Block",
+      "displayType": "itemCards",
+      "intro": "Setelah setiap tendangan, kejaran tsunami menentukan apakah Brainrot Anda menjadi keuntungan nyata atau menghilang. Semakin jauh Lucky Block Anda mendarat, semakin penting Run Speed.",
+      "items": [
+        {
+          "name": "Tendang Lucky Block",
+          "type": "Langkah 1",
+          "description": "Mulai setiap larian dari plot atau area aman Anda. Jarak pendaratan menentukan kualitas zona dan tingkatan Brainrot yang bisa Anda dapatkan."
+        },
+        {
+          "name": "Perhatikan jarak pendaratan",
+          "type": "Langkah 2",
+          "description": "Gunakan zona yang dicapai untuk memperkirakan risiko kembali. Common hingga Legend lebih mudah, sementara Mythic ke atas menciptakan kejaran yang lebih lama dan lebih berisiko."
+        },
+        {
+          "name": "Menjadi Brainrot dan segera kembali",
+          "type": "Langkah 3",
+          "description": "Setelah Brainrot muncul, segera kembali ke tempat aman. Penundaan dapat menyia-nyiakan hasil yang bagus sebelum disimpan."
+        },
+        {
+          "name": "Hindari gelombang tsunami",
+          "type": "Langkah 4",
+          "description": "Langsung kembali dengan sedikit penyimpangan. Jika gelombang mengejar Anda sebelum kembali, Brainrot yang didapat akan hilang."
+        },
+        {
+          "name": "Tempatkan Brainrot di plot Anda",
+          "type": "Langkah 5",
+          "description": "Setelah mencapai tempat aman, segera tempatkan unit tersebut agar mulai menghasilkan uang pasif untuk progres."
+        },
+        {
+          "name": "Tingkatkan Run Speed sebelum melangkah lebih jauh",
+          "type": "Langkah 6",
+          "description": "Gunakan pendapatan untuk peningkatan Speed di dekat Toko Beban seiring bertambahnya jarak. Kick Power yang lebih tinggi tanpa Speed yang sepadan tidaklah stabil."
+        },
+        {
+          "name": "Seimbangkan Kick Power dan Speed",
+          "type": "Langkah 7",
+          "description": "Jangan mengejar Secret, Divine, Hacked, OG, atau Celestial hanya melalui kekuatan murni. Konversi yang aman lebih baik daripada kekalahan berulang di zona tinggi."
+        },
+        {
+          "name": "Gunakan Rebirth dan mutasi untuk mengurangi larian yang sia-sia",
+          "type": "Langkah 8",
+          "description": "Bangun pengganda permanen melalui Rebirth dan prioritaskan hasil tingkatan tinggi yang bermutasi yang dapat Anda bawa kembali dengan aman."
+        }
+      ],
+      "unlockMilestones": [
+        "Pasangkan setiap dorongan jarak besar dengan peningkatan Run Speed.",
+        "Segera kembali setelah setiap putaran untuk mengurangi kerugian akibat gelombang.",
+        "Lakukan farming di zona tinggi hanya jika konsistensi kembali tetap stabil.",
+        "Gunakan pengganda rebirth untuk mempercepat penskalaan Speed dan beban yang aman."
+      ]
+    },
+    "lucidBlocksFarmingAndGrowth": {
+      "title": "Kecepatan Lari Kick a Lucky Block",
+      "displayType": "cards",
+      "intro": "Kecepatan Lari adalah sisi kelangsungan hidup dari progres. Setiap tendangan yang lebih jauh menciptakan jalur kembali yang lebih panjang, jadi beban yang lebih kuat harus dipasangkan dengan peningkatan kecepatan, bukan dianggap sebagai kemewahan di akhir permainan.",
+      "sections": [
+        {
+          "name": "Beli Satu Peningkatan Kecepatan Awal",
+          "description": "Setelah beberapa penempatan pertama Anda, tambahkan Kecepatan Lari sebelum hanya mengejar beban agar gulungan Rare atau Epic berharga pertama Anda lebih kecil kemungkinannya untuk hilang."
+        },
+        {
+          "name": "Sesuaikan Kecepatan Dengan Progres Beban",
+          "description": "Beban membuka zona yang lebih jauh, tetapi zona yang lebih jauh juga memperpanjang perjalanan kembali. Tambahkan satu peningkatan Kecepatan Lari setelah setiap beberapa peningkatan beban yang berarti."
+        },
+        {
+          "name": "Lindungi Brainrots yang Bermutasi",
+          "description": "Gulungan mutasi hanya membuahkan hasil setelah Anda kembali dan menempatkannya. Kecepatan Lari yang lebih baik mengubah momen mutasi keberuntungan menjadi pendapatan pasif yang nyata."
+        },
+        {
+          "name": "Gunakan Rute, Bukan Hanya Kecepatan Murni",
+          "description": "Kecepatan Lari adalah keunggulan statistik Anda, tetapi disiplin rute juga penting. Pelajari jalur kembali bersih terpendek sebelum melakukan grinding di zona yang lebih dalam."
+        },
+        {
+          "name": "Bangun Kembali Kecepatan Setelah Momentum Rebirth",
+          "description": "Rebirth meningkatkan penskalaan jangka panjang, tetapi kelangsungan hidup klaim tetap menentukan pendakian Anda berikutnya. Seimbangkan kembali beban dan kecepatan dengan cepat setelah pendapatan dimulai kembali."
+        }
+      ],
+      "growthMilestones": [
+        "Tempatkan dua atau tiga Brainrots awal, lalu beli level Kecepatan Lari yang murah.",
+        "Jangan biarkan Kick Power maju beberapa zona di depan kecepatan gerakan.",
+        "Selama jendela keberuntungan, farming hanya di zona yang dapat Anda kembalikan dengan aman.",
+        "Latih satu rute terpendek yang dapat diulang dari setiap zona baru.",
+        "Setelah rebirth, pulihkan keseimbangan beban-kecepatan segera setelah arus kas stabil."
+      ]
+    },
+    "lucidBlocksBestEarlyUnlocks": {
+      "title": "Perfect Kick Kick a Lucky Block",
+      "displayType": "solutionCards",
+      "intro": "Perfect Kick adalah keterampilan pengaturan waktu yang menghubungkan Kick Power, jangkauan zona, dan perburuan mutasi. Kontrol meteran yang andal meningkatkan setiap sesi farming tanpa memerlukan boost premium.",
+      "priorities": [
+        {
+          "name": "Mulai Dari Plot Anda",
+          "priority": "Essential",
+          "description": "Berdirilah di plot Anda, picu blok, dan fokuslah pada bilah waktu sebelum peluncuran untuk pengaturan yang lebih bersih dan dapat diulang."
+        },
+        {
+          "name": "Isi Zona Hijau",
+          "priority": "Essential",
+          "description": "Mendaratkan meteran di zona hijau alih-alih melepaskannya lebih awal. Hit hijau penuh memberikan Perfect Kick sejati dengan kekuatan peluncuran maksimum."
+        },
+        {
+          "name": "Gunakan Jangkauan Ekstra",
+          "priority": "Very High",
+          "description": "Gunakan peluncuran yang lebih kuat untuk menargetkan zona terjauh yang dapat dikonversi oleh pengaturan Anda saat ini menjadi pengembalian yang selesai dengan aman."
+        },
+        {
+          "name": "Konversi Boost Keberuntungan",
+          "priority": "High",
+          "description": "Bonus keberuntungan khusus tendangan hanya penting setelah klaim berhasil, jadi larilah di rute terbersih kembali dan segera tempatkan."
+        },
+        {
+          "name": "Tumpuk Dengan Jendela Keberuntungan",
+          "priority": "High",
+          "description": "Selama jendela Keberuntungan Global, prioritaskan Perfect Kick secara terus-menerus sehingga keberuntungan acara, waktu tendangan, dan upaya mutasi bergabung menjadi satu."
+        }
+      ]
+    },
+    "lucidBlocksAchievementTracker": {
+      "title": "Acara Keberuntungan Kick a Lucky Block",
+      "displayType": "cards",
+      "intro": "Acara keberuntungan paling kuat saat Anda bersiap sebelum penghitung waktu dimulai. Jaga agar pendapatan tetap berjalan, kunci rute Anda, dan konversi setiap jendela yang ditingkatkan menjadi klaim yang selesai.",
+      "groups": [
+        {
+          "name": "Jendela Acara Inti",
+          "achievements": [
+            {
+              "title": "Acara Keberuntungan Global",
+              "description": "Saat keberuntungan di seluruh server dimulai, beralihlah dari tugas pengaturan yang lambat ke tendangan berulang yang cepat dari zona terkuat yang dapat Anda kembalikan dengan aman."
+            },
+            {
+              "title": "Jendela Keberuntungan 2x",
+              "description": "Gunakan periode 2x untuk putaran yang stabil: Perfect Kick, kembali, tempatkan, ulangi. Ini sangat efisien saat membangun konsistensi awal dan pertengahan permainan."
+            }
+          ]
+        },
+        {
+          "name": "Jendela Burst Bernilai Tinggi",
+          "achievements": [
+            {
+              "title": "Jendela Keberuntungan 4x",
+              "description": "Jendela 4x cukup kuat untuk membenarkan fokus penuh pada volume tendangan. Minimalkan waktu henti toko kecuali satu peningkatan cepat menjaga putaran Anda tetap aman."
+            },
+            {
+              "title": "Jendela Keberuntungan 8x",
+              "description": "Gunakan pengaturan terbaik Anda saja: zona terjauh yang dapat dijangkau, rute bersih, Kecepatan Lari yang cukup, dan waktu Perfect Kick yang disiplin."
+            },
+            {
+              "title": "Jendela Acara Admin Abuse",
+              "description": "Anggap lonjakan acara khusus sebagai burst perburuan mutasi premium dan konversi sebanyak mungkin gulungan bernilai tinggi sebelum jendela berakhir."
+            }
+          ]
+        },
+        {
+          "name": "Pengaturan Penumpukan Terbaik",
+          "achievements": [
+            {
+              "title": "Keberuntungan Global + Perfect Kick",
+              "description": "Gunakan keberuntungan server dan waktu meteran yang bersih secara bersamaan sehingga setiap tendangan memiliki kualitas peluncuran yang lebih kuat dan kondisi acara yang lebih baik."
+            },
+            {
+              "title": "Tambahkan Kick Power Dengan Kecepatan Yang Tepat",
+              "description": "Kick Power memperluas jangkauan zona, tetapi hanya dorong lebih tinggi ketika Kecepatan Lari dan kontrol rute masih dapat mengamankan pengembalian."
+            },
+            {
+              "title": "Lapisi Keberuntungan Mutasi Untuk Burst Acara",
+              "description": "Jika Anda aktif melakukan farming mutasi, gabungkan boost yang berfokus pada mutasi dengan waktu acara daripada menggunakannya di jendela idle bernilai rendah."
+            }
+          ]
+        }
+      ]
+    },
+    "lucidBlocksSingleplayerAndPlatformFAQ": {
+      "title": "Game Pass Kick a Lucky Block",
+      "displayType": "faq",
+      "intro": "Game pass dapat mempercepat progres, tetapi nilainya bergantung pada hambatan Anda saat ini. Prioritaskan pass yang menyelesaikan kendala hari ini daripada membeli semuanya sekaligus.",
+      "faqs": [
+        {
+          "question": "Kapan x2 Cash menjadi pembelian yang tepat?",
+          "answer": "Ini menjadi kuat setelah lahan Anda memiliki penghasil yang andal dan Anda dapat mendaur ulang uang ekstra langsung ke weight, speed, dan pemulihan rebirth."
+        },
+        {
+          "question": "Mengapa membeli x2 Brainrot Luck di awal hingga pertengahan permainan?",
+          "answer": "Hasil dasar Brainrot yang lebih baik meningkatkan setiap pengganda di kemudian hari dan membuat setiap kepulangan yang berhasil menjadi lebih berharga saat ekonomi Anda masih terbentuk."
+        },
+        {
+          "question": "Siapa yang harus memprioritaskan x2 Mutation Luck?",
+          "answer": "Pemain yang sudah mencapai zona berharga dan aktif melakukan farming di jendela event mendapatkan hasil maksimal dari pass ini karena upaya mutasi berskala dengan rute yang kuat."
+        },
+        {
+          "question": "Apakah VIP merupakan pembelian pertama untuk progres?",
+          "answer": "Biasanya tidak. Lebih baik dianggap sebagai tambahan premium opsional setelah pass progres inti seperti cash, Brainrot luck, mutation luck, atau kick power."
+        },
+        {
+          "question": "Kapan x2 Kick Power menawarkan nilai tertinggi?",
+          "answer": "Ini paling berguna ketika pendapatan stabil tetapi jarak menghalangi akses ke zona bernilai lebih tinggi seperti Mythic, Godly, Secret, dan seterusnya."
+        },
+        {
+          "question": "Bagaimana urutan pembelian pass yang praktis?",
+          "answer": "Mulailah dengan pass yang memperbaiki hambatan Anda saat ini, lalu nilai kembali setelah beberapa sesi. Rute gratis tetap layak dengan waktu yang tepat, keseimbangan speed, dan perencanaan rebirth."
+        }
+      ]
+    },
+    "lucidBlocksSteamDeckAndController": {
+      "title": "Pendapatan AFK Kick a Lucky Block",
+      "displayType": "faq",
+      "intro": "Rute AFK terkuat adalah mengunci Brainrot bernilai tinggi terlebih dahulu, lalu mengubah uang idle menjadi pencapaian weight dan speed yang berarti.",
+      "faqs": [
+        {
+          "question": "Bagaimana saya harus bersiap sebelum pelatihan AFK dimulai?",
+          "answer": "Tempatkan Brainrot terbaik Anda di lahan sebelum pergi. Pendapatan pasif Anda hanya akan meningkat jika penghasil yang kuat sudah aktif."
+        },
+        {
+          "question": "Pencapaian weight mana yang paling penting untuk pertumbuhan AFK?",
+          "answer": "Rute praktisnya adalah Wooden Stick, Bone Barbell seharga $7.500, Copper Plate seharga $500.000, Iron Plate seharga $7,2 juta, dan Ice Barbell seharga $350 juta."
+        },
+        {
+          "question": "Kapan saya harus mengambil uang offline?",
+          "answer": "Ambil secara teratur daripada membiarkan batasnya penuh. Pengambilan yang sering mengubah pendapatan yang tersimpan menjadi progres yang lebih cepat dan lari yang lebih aman."
+        },
+        {
+          "question": "Apa yang harus saya beli pertama kali setelah mengambil pendapatan AFK?",
+          "answer": "Gunakan untuk upgrade berikutnya yang mengubah hasil, biasanya weight untuk zona yang lebih jauh atau run speed untuk melindungi kepulangan yang berharga."
+        },
+        {
+          "question": "Brainrot mana yang harus mendapatkan upgrade terlebih dahulu?",
+          "answer": "Prioritaskan Brainrot tingkat atas atau yang bermutasi. Slot lahan yang terbatas membuat pengeluaran besar pada unit Common dan Rare yang lemah menjadi tidak efisien."
+        },
+        {
+          "question": "Apa siklus uang AFK yang bisa diulang?",
+          "answer": "Kick, kembali dengan aman, tempatkan Brainrot yang lebih baik, ambil pendapatan offline, investasikan kembali, dan ulangi. Loop itu melipatgandakan cash pasif dan kick power."
+        }
+      ]
+    },
+    "lucidBlocksSettingsAndAccessibility": {
+      "title": "Progres Tanpa Robux Kick a Lucky Block",
+      "displayType": "cards",
+      "intro": "Progres tanpa Robux berhasil jika setiap fase memiliki satu tujuan yang jelas: membangun pendapatan, mencapai titik batas weight, melindungi kepulangan, lalu rebirth pada waktu yang tepat.",
+      "settings": [
+        {
+          "name": "Langkah 1: Mulai Dengan Lari Kick Cepat",
+          "type": "Bangun Basis Pendapatan",
+          "description": "Kick, kembali sebelum tsunami, dan tempatkan setiap Brainrot dengan cepat. Di menit-menit awal, konsistensi mengalahkan kelangkaan yang sempurna."
+        },
+        {
+          "name": "Langkah 2: Beli Weight Berguna Pertama",
+          "type": "Kekuatan Awal",
+          "description": "Gunakan Wooden Stick gratis terlebih dahulu, lalu menabung untuk Bone Barbell seharga $7.500 untuk meningkatkan jangkauan zona awal tanpa boost berbayar."
+        },
+        {
+          "name": "Langkah 3: Menabung untuk Lompatan Lebih Besar",
+          "type": "Perencanaan Pencapaian",
+          "description": "Setelah Bone Barbell, prioritaskan lompatan yang lebih besar seperti Copper Plate seharga $500.000, lalu Iron Plate dan Ice Barbell sebagai target jangka panjang."
+        },
+        {
+          "name": "Langkah 4: Tambahkan Run Speed Sebelum Melangkah Terlalu Jauh",
+          "type": "Keamanan Rute",
+          "description": "Saat zona semakin jauh, run speed melindungi kepulangan yang langka dan mencegah kehilangan Brainrot yang berharga selama tekanan gelombang."
+        },
+        {
+          "name": "Langkah 5: Upgrade Hanya Brainrot Terbaik",
+          "type": "Efisiensi Cash",
+          "description": "Ganti penghasil rendah saat unit yang lebih kuat tiba, dan fokuskan uang upgrade pada Brainrot dengan kelangkaan tinggi atau yang bermutasi."
+        },
+        {
+          "name": "Langkah 6: Rebirth pada Waktu yang Tepat",
+          "type": "Pengganda Jangka Panjang",
+          "description": "Rebirth pertama terbuka pada 1.000 Kick Power dengan pengganda cash 2x. Rebirth saat basis Anda dapat dibangun kembali dengan cepat, bukan hanya saat ambang batas muncul."
+        }
+      ]
+    },
+    "lucidBlocksUpdatesAndPatchNotes": {
+      "title": "Pembaruan Kick a Lucky Block",
+      "displayType": "timeline",
+      "intro": "Lacak pencapaian Roblox dan event bertanggal untuk memutuskan apa yang akan di-farming terlebih dahulu setiap kali meta progres langsung berubah.",
+      "entries": [
+        {
+          "type": "Roblox API",
+          "title": "2 Mei 2026: Listing Roblox Diperbarui",
+          "description": "API game resmi mencatat pembaruan pada 2026-05-02T16:52:37Z. Gunakan stempel waktu ini sebagai penanda publik terbaru sebelum memeriksa kembali event aktif dan perubahan toko."
+        },
+        {
+          "type": "Mutation Meta",
+          "title": "2 Mei 2026: Cakupan Mutasi Diperluas",
+          "description": "Set mutasi publik saat ini mencakup Gold, Diamond, Plasma, Molten, Radioactive, Shadow, Electrified, dan Rainbow, dengan pengganda mulai dari 1,5x hingga 30x."
+        },
+        {
+          "type": "Event Preview",
+          "title": "26 April 2026: Sinyal Event Update 1",
+          "description": "Listing event Update 1 mempromosikan Brainrot baru, Mutasi baru, dan pratinjau Admin Abuse, yang menunjukkan aktivitas terbatas waktu yang didorong oleh keberuntungan."
+        },
+        {
+          "type": "Release",
+          "title": "7 April 2026: Peluncuran Publik Roblox",
+          "description": "Kick a Lucky Block diluncurkan di Roblox dengan loop inti menendang, melarikan diri dari tsunami, menempatkan Brainrot untuk mendapatkan uang, membeli weight, dan berkembang dengan rebirth."
+        }
+      ]
+    },
+    "lucidBlocksCrashFixAndTroubleshooting": {
+      "title": "Statistik Langsung dan Tautan Resmi Kick a Lucky Block",
+      "displayType": "steps",
+      "intro": "Gunakan ID resmi dan metrik platform langsung untuk memastikan Anda melacak pengalaman yang benar dan saluran yang aktif.",
+      "steps": [
+        {
+          "title": "Konfirmasi Identitas Game Resmi",
+          "description": "Gunakan root place ID 89469502395769 dan universe ID 10004244222 untuk memverifikasi halaman pengalaman resmi Kick a Lucky Block."
+        },
+        {
+          "title": "Pantau Pemain Saat Ini dan Kapasitas",
+          "description": "Pemain saat ini sekitar 217.831 dengan ukuran server maksimal 5, yang membantu Anda mengukur jendela farming aktif dan tekanan server."
+        },
+        {
+          "title": "Pantau Kunjungan dan Favorit",
+          "description": "Total publik terbaru mencakup 142.117.343 kunjungan dan 5.907.791 favorit, berguna untuk melacak momentum setelah patch."
+        },
+        {
+          "title": "Tinjau Persetujuan dan Sinyal Vote",
+          "description": "Persetujuan sekitar 96,76% berdasarkan 285.768 upvote dan 9.573 downvote dari endpoint vote Roblox."
+        },
+        {
+          "title": "Simpan Saluran Resmi",
+          "description": "Simpan akses cepat ke halaman game Roblox, grup pengembang No More Flops, dan Discord resmi untuk pengumuman dan pelacakan acara."
+        },
+        {
+          "title": "Periksa Penanda Riwayat Sebelum Sesi",
+          "description": "Gunakan tanggal Dibuat 7 April 2026 dan tanggal pembaruan terakhir 2 Mei 2026 sebagai referensi dasar saat meninjau perubahan progres."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Kick a Lucky Block",
+    "titleHighlight": "FAQ",
+    "subtitle": "Jawaban cepat untuk status kode, pilihan progres, dan pelacakan pembaruan.",
+    "questions": [
+      {
+        "question": "Apakah ada kode aktif saat ini?",
+        "answer": "Status kode dapat berubah sewaktu-waktu, jadi pengecekan tercepat adalah melalui modul kode di halaman utama ditambah pengumuman resmi game."
+      },
+      {
+        "question": "Apa yang harus saya tingkatkan lebih dulu: berat atau kecepatan lari?",
+        "answer": "Jika pengembalian Anda gagal, prioritaskan kecepatan. Jika rute Anda stabil, prioritaskan berat untuk membuka zona yang lebih baik."
+      },
+      {
+        "question": "Kapan saya harus melakukan rebirth?",
+        "answer": "Lakukan rebirth saat rute Anda saat ini sudah stabil dan pengganda reset Anda akan mempercepat siklus berikutnya secara nyata."
+      },
+      {
+        "question": "Bagaimana cara farming Brainrot yang lebih baik secara konsisten?",
+        "answer": "Dorong jarak secara bertahap, jaga keamanan pengembalian tetap tinggi, dan ganti unit berpenghasilan rendah segera setelah opsi yang lebih kuat stabil."
+      },
+      {
+        "question": "Apakah saya butuh game pass untuk progres dengan baik?",
+        "answer": "Tidak. Jalur free-to-play yang disiplin dengan waktu peningkatan yang tepat dapat maju dengan stabil melalui semua sistem utama."
+      },
+      {
+        "question": "Di mana saya harus mengikuti pembaruan?",
+        "answer": "Gunakan halaman resmi Roblox, grup pengembang, dan komunitas Discord untuk alur pembaruan yang paling langsung."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Siap untuk Siklus Peningkatan Berikutnya?",
+    "description": "Gunakan navigasi modul untuk langsung menuju sistem yang ingin Anda optimalkan selanjutnya.",
+    "joinCommunity": "Gabung Discord",
+    "joinGame": "Main di Roblox"
+  },
+  "footer": {
+    "title": "Kick a Lucky Block Wiki",
+    "description": "Panduan terfokus untuk status kode, Brainrot, mutasi, berat, rute kecepatan, dan perencanaan rebirth.",
+    "resources": "Sumber Daya",
+    "community": "Komunitas",
+    "legal": "Hukum",
+    "discord": "Server Discord",
+    "twitter": "Video YouTube",
+    "steamCommunity": "Grup Pengembang",
+    "steamStore": "Halaman Resmi Roblox",
+    "about": "Tentang",
+    "privacy": "Kebijakan Privasi",
+    "terms": "Ketentuan Layanan",
+    "copyrightNotice": "Pemberitahuan Hak Cipta",
+    "copyright": "© 2026 Kick a Lucky Block Wiki. Tidak berafiliasi dengan Roblox Corporation atau No More Flops.",
+    "disclaimer": "Semua merek dagang adalah milik pemiliknya masing-masing. Ini adalah proyek pengetahuan penggemar yang independen."
+  },
+  "pages": {
+    "codes": {
+      "title": "Kode Kick a Lucky Block",
+      "description": "Pantau kode yang berfungsi, kode kedaluwarsa, dan status menu penukaran di satu tempat.",
+      "metaTitle": "Kode Kick a Lucky Block - Status Aktif dan Kedaluwarsa",
+      "metaDescription": "Periksa status kode Kick a Lucky Block terbaru, langkah penukaran, dan tempat pengumuman hadiah baru.",
+      "categoryLabel": "PELACAK KODE",
+      "whatIs": "Apa itu Kode?",
+      "whatIsDescription": "Kode adalah hadiah promosi terbatas yang dibagikan oleh pengembang. Bagian ini melacak apakah penukaran saat ini tersedia, entri mana yang aktif, dan mana yang telah kedaluwarsa.",
+      "why": "Mengapa harus cek kode dulu?",
+      "whySteps": {
+        "step1Title": "Klaim Boost Gratis dengan Cepat",
+        "step1Description": "Gunakan hadiah aktif untuk mempercepat pertumbuhan kekuatan awal dan pendapatan plot tanpa grind tambahan.",
+        "step2Title": "Hindari Entri yang Kedaluwarsa",
+        "step2Description": "Lihat status aktif dan kedaluwarsa dengan jelas agar Anda tidak membuang waktu mencoba entri yang sudah mati.",
+        "step3Title": "Ikuti Rilis Resmi",
+        "step3Description": "Pantau di mana hadiah baru diumumkan sehingga Anda dapat menukarkannya sebelum kedaluwarsa."
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Kode"
+    },
+    "guide": {
+      "title": "Panduan Kick a Lucky Block",
+      "description": "Rute pemula, prioritas progres, dan loop permainan harian untuk pertumbuhan lebih cepat.",
+      "metaTitle": "Panduan Kick a Lucky Block - Progres Pemula hingga Lanjutan",
+      "metaDescription": "Pelajari progres Kick a Lucky Block yang efisien, dari tendangan pertama hingga loop rebirth dan pendapatan yang dioptimalkan.",
+      "categoryLabel": "PANDUAN PROGRES",
+      "whatIs": "Apa itu bagian Panduan?",
+      "whatIsDescription": "Bagian panduan menjelaskan urutan progres praktis: apa yang harus dilakukan di sesi pertama Anda, kapan harus melatih power, cara menyeimbangkan risiko dan pendapatan, serta cara menghindari hambatan umum.",
+      "why": "Mengapa menggunakan panduan terstruktur?",
+      "whySteps": {
+        "step1Title": "Mulai Dengan Loop yang Tepat",
+        "step1Description": "Ikuti urutan pembukaan yang terbukti sehingga setiap menit meningkatkan power, jarak, dan ekonomi.",
+        "step2Title": "Kurangi Trial-and-Error",
+        "step2Description": "Lewati peningkatan yang tidak efisien dengan menggunakan prioritas yang teruji untuk pelatihan, penempatan, dan waktu rebirth.",
+        "step3Title": "Berkembang Menuju Endgame",
+        "step3Description": "Transisi dari farming dasar ke rute bernilai lebih tinggi dengan lebih sedikit reset dan perencanaan yang lebih baik."
+      },
+      "featured": "Unggulan & Esensial",
+      "all": "Semua Panduan"
+    },
+    "mutations": {
+      "title": "Mutasi Kick a Lucky Block",
+      "description": "Efek mutasi, dampak nilai, dan strategi roll praktis berdasarkan tahap progres.",
+      "metaTitle": "Mutasi Kick a Lucky Block - Perbandingan Efek dan Nilai",
+      "metaDescription": "Bandingkan efek mutasi dan dampak nilai di Kick a Lucky Block untuk memutuskan apa yang harus disimpan, di-reroll, atau diganti.",
+      "categoryLabel": "INDEKS MUTASI",
+      "whatIs": "Apa itu Mutasi?",
+      "whatIsDescription": "Mutasi adalah pengubah khusus yang mengubah output Brainrot dan nilai kelangkaan. Dampaknya bisa besar, jadi memahami prioritas adalah kunci pertumbuhan jangka panjang yang stabil.",
+      "why": "Mengapa melacak nilai mutasi?",
+      "whySteps": {
+        "step1Title": "Simpan Roll Berdampak Tinggi",
+        "step1Description": "Identifikasi hasil mutasi mana yang layak mendapatkan slot jangka panjang daripada penggantian segera.",
+        "step2Title": "Rencanakan Reroll Lebih Baik",
+        "step2Description": "Gunakan tingkatan nilai untuk memutuskan kapan reroll sepadan dengan sumber daya dan kapan harus menahan.",
+        "step3Title": "Sesuaikan dengan Tujuan Tahapan",
+        "step3Description": "Gunakan target mutasi yang berbeda untuk akselerasi awal, konsistensi midgame, dan penskalaan late-game."
+      },
+      "featured": "Unggulan & Esensial",
+      "all": "Semua Mutasi"
+    },
+    "brainrots": {
+      "title": "Brainrot Kick a Lucky Block",
+      "description": "Daftar Brainrot, perbandingan kelangkaan/nilai, dan strategi manajemen slot.",
+      "metaTitle": "Brainrot Kick a Lucky Block - Daftar, Nilai, dan Pilihan Terbaik",
+      "metaDescription": "Jelajahi Brainrot Kick a Lucky Block berdasarkan kelangkaan dan nilai untuk memilih penempatan dan target penggantian yang lebih baik.",
+      "categoryLabel": "DATABASE BRAINROT",
+      "whatIs": "Apa itu Brainrot?",
+      "whatIsDescription": "Brainrot adalah unit koleksi inti yang menghasilkan pendapatan di plot Anda. Kelangkaan, status mutasi, dan pilihan penempatan mereka secara langsung memengaruhi kecepatan penghasilan Anda.",
+      "why": "Mengapa mengoptimalkan pilihan Brainrot?",
+      "whySteps": {
+        "step1Title": "Tingkatkan Pendapatan Plot",
+        "step1Description": "Prioritaskan unit yang menghasilkan keuntungan lebih kuat untuk setiap slot di tahap progres Anda saat ini.",
+        "step2Title": "Ganti Performa Rendah",
+        "step2Description": "Gunakan perbandingan nilai untuk menghapus unit yang lemah lebih awal dan membebaskan ruang untuk opsi yang lebih baik.",
+        "step3Title": "Bangun Inti yang Stabil",
+        "step3Description": "Buat barisan seimbang yang mendukung pendapatan harian dan peningkatan mutasi jangka panjang."
+      },
+      "featured": "Unggulan & Esensial",
+      "all": "Semua Brainrot"
+    },
+    "power": {
+      "title": "Power Kick a Lucky Block",
+      "description": "Beban, breakpoint power tendangan, peningkatan kecepatan, dan ritme rebirth.",
+      "metaTitle": "Power Kick a Lucky Block - Beban, Penskalaan Tendangan, dan Waktu Rebirth",
+      "metaDescription": "Rencanakan pertumbuhan power Kick a Lucky Block dengan peningkatan beban, breakpoint jarak, dan waktu rebirth yang praktis.",
+      "categoryLabel": "PROGRES POWER",
+      "whatIs": "Apa itu progres Power?",
+      "whatIsDescription": "Progres Power mencakup peningkatan beban, penskalaan jarak tendangan, dan efisiensi gerakan. Perencanaan breakpoint yang baik memungkinkan Anda mencapai zona dan hadiah yang lebih baik lebih cepat.",
+      "why": "Mengapa mengoptimalkan rute power?",
+      "whySteps": {
+        "step1Title": "Capai Jarak Lebih Baik Lebih Cepat",
+        "step1Description": "Gunakan checkpoint peningkatan yang jelas untuk membuka zona yang lebih jauh tanpa pengeluaran yang sia-sia.",
+        "step2Title": "Seimbangkan Power dan Kecepatan",
+        "step2Description": "Hindari investasi berlebihan pada satu statistik dengan menyesuaikan pilihan pelatihan dengan rute farming Anda saat ini.",
+        "step3Title": "Rebirth di Waktu yang Lebih Baik",
+        "step3Description": "Gunakan waktu rebirth berbasis ambang batas untuk menjaga momentum dan menghindari reset yang tidak efisien."
+      },
+      "featured": "Unggulan & Esensial",
+      "all": "Semua Panduan Power"
+    },
+    "shop": {
+      "title": "Toko Kick a Lucky Block",
+      "description": "Prioritas toko, pembukaan fitur hadiah/perdagangan, dan urutan pengeluaran yang cerdas.",
+      "metaTitle": "Toko Kick a Lucky Block - Urutan Pembelian Terbaik dan Prioritas Ekonomi",
+      "metaDescription": "Gunakan daftar prioritas toko Kick a Lucky Block yang praktis untuk peningkatan, fitur hadiah, dan perencanaan ekonomi.",
+      "categoryLabel": "PERENCANAAN TOKO",
+      "whatIs": "Apa itu bagian Toko?",
+      "whatIsDescription": "Bagian toko berfokus pada urutan pembelian, nilai peningkatan, dan pembukaan utilitas seperti fungsi terkait hadiah dan perdagangan. Ini membantu mengurangi pengeluaran yang sia-sia.",
+      "why": "Mengapa merencanakan pembelian?",
+      "whySteps": {
+        "step1Title": "Belanjakan pada ROI Tertinggi Terlebih Dahulu",
+        "step1Description": "Prioritaskan peningkatan yang segera memperbaiki siklus pendapatan alih-alih pembelian kosmetik berdampak rendah.",
+        "step2Title": "Buka Fitur Utilitas",
+        "step2Description": "Pantau kapan harus membuka fitur hadiah dan fungsi lainnya agar mendukung kemajuan, bukan menundanya.",
+        "step3Title": "Lindungi Ekonomi Anda",
+        "step3Description": "Hindari jalur pengeluaran buntu yang memperlambat pertumbuhan kekuatan dan persiapan reset Anda."
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Panduan Toko"
+    },
+    "leaderboard": {
+      "title": "Papan Peringkat Kick a Lucky Block",
+      "description": "Pola papan peringkat, pengaturan pemain top, dan perencanaan pendakian.",
+      "metaTitle": "Papan Peringkat Kick a Lucky Block - Strategi Pendakian dan Pola Meta Teratas",
+      "metaDescription": "Pelajari tren papan peringkat Kick a Lucky Block untuk meningkatkan keputusan pengaturan dan mendaki peringkat dengan lebih efisien.",
+      "categoryLabel": "META PAPAN PERINGKAT",
+      "whatIs": "Apa itu bagian Papan Peringkat?",
+      "whatIsDescription": "Bagian ini melacak permainan yang berfokus pada papan peringkat: sinyal peringkat, pola kemajuan pemain top, dan penyesuaian pengaturan yang membantu Anda mendaki secara konsisten.",
+      "why": "Mengapa menganalisis tren papan peringkat?",
+      "whySteps": {
+        "step1Title": "Pelajari Tolok Ukur Kompetitif",
+        "step1Description": "Lihat apa yang diprioritaskan oleh pemain terbaik sehingga Anda dapat membandingkan pengaturan Anda dengan standar yang terbukti.",
+        "step2Title": "Sempurnakan Jalur Build Anda",
+        "step2Description": "Gunakan pola peringkat untuk menyesuaikan keputusan mutasi, kekuatan, dan plot Anda dengan tujuan yang jelas.",
+        "step3Title": "Mendaki Dengan Konsistensi",
+        "step3Description": "Ubah data papan peringkat menjadi rutinitas yang dapat diulang, bukan eksperimen acak."
+      },
+      "featured": "Unggulan & Penting",
+      "all": "Semua Panduan Papan Peringkat"
+    }
   }
 }

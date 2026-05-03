@@ -1,28 +1,28 @@
 {
   "seo": {
     "home": {
-      "title": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "description": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros, finales y consejos de supervivencia para la aventura surrealista de sandbox de vóxeles en Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, fabricación, biomas, logros, supervivencia, Steam",
-      "ogTitle": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "ogDescription": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros, finales y consejos de supervivencia para la aventura surrealista de sandbox de vóxeles en Steam.",
-      "twitterTitle": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "twitterDescription": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros y consejos de supervivencia para el sandbox surrealista de vóxeles en Steam."
+      "title": "Wiki de Kick a Lucky Block - Códigos, Brainrots y Guía",
+      "description": "Wiki de Kick a Lucky Block con estado de códigos, lista de Brainrot, mutaciones, pesos, velocidad de carrera, consejos de renacimiento, zonas y rutas para principiantes del tycoon de Roblox.",
+      "keywords": "Kick a Lucky Block, Kick a Lucky Block wiki, códigos de Kick a Lucky Block, brainrots, mutaciones, pesos, renacimiento, roblox",
+      "ogTitle": "Wiki de Kick a Lucky Block - Códigos, Brainrots y Guía",
+      "ogDescription": "Wiki de Kick a Lucky Block con estado de códigos, lista de Brainrot, mutaciones, pesos, velocidad de carrera, consejos de renacimiento, zonas y rutas para principiantes del tycoon de Roblox.",
+      "twitterTitle": "Wiki de Kick a Lucky Block - Códigos, Brainrots y Guía",
+      "twitterDescription": "Sigue el estado de los códigos, brainrots, mutaciones, pesos, zonas y estrategias de renacimiento en un solo centro de guías de Kick a Lucky Block."
     }
   },
   "nav": {
-    "codes": "Codes",
-    "guide": "Guide",
-    "mutations": "Mutations",
+    "codes": "Códigos",
+    "guide": "Guía",
+    "mutations": "Mutaciones",
     "brainrots": "Brainrots",
-    "power": "Power",
-    "shop": "Shop",
-    "leaderboard": "Leaderboard"
+    "power": "Poder",
+    "shop": "Tienda",
+    "leaderboard": "Tabla de posiciones"
   },
   "common": {
     "home": "Inicio",
     "more": "Más",
-    "playNow": "Juega en Steam",
+    "playNow": "Jugar en Roblox",
     "switchLanguage": "Cambiar idioma",
     "switchTheme": "Cambiar tema",
     "lightMode": "Modo claro",
@@ -32,902 +32,943 @@
     "backToHome": "Volver al inicio",
     "relatedArticles": "Artículos relacionados",
     "readMore": "Leer más",
-    "articlesComingSoon": "Artículos próximamente"
+    "articlesComingSoon": "Próximamente más artículos"
   },
   "hero": {
-    "badge": "__PROTECTED_c0b0161c__ Sandbox de supervivencia de vóxeles",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explora biomas oníricos, fusiona objetos con Apotheosis, construye libremente y sobrevive a criaturas extrañas en este sandbox surrealista de mundo abierto en Steam.",
-    "getFreeCodesCTA": "Explorar guía de fabricación",
-    "playOnSteamCTA": "Jugar en Steam",
+    "badge": "Tycoon de Brainrot en Roblox",
+    "title": "Wiki de Kick a Lucky Block",
+    "description": "Patea Lucky Blocks, obtén brainrots, sobrevive a tsunamis, coloca unidades de alto valor en tu parcela, entrena tu poder de patada y escala tus ingresos por renacimiento.",
+    "getFreeCodesCTA": "Ver estado de códigos",
+    "playOnSteamCTA": "Jugar en Roblox",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Jugadores en línea"
+        "value": "141.5M",
+        "label": "Visitas totales"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Pico de CCU"
+        "value": "200.7K",
+        "label": "Jugadores activos"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Reseñas positivas"
+        "value": "5.9M",
+        "label": "Favoritos"
       },
       "stat4": {
-        "value": "12 de mar. de 2026",
-        "label": "Fecha de lanzamiento"
+        "value": "96.8%",
+        "label": "Calificación de aprobación"
       }
     }
   },
   "gameFeature": {
-    "title": "Jugabilidad de Lucid Blocks",
-    "description": "Explora biomas surrealistas, fusiona objetos con Apotheosis y sobrevive a criaturas extrañas en este sandbox de vóxeles onírico en Steam."
+    "title": "Bucle de juego de Kick a Lucky Block",
+    "description": "Patea más lejos, regresa a salvo, coloca mejores brainrots y reinvierte en peso, velocidad e hitos de renacimiento."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Recursos",
-    "subtitle": "Todo lo que necesitas para explorar, fabricar y sobrevivir en Lucid Blocks",
+    "title": "Kick a Lucky Block",
+    "titleHighlight": "Navegación de módulos",
+    "subtitle": "Salta a los 16 módulos de la página de inicio y desplázate directamente a cada sección.",
     "cards": [
       {
         "icon": "BookOpen",
-        "title": "Guía para principiantes",
-        "description": "Primeros pasos, exploración y progresión inicial"
+        "title": "Códigos de Kick a Lucky Block",
+        "description": "Estado activo, lista de expirados y verificaciones del menú de códigos"
       },
       {
         "icon": "Sparkles",
-        "title": "Fabricación de Apotheosis",
-        "description": "Sistema de fusión libre y recetas iniciales"
+        "title": "Guía para principiantes de Kick a Lucky Block",
+        "description": "Bucle principal desde la primera patada hasta el primer renacimiento"
       },
       {
         "icon": "Hammer",
-        "title": "Herramientas y armas",
-        "description": "Pico de escarcha, Azrael, __PROTECTED_6a765cb2__ y más"
+        "title": "Brainrots de Kick a Lucky Block",
+        "description": "Valor de rareza, rol de ingresos y lógica de reemplazo"
       },
       {
         "icon": "Package",
-        "title": "Almacenamiento e inventario",
-        "description": "Cubos de suministros, gabinetes y almacenamiento de Qualia"
+        "title": "Pesos de Kick a Lucky Block",
+        "description": "Niveles de peso, costos y orden de compra"
       },
       {
         "icon": "Home",
-        "title": "Qualia y construcción de bases",
-        "description": "Qualia personal y configuración de la base"
+        "title": "Zonas de Kick a Lucky Block",
+        "description": "Zonas de distancia y mapeo de calidad de recompensas"
       },
       {
         "icon": "Eye",
-        "title": "Regiones del mundo",
-        "description": "Fog Meadow, Ciénaga de la Esencia y más"
+        "title": "Mutaciones de Kick a Lucky Block",
+        "description": "Tipos de mutaciones, multiplicadores y estrategia"
       },
       {
         "icon": "AlertTriangle",
-        "title": "Criaturas y enemigos",
-        "description": "Maniquíes, arañas y cómo sobrevivir"
+        "title": "Renacimiento en Kick a Lucky Block",
+        "description": "Momento de reinicio, multiplicadores y plan de ritmo"
       },
       {
         "icon": "ArrowRight",
-        "title": "Equipo de movilidad",
-        "description": "__PROTECTED_6a765cb2__, Guante planeador, __PROTECTED_163b9bec__"
+        "title": "Supervivencia al Tsunami en Kick a Lucky Block",
+        "description": "Rutas de escape y hábitos de retorno seguro"
       },
       {
         "icon": "TrendingUp",
-        "title": "Cultivo y crecimiento",
-        "description": "Progresión de semillas y recolección de materiales"
+        "title": "Velocidad de carrera en Kick a Lucky Block",
+        "description": "Puntos de ruptura de velocidad para rutas más largas"
       },
       {
         "icon": "Star",
-        "title": "Mejores desbloqueos iniciales",
-        "description": "Mejoras prioritarias para la primera hora"
+        "title": "Patada perfecta en Kick a Lucky Block",
+        "description": "Disciplina de tiempo y entrenamiento de consistencia"
       },
       {
         "icon": "ClipboardCheck",
-        "title": "Seguimiento de logros",
-        "description": "Los 19 logros y condiciones de Steam"
+        "title": "Eventos de suerte en Kick a Lucky Block",
+        "description": "Ventanas de suerte global y orden de acumulación"
       },
       {
         "icon": "MessageCircle",
-        "title": "Preguntas frecuentes del modo un jugador",
-        "description": "Preguntas sobre plataformas, precio, cooperativo e idiomas"
+        "title": "Game Passes de Kick a Lucky Block",
+        "description": "Qué hace cada pase y cuándo vale la pena"
       },
       {
         "icon": "Gamepad2",
-        "title": "Steam Deck y controles",
-        "description": "Configuración de Proton 9.0.4 y consejos para el control"
+        "title": "Ingresos AFK en Kick a Lucky Block",
+        "description": "Bucles de dinero pasivo, recolección offline y tiempos de reinversión"
       },
       {
         "icon": "Settings",
-        "title": "Ajustes y accesibilidad",
-        "description": "Ocultar manos, __PROTECTED_38625270__ y opciones de pantalla"
+        "title": "Progresión sin Robux en Kick a Lucky Block",
+        "description": "Puntos de control para jugadores gratuitos desde las carreras iniciales hasta el renacimiento"
       },
       {
         "icon": "Clock",
-        "title": "Actualizaciones y notas del parche",
-        "description": "Correcciones recientes y notas de la hoja de ruta"
+        "title": "Actualizaciones de Kick a Lucky Block",
+        "description": "Cambios en la cronología de Roblox, notas de mutaciones y prioridades de eventos"
       },
       {
         "icon": "Shield",
-        "title": "Solución de cierres inesperados",
-        "description": "Verificación de __PROTECTED_38625270__, ruta de registros y reporte de errores"
+        "title": "Estadísticas en vivo y enlaces oficiales de Kick a Lucky Block",
+        "description": "IDs oficiales, métricas en vivo y enlaces comunitarios verificados"
       }
     ]
   },
   "modules": {
     "lucidBlocksBeginnerGuide": {
-      "title": "Guía para principiantes de Lucid Blocks",
+      "title": "Códigos de Kick a Lucky Block",
       "displayType": "steps",
-      "intro": "Comienza aprendiendo cómo se conectan la exploración, la fusión y la progresión. Lucid Blocks premia la experimentación, por lo que el progreso temprano proviene de recolectar materiales inusuales, probar combinaciones y desbloquear tu Qualia personal.",
+      "intro": "Sigue el estado de los códigos claramente: códigos activos, entradas vencidas y si el menú de canje en el juego está disponible actualmente.",
       "steps": [
         {
-          "title": "Explora antes de comprometerte",
-          "description": "Camina hacia el exterior, mina bloques comunes y conserva cualquier botín extraño que encuentres. El progreso inicial se trata menos de misiones fijas y más de descubrir en qué se pueden convertir los materiales."
+          "title": "Primero revisa los códigos activos",
+          "description": "Comienza con un panel de estado de códigos activos sencillo. Si no hay códigos que funcionen, indícalo claramente para que los jugadores no pierdan intentos."
         },
         {
-          "title": "Desbloquea tu Qualia personal pronto",
-          "description": "Tu Qualia personal es uno de los hitos iniciales más importantes. Te brinda un lugar confiable para reagruparte y construir a su alrededor."
+          "title": "Revisa los códigos vencidos o eliminados",
+          "description": "Mantén una sección de vencidos para evitar reintentos constantes con cadenas inactivas copiadas de videos viejos y páginas de reenvío."
         },
         {
-          "title": "Usa Osmio para progresar rápido al inicio",
-          "description": "El Osmio es uno de los materiales iniciales más útiles. Una ruta inicial popular es combinar Osmio con palos para fabricar un Pico de Escarcha para minar rápido."
+          "title": "Confirma si existe un cuadro de códigos",
+          "description": "Si la interfaz del juego no tiene un campo para ingresar códigos, menciónalo directamente para que los jugadores entiendan por qué fallan todos los códigos pegados."
         },
         {
-          "title": "Registra las buenas fusiones",
-          "description": "Lleva un registro de las combinaciones exitosas en tu diario. Lucid Blocks tiene muchas rutas de fusión posibles, por lo que anotar los resultados útiles ahorra mucho tiempo."
+          "title": "Filtra las falsas promesas de recompensas",
+          "description": "Ignora las publicaciones que prometen gemas, giros o aumentos de dinero instantáneos a menos que coincidan con un flujo de canje real en el juego."
+        },
+        {
+          "title": "Sigue los canales oficiales de lanzamientos",
+          "description": "Monitorea las actualizaciones del juego en Roblox y las publicaciones oficiales de la comunidad para cualquier anuncio de lanzamiento de códigos por primera vez."
         }
       ],
       "quickTips": [
-        "Apotheosis no requiere una lista de recetas fija.",
-        "La generación de mundo infinito significa que moverte hacia arriba o hacia lo profundo puede revelar materiales completamente diferentes.",
-        "Las herramientas de movimiento y el equipo de utilidad se convierten en una gran mejora de calidad de vida una vez que comienzas a desbloquearlos.",
-        "Perderse al principio es normal, pero las herramientas útiles, el almacenamiento y las opciones de movimiento crecen como bola de nieve rápidamente una vez que tus primeras buenas fusiones empiezan a funcionar."
+        "Si no hay cuadro de códigos, significa que aún no se puede canjear ningún código.",
+        "Vuelve a probar solo cuando cambie la interfaz del juego o una publicación oficial anuncie códigos.",
+        "Mantén separadas las listas de activos y vencidos para reducir la confusión.",
+        "Usa un lenguaje de estado sencillo para que los jugadores decidan rápido y sigan jugando."
       ]
     },
     "lucidBlocksApotheosisCrafting": {
-      "title": "Artesanía de Apotheosis en Lucid Blocks",
+      "title": "Guía para principiantes de Kick a Lucky Block",
       "displayType": "cards",
-      "intro": "Apotheosis es el sistema de fusión sin restricciones del juego. En lugar de memorizar un libro de recetas tradicional, combinas materiales, observas el resultado y construyes tu propio conocimiento de artesanía con el tiempo.",
+      "intro": "El ciclo de la primera hora es simple: patea, aterriza en una zona, escapa de la ola, coloca tu Brainrot y reinvierte las ganancias.",
       "cards": [
         {
-          "name": "Fusión de forma libre",
-          "description": "Apotheosis te permite fusionar diferentes objetos sin necesidad de seguir una lista de recetas fija."
+          "name": "Patea en tu parcela",
+          "description": "Cada carrera comienza en tu parcela. Tu potencia de patada actual controla qué tan lejos puede viajar el Lucky Block."
         },
         {
-          "name": "Múltiples resultados útiles",
-          "description": "Diferentes materiales suelen orientarse hacia ciertos resultados. Los descubrimientos de la comunidad muestran que insumos similares pueden derivar en herramientas prácticas, almacenamiento o mejoras de combate."
+          "name": "Avanza hacia mejores zonas",
+          "description": "Las zonas más lejanas abren mejores grupos de Brainrot. Incluso las mejoras pequeñas de peso pueden llevarte a rangos de recompensa más altos."
         },
         {
-          "name": "Artesanía basada en el diario",
-          "description": "La mejor manera de aprender Apotheosis es registrar tus combinaciones exitosas. Tu diario se convertirá rápidamente en tu propia referencia de artesanía."
+          "name": "Vence el temporizador del tsunami",
+          "description": "Después de cada patada, la velocidad de regreso importa. Si la ola te alcanza, la carrera no se convierte en ingresos para la parcela."
         },
         {
-          "name": "Fusiones iniciales probadas por la comunidad",
-          "description": "Ejemplos iniciales populares incluyen Osmio más Palo para un Pico de Escarcha, Palo más Apéndice de Tungsteno para Azrael, y Azrael más Magnetita para el Estoque de Zarcillo."
+          "name": "Gasta para ganar impulso",
+          "description": "Usa el dinero inicial en pesas y velocidad de carrera para que cada siguiente intento sea más seguro, rápido y rentable."
         }
       ],
       "milestones": [
-        "Fusionar un objeto",
-        "Fusionar una alimaña",
-        "Fusionar un artefacto divino"
+        "Alcanza tu primera ruta de regreso constante",
+        "Llena tus primeros espacios de la parcela con generadores estables",
+        "Desbloquea tu primer aumento de peso significativo",
+        "Planifica tu primer umbral de renacimiento"
       ]
     },
     "lucidBlocksToolsAndWeapons": {
-      "title": "Herramientas y armas de Lucid Blocks",
+      "title": "Kick a Lucky Block Brainrots",
       "displayType": "itemCards",
-      "intro": "Lucid Blocks mezcla equipo de utilidad oficial con armas iniciales descubiertas por la comunidad. La mejor configuración suele ser una mezcla de minería rápida, travesía segura y una opción de combate confiable.",
+      "intro": "Los Brainrots son el motor de tu economía. Mejores zonas y retornos más seguros otorgan mejores unidades, y las mejores unidades financian mejoras más rápidas.",
       "items": [
         {
-          "name": "Pico de Escarcha",
-          "type": "Herramienta de minería",
-          "description": "Un pico inicial rápido y económico hecho de Osmio y Palo. Los jugadores lo usan para acelerar la recolección inicial de materiales."
+          "name": "Brainrots Iniciales",
+          "type": "Ingresos Iniciales",
+          "description": "Usa los botines iniciales para llenar espacios vacíos rápidamente. El tiempo de actividad de los espacios importa más que la rareza perfecta en la primera fase."
         },
         {
-          "name": "Azrael",
-          "type": "Arma inicial",
-          "description": "Una ruta práctica para un arma inicial fabricada con un Palo y un Apéndice de Tungsteno."
+          "name": "Brainrots de Nivel Medio",
+          "type": "Estabilidad",
+          "description": "Una vez que tu ruta sea confiable, reemplaza los iniciales débiles con unidades de nivel medio más fuertes para suavizar el ritmo de mejora."
         },
         {
-          "name": "Estoque de Zarcillo",
-          "type": "Arma mejorada",
-          "description": "Una continuación más fuerte creada al combinar Azrael con Magnetita. Es una de las rutas de combate inicial-media más útiles compartidas por los jugadores."
+          "name": "Brainrots de Alta Rareza",
+          "type": "Pico de Poder",
+          "description": "Los botines míticos y superiores aceleran tu economía y abren un acceso más rápido a saltos de peso costosos."
         },
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Herramienta de movilidad",
-          "description": "Un objeto de travesía oficial que mejora enormemente el movimiento y la exploración vertical."
+          "name": "Brainrots Mutados",
+          "type": "Multiplicador",
+          "description": "Una mutación fuerte puede superar a una unidad simple de nivel superior. Compara el valor de los ingresos antes de reemplazarla."
         },
         {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Herramienta de movilidad",
-          "description": "Un objeto de movimiento oficial que ayuda a cubrir terreno de forma más segura y eficiente."
+          "name": "Optimización de Espacios de Parcela",
+          "type": "Gestión",
+          "description": "Mantén activos a tus mayores generadores. Rota las unidades de bajo rendimiento una vez que el acceso a mejores zonas sea estable."
         },
         {
-          "name": "Varita de Bola",
-          "type": "Arma de utilidad",
-          "description": "Un objeto de utilidad a distancia oficial que expande tus opciones de combate y acertijos."
+          "name": "Selecciones de Transporte Ajustadas al Riesgo",
+          "type": "Supervivencia",
+          "description": "Durante rutas de oleadas difíciles, prioriza los retornos confiables sobre los intentos de larga distancia demasiado arriesgados."
         },
         {
-          "name": "Equipo de buceo",
-          "type": "Equipo de travesía",
-          "description": "Un objeto de utilidad oficial para llegar a áreas que de otro modo ralentizarían la exploración."
+          "name": "Portafolio de Preparación para Rebirth",
+          "type": "Transición",
+          "description": "Antes del rebirth, construye un conjunto equilibrado de generadores fuertes para que la recuperación tras el reinicio sea más rápida."
         },
         {
-          "name": "Explosivos",
-          "type": "Daño de utilidad",
-          "description": "Destacados oficialmente como parte del conjunto de herramientas principal y útiles para atravesar amenazas u obstáculos."
+          "name": "Lista de Conservación para el Final del Juego",
+          "type": "Etapa Final",
+          "description": "Prioriza unidades de nivel superior o con multiplicadores altos que sigan escalando cuando los costos de peso y velocidad aumenten drásticamente."
         }
       ]
     },
     "lucidBlocksStorageAndInventory": {
-      "title": "Almacenamiento e inventario de Lucid Blocks",
+      "title": "Pesas de Kick a Lucky Block",
       "displayType": "solutionCards",
-      "intro": "La presión del inventario comienza temprano en Lucid Blocks, por lo que construir almacenamiento debería ser uno de tus primeros objetivos. Ya destacan varias soluciones probadas por jugadores reales.",
+      "intro": "Las pesas impulsan el crecimiento del poder de patada. La mejor ruta es comprar picos de poder reales en lugar de invertir de más en pasos pequeños.",
       "solutions": [
         {
-          "name": "Cubo de Almacenamiento",
-          "role": "Almacenamiento tipo cofre",
-          "description": "Los Cubos de Almacenamiento son una de las soluciones prácticas más tempranas y los jugadores los tratan como el contenedor principal tipo cofre del juego."
+          "name": "De Palo de Madera a Barra de Hueso",
+          "role": "Ruta Inicial",
+          "description": "Abandona el inicial predeterminado rápidamente y asegura tu primer aumento de poder significativo."
         },
         {
-          "name": "Gabinete",
-          "role": "Almacenamiento de base simple",
-          "description": "Los gabinetes son otra opción de almacenamiento confirmada. Una receta inicial compartida usa 1 de Madera cortada y 1 de Cuerda."
+          "name": "De Bloque de Piedra a Disco de Cobre",
+          "role": "Pico Inicial",
+          "description": "Esta transición decide qué tan pronto podrás alcanzar consistentemente mejores zonas y retornos de mayor valor."
         },
         {
-          "name": "Qualia personal",
-          "role": "Centro de almacenamiento a largo plazo",
-          "description": "Una vez desbloqueada, tu Qualia personal se convierte en un lugar natural para organizar materiales, fabricar en paz y expandir la configuración de tu base."
+          "name": "Pesas de Nivel Hierro e Hielo",
+          "role": "Núcleo de Mitad de Juego",
+          "description": "Las compras de nivel medio deben alinearse con tu velocidad de carrera para que las patadas más largas sigan siendo recuperables."
         },
         {
-          "name": "Seguimiento en el diario",
-          "role": "Eficiencia de inventario",
-          "description": "Registrar combinaciones útiles en tu diario reduce el desperdicio de materiales y facilita mucho la gestión del inventario."
+          "name": "De Dona a Discos de Etapa Final",
+          "role": "Escalado Tardío",
+          "description": "Las pesas tardías son costosas, así que combina los multiplicadores de rebirth y los ingresos fuertes de la parcela antes de comprometerte."
         }
       ],
       "managementTips": [
-        "Prioriza una opción de almacenamiento confiable antes de acumular botines raros.",
-        "Construye alrededor de tu Qualia personal una vez que esté disponible.",
-        "Mantén separados los materiales de artesanía, las herramientas de combate y el equipo de movimiento para que las mejoras sean más fáciles de planificar.",
-        "Usa tu diario como parte de la gestión del inventario, no solo para descubrir recetas."
+        "Compra por el valor del punto de ruptura, no por las etiquetas cosméticas de rareza.",
+        "Nunca dejes que la distancia de la patada supere tu ruta de supervivencia.",
+        "Si los ingresos se estancan, mejora la calidad de los Brainrot antes de forzar otro nivel de peso.",
+        "Vincula cada compra importante de pesas a un objetivo de zona concreto."
       ]
     },
     "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Qualia y construcción de bases en Lucid Blocks",
+      "title": "Zonas de Kick a Lucky Block",
       "displayType": "cards",
-      "intro": "La Qualia es uno de los hitos de progresión más importantes en Lucid Blocks. Te brinda un espacio personal para reagruparte, almacenar materiales y convertir gradualmente el progreso de exploración en una verdadera base de operaciones.",
+      "intro": "Aprende cada zona desde Común hasta Celestial y cómo el Poder de Patada cambia el Brainrot que obtienes. Las zonas más altas otorgan mejores Brainrots, pero también hacen que el regreso sea más peligroso.",
       "cards": [
         {
-          "name": "Qualia personal",
-          "description": "Desbloquear una Qualia es un hito inicial que te da un lugar más confiable al cual regresar mientras exploras el mundo exterior."
+          "name": "1. Común (Inicio)",
+          "description": "Poder de Patada: sin entrenamiento o poder muy bajo. Valor de Brainrot: nivel más bajo. Úsalo solo para iniciar ingresos pasivos, luego muévete a Raro rápidamente tras las primeras mejoras de peso."
         },
         {
-          "name": "Construcción centrada en el almacenamiento",
-          "description": "Muchos jugadores comienzan usando su Qualia como un centro de almacenamiento antes de convertirla en una base más grande con espacios organizados para artesanía y construcción."
+          "name": "2. Raro (Inicio)",
+          "description": "Poder de Patada: bajo. Valor de Brainrot: de bajo a moderado. Esta es una parada de entrenamiento temprana, así que usa los ingresos para mejoras de peso y prepárate para Épico."
         },
         {
-          "name": "Construcción creativa de hogares",
-          "description": "Lucid Blocks admite la construcción creativa, y los jugadores ya están usando los espacios de Qualia para crear casas y diseños personalizados."
+          "name": "3. Épico (Juego Temprano)",
+          "description": "Poder de Patada: mejoras iniciales como el rango de Pesas de Hueso. Valor de Brainrot: primer nivel significativo. Añade algo de Velocidad de Carrera antes de avanzar más para sobrevivir a regresos más largos."
         },
         {
-          "name": "Centro de progresión",
-          "description": "Una base sólida te ayuda a separar el botín de exploración, los materiales de artesanía, las semillas, las herramientas y el equipo de movilidad para planificar mejor tus próximas mejoras."
+          "name": "4. Legendario (Juego Temprano-Medio)",
+          "description": "Poder de Patada: poder medio tras pesas iniciales más fuertes. Valor de Brainrot: ganancias iniciales-medias más fuertes. Comienza a reemplazar unidades Comunes y Raras débiles aquí."
+        },
+        {
+          "name": "5. Mítico (Juego Medio)",
+          "description": "Poder de Patada: alto. Valor de Brainrot: gran salto en ingresos. Prioriza obtener Míticos más fuertes y expande la capacidad de la parcela para no desperdiciar tiradas valiosas."
+        },
+        {
+          "name": "6. Divino (Juego Medio-Tardío)",
+          "description": "Poder de Patada: alto con pesas más fuertes. Valor de Brainrot: muy alto, a menudo millones por segundo. Combina cada avance de distancia con mejoras de Velocidad para regresos más seguros."
+        },
+        {
+          "name": "7. Secreto (Juego Tardío)",
+          "description": "Poder de Patada: muy alto. Valor de Brainrot: recompensas masivas. No busques solo la distancia; solo avanza cuando tu velocidad pueda sobrevivir a la persecución del tsunami."
+        },
+        {
+          "name": "8. Divinidad (Juego Tardío)",
+          "description": "Poder de Patada: muy alto tras múltiples mejoras. Valor de Brainrot: grandes multiplicadores con fuerte potencial de ingresos. Usa las incursiones de Divinidad para preparar ciclos de mutación del juego final."
+        },
+        {
+          "name": "9. Hackeado (Juego Final)",
+          "description": "Poder de Patada: juego final. Valor de Brainrot: nivel entre los tres mejores con potencial de miles de millones por segundo. Sincroniza tus intentos con ventanas de suerte para maximizar el valor de la mutación."
+        },
+        {
+          "name": "10. OG (Juego Final+)",
+          "description": "Poder de Patada: juego final muy alto. Valor de Brainrot: potencial de más de mil millones. Farmea OG solo cuando la Velocidad de Carrera pueda soportar toda la distancia de regreso."
+        },
+        {
+          "name": "11. Celestial (Juego Final Definitivo)",
+          "description": "Poder de Patada: nivel más alto. Valor de Brainrot: valor máximo listado. Se aprovecha mejor con multiplicadores de renacimiento acumulados, gran velocidad y potenciadores de suerte activos."
         }
       ],
       "highlights": [
-        "Entrar en una qualia",
-        "Almacenar materiales de forma segura",
-        "Expandir de la utilidad a la decoración",
-        "Usar el espacio de la base para apoyar la artesanía y el cultivo"
+        "Trata las zonas como una escalera de progresión de Común a Celestial.",
+        "Aumenta el Poder de Patada solo cuando la Velocidad de Carrera aún pueda asegurar el regreso.",
+        "Usa el farmeo en zonas altas para apoyar la planificación de mutaciones y renacimientos.",
+        "Reemplaza agresivamente las unidades de parcela de nivel bajo a medida que mejora la calidad de la zona."
       ]
     },
     "lucidBlocksWorldRegions": {
-      "title": "Regiones del mundo de Lucid Blocks",
+      "title": "Mutaciones de Kick a Lucky Block",
       "displayType": "regionCards",
-      "intro": "Lucid Blocks utiliza generación de mundo infinito, por lo que los jugadores siguen descubriendo nuevos entornos y estructuras. Algunos lugares con nombre ya aparecen en los logros y en las discusiones de la comunidad.",
+      "intro": "Las mutaciones convierten un Brainrot normal en una versión con mayores ganancias. Cada mutación aumenta tanto el ingreso de dinero por segundo como el valor de venta, convirtiendo a los Brainrots mutados de zonas altas en los objetivos de progresión más fuertes.",
       "regions": [
         {
-          "name": "Fog Meadow",
-          "type": "Área destacada por la comunidad",
-          "description": "Fog Meadow ya es conocida entre los jugadores como un área tensa asociada con amenazas ocultas y encuentros peligrosos."
+          "name": "Oro (Dorado)",
+          "type": "Multiplicador de 1.5x - 1 en 10",
+          "description": "Aumenta la tasa de ganancia y el valor de venta en 1.5x. Útil al principio, pero reemplázalo cuando haya zonas y mutaciones más fuertes disponibles."
         },
         {
-          "name": "Línea ley de Tiamana",
-          "type": "Punto de referencia de descubrimiento",
-          "description": "La línea ley de tiamana es lo suficientemente importante como para tener su propio hito de logro, lo que la convierte en uno de los descubrimientos mundiales con nombre más claros hasta ahora."
+          "name": "Diamante",
+          "type": "Multiplicador de 2x - 1 en 25",
+          "description": "Duplica la tasa de ganancia y el valor de venta. Fuerte en Raro, Épico y Legendario mientras avanzas hacia zonas más profundas."
         },
         {
-          "name": "Clonaqualia",
-          "type": "Espacio de construcción",
-          "description": "Los jugadores ya están usando Clonaqualia como un lugar para construir casas, almacenar materiales y experimentar con diseños más permanentes."
+          "name": "Plasma",
+          "type": "Multiplicador de 4x - 1 en 33",
+          "description": "Cuadruplica la tasa de ganancia y el valor de venta. Una opción sólida para el juego medio cuando cae en unidades Míticas o mejores."
         },
         {
-          "name": "Ciénaga de Esencia",
-          "type": "Área de recolección",
-          "description": "La Ciénaga de Esencia está siendo compartida por los jugadores como una ubicación útil para recolectar recursos, especialmente para luchar contra slimes y ganar experiencia."
+          "name": "Fundido",
+          "type": "Multiplicador de 6x - 1 en 125",
+          "description": "Eleva la tasa de ganancia y el valor de venta por 6x. Prioriza Fundido en unidades Divinas, Secretas y de Divinidad para un mejor escalado."
+        },
+        {
+          "name": "Radioactivo",
+          "type": "Multiplicador de 8x - 1 en 333",
+          "description": "Eleva la tasa de ganancia y el valor de venta por 8x. Este es un gran pico de farmeo para el juego tardío en Brainrots que ya son valiosos."
+        },
+        {
+          "name": "Sombra",
+          "type": "Multiplicador de 12x - 1 en 2,000",
+          "description": "Eleva la tasa de ganancia y el valor de venta por 12x. Reserva este nivel para zonas de alto valor porque el multiplicador es demasiado fuerte para unidades iniciales."
+        },
+        {
+          "name": "Electrificado",
+          "type": "Multiplicador de 16x - 1 en 5,000",
+          "description": "Eleva la tasa de ganancia y el valor de venta por 16x. Extremadamente fuerte con multiplicadores de dinero por renacimiento en los ciclos del juego final."
+        },
+        {
+          "name": "Arcoíris",
+          "type": "Multiplicador de 30x - 1 en 20,000",
+          "description": "Eleva la tasa de ganancia y el valor de venta por 30x. El objetivo de mutación más alto para intentos de Patada Perfecta y ventanas de suerte globales."
         }
       ]
     },
     "lucidBlocksCreaturesAndEnemies": {
-      "title": "Criaturas y enemigos de Lucid Blocks",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mezcla criaturas surreales con peligros reales. Las descripciones oficiales y las publicaciones de la comunidad apuntan a un mundo lleno de vida extraña, amenazas hostiles y algunos encuentros destacados que los jugadores recuerdan rápidamente.",
+      "title": "Kick a Lucky Block Rebirth",
+      "displayType": "cards",
+      "intro": "El Renacimiento cambia tu Kick Power actual por multiplicadores de dinero permanentes. Es el sistema principal de progresión a largo plazo una vez que empiezas a alcanzar mejores zonas de forma constante.",
       "creatures": [
         {
-          "name": "Maniquíes",
-          "role": "Enemigo hostil",
-          "description": "Los maniquíes son uno de los enemigos nombrados oficialmente en el mundo y parte del catálogo de amenazas surreales del juego."
+          "name": "¿Qué hace el Renacimiento?",
+          "role": "Conceptos básicos del sistema",
+          "description": "El Renacimiento reinicia tu progresión de Kick Power actual y otorga un multiplicador de dinero permanente. Los renacimientos posteriores se acumulan para que los futuros Brainrots ganen más rápido."
         },
         {
-          "name": "Geles blandos",
-          "role": "Enemigo hostil",
-          "description": "Los geles blandos son otro tipo de enemigo nombrado oficialmente y ayudan a definir el extraño estilo biológico del juego."
+          "name": "¿Cuál es el requisito del primer Renacimiento?",
+          "role": "Requisito",
+          "description": "El primer renacimiento se desbloquea con 1,000 de Kick Power y otorga un multiplicador de dinero permanente de 2x al confirmarlo."
         },
         {
-          "name": "Seres de dimensiones superiores",
-          "role": "Enemigo hostil",
-          "description": "Estos seres se presentan como parte del catálogo de enemigos más abstractos e inquietantes del mundo."
+          "name": "¿Qué se reinicia al renacer?",
+          "role": "Reglas de reinicio",
+          "description": "La progresión de Kick Power se reinicia, por lo que vuelves a entrenar para ganar distancia. La Velocidad de Carrera sigue siendo una mejora de supervivencia crítica a largo plazo para las rutas de regreso."
         },
         {
-          "name": "Arañas colosales",
-          "role": "Amenaza mayor",
-          "description": "Las arañas son uno de los enemigos más temidos de inmediato en las discusiones de la comunidad y son claramente un peligro memorable."
+          "name": "¿Qué conservas después del Renacimiento?",
+          "role": "Recompensas permanentes",
+          "description": "Conservas el multiplicador de dinero, que se aplica a las ganancias futuras y te ayuda a volver a comprar pesas más fuertes más rápido después de cada ciclo."
         },
         {
-          "name": "__PROTECTED_26ee183b__",
-          "role": "Criatura con nombre",
-          "description": "__PROTECTED_26ee183b__ es lo suficientemente notable como para tener su propio logro, lo que lo convierte en uno de los encuentros con criaturas nombradas más claros del juego."
+          "name": "¿Deberías renacer inmediatamente al llegar a 1,000 de Kick Power?",
+          "role": "Momento oportuno",
+          "description": "Renacer temprano puede acelerar la progresión, pero a menudo es mejor avanzar una o dos zonas más primero para que el multiplicador amplíe una mejor base de ingresos."
         },
         {
-          "name": "Alimañas adorables",
-          "role": "Criatura interactuable",
-          "description": "Las alimañas no solo son parte de la progresión de fusión, también se les puede cambiar el nombre, dándoles un papel más personal que a los enemigos estándar."
+          "name": "¿Cómo funciona el Salto de Renacimiento de 99 Robux?",
+          "role": "Opción de pago",
+          "description": "El Salto de Renacimiento te permite reiniciar sin cumplir con el requisito actual de Kick Power. Ahorra tiempo, mientras que la progresión normal sigue siendo el ciclo principal de mejoras."
         },
         {
-          "name": "Criatura blasfema",
-          "role": "Amenaza de élite",
-          "description": "La criatura blasfema está vinculada a un logro de combate dedicado, lo que la marca como un encuentro enemigo significativo."
+          "name": "¿Cuál es la mejor estrategia de Renacimiento?",
+          "role": "Mejores prácticas",
+          "description": "Antes de renacer, llena tu parcela con mejores Brainrots, mejora la Velocidad de Carrera y asegura pesas más fuertes para que cada reinicio vuelva a las zonas altas más rápido."
+        },
+        {
+          "name": "Errores comunes al renacer",
+          "role": "Errores a evitar",
+          "description": "Evita reiniciar con una parcela débil, ignorar la Velocidad de Carrera o acumular demasiado dinero en lugar de mejorar los ingresos y la progresión de las pesas."
         }
       ]
     },
     "lucidBlocksMobilityGear": {
-      "title": "Equipo de movilidad de Lucid Blocks",
+      "title": "Kick a Lucky Block Tsunami Survival",
       "displayType": "itemCards",
-      "intro": "Las mejoras de movimiento son uno de los mayores saltos en la calidad de vida en Lucid Blocks. Una vez que desbloqueas tus primeras herramientas de travesía, la exploración se vuelve más rápida, segura y mucho más gratificante.",
+      "intro": "Después de cada patada, la persecución del tsunami decide si tu Brainrot se convierte en ganancias reales o desaparece. Cuanto más lejos caiga tu Lucky Block, más importante será la Velocidad de Carrera.",
       "items": [
         {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Herramienta de travesía",
-          "description": "El gancho es uno de los hitos de movimiento más claros del juego y tiene su propio logro dedicado."
+          "name": "Patea el Lucky Block",
+          "type": "Paso 1",
+          "description": "Comienza cada carrera desde tu parcela o zona segura. La distancia de aterrizaje determina la calidad de la zona y el nivel de Brainrot que puedes obtener."
         },
         {
-          "name": "Guante planeador",
-          "type": "Movilidad aérea",
-          "description": "El guante planeador permite un viaje mucho más fluido y es otro hito importante de progresión con su propio logro."
+          "name": "Vigila la distancia de aterrizaje",
+          "type": "Paso 2",
+          "description": "Usa la zona alcanzada para estimar el riesgo de retorno. De Común a Leyenda es más fácil, mientras que Mítico y superiores crean persecuciones más largas y arriesgadas."
         },
         {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Herramienta de travesía",
-          "description": "Los planeadores abeja se destacan oficialmente como parte del conjunto de herramientas de movimiento del juego para cubrir terreno de manera más eficiente."
+          "name": "Conviértete en el Brainrot y regresa rápido",
+          "type": "Paso 3",
+          "description": "Una vez que aparezca el Brainrot, regresa a la seguridad de inmediato. Un retraso puede desperdiciar una buena tirada antes de que sea guardada."
         },
         {
-          "name": "Varita de Bola",
-          "type": "Equipo de utilidad",
-          "description": "Las varitas de bola son una de las herramientas especiales destacadas oficialmente y expanden la forma en que te mueves o interactúas con el mundo."
+          "name": "Evita la ola del tsunami",
+          "type": "Paso 4",
+          "description": "Regresa directamente con los mínimos desvíos posibles. Si la ola te alcanza antes de volver, el Brainrot obtenido se perderá."
         },
         {
-          "name": "Equipo de buceo",
-          "type": "Equipo de exploración",
-          "description": "El equipo de buceo figura oficialmente como parte del conjunto de utilidad principal para llegar a áreas que de otro modo serían más difíciles de explorar."
+          "name": "Coloca el Brainrot en tu parcela",
+          "type": "Paso 5",
+          "description": "Después de llegar a salvo, coloca la unidad de inmediato para que comience a generar dinero pasivo para tu progresión."
         },
         {
-          "name": "Explosivos",
-          "type": "Daño de utilidad",
-          "description": "Los explosivos están destacados oficialmente y vinculados a un hito de logro, lo que los hace parte de la progresión de utilidad principal del juego."
+          "name": "Mejora la Velocidad de Carrera antes de avanzar más lejos",
+          "type": "Paso 6",
+          "description": "Gasta tus ingresos en mejoras de Velocidad cerca de la Tienda de Pesas a medida que aumente la distancia. Un Kick Power alto sin una Velocidad acorde es inestable."
+        },
+        {
+          "name": "Equilibra el Kick Power y la Velocidad",
+          "type": "Paso 7",
+          "description": "No persigas los niveles Secreto, Divino, Hackeado, OG o Celestial solo con fuerza bruta. Las conversiones seguras son mejores que las pérdidas repetidas en zonas altas."
+        },
+        {
+          "name": "Usa el Renacimiento y las mutaciones para reducir las carreras desperdiciadas",
+          "type": "Paso 8",
+          "description": "Crea multiplicadores permanentes a través del Renacimiento y prioriza las tiradas mutadas de nivel alto con las que puedas regresar a salvo."
         }
       ],
       "unlockMilestones": [
-        "Dominar un gancho",
-        "Volar con el guante planeador",
-        "Empuñar una varita de proyectiles",
-        "Empuñar un explosivo"
+        "Acompaña cada gran avance de distancia con una mejora de Velocidad de Carrera.",
+        "Regresa de inmediato después de cada tirada para reducir las pérdidas por la ola.",
+        "Farmea en zonas altas solo cuando la consistencia de retorno sea estable.",
+        "Usa los multiplicadores de renacimiento para acelerar la Velocidad segura y el escalado de pesas."
       ]
     },
     "lucidBlocksFarmingAndGrowth": {
-      "title": "Cultivo y crecimiento en Lucid Blocks",
-      "displayType": "mixedCards",
-      "intro": "El crecimiento es parte de la progresión real en Lucid Blocks. El cultivo no se trata solo de plantar y cosechar, sino también de establecer rutas de materiales repetibles que mantengan el flujo de tus herramientas, armas y opciones de artesanía.",
+      "title": "Velocidad de Carrera en Kick a Lucky Block",
+      "displayType": "cards",
+      "intro": "La Velocidad de Carrera es el lado de supervivencia de la progresión. Cada patada más larga crea un camino de regreso más largo, por lo que las pesas más fuertes deben combinarse con mejoras de velocidad en lugar de tratarse como un lujo del juego tardío.",
       "sections": [
         {
-          "name": "Progresión de semillas",
-          "description": "Plantar y fertilizar semillas es un hito real en el juego, y cosechar una nuez completamente crecida es parte de la misma ruta de crecimiento."
+          "name": "Compra una Mejora de Velocidad Temprana",
+          "description": "Después de tus primeras colocaciones, añade Velocidad de Carrera antes de buscar solo pesas para que sea menos probable que pierdas tu primera tirada valiosa Rara o Épica."
         },
         {
-          "name": "Recolección de materiales",
-          "description": "Un ciclo práctico de recolección inicial es crear Cápsulas de Mercurio, que generan pequeños slimes que sueltan zarcillos y viscosidad para materiales de artesanía repetibles."
+          "name": "Iguala la Velocidad con la Progresión de Pesas",
+          "description": "Las pesas desbloquean zonas más lejanas, pero las zonas más lejanas también alargan el camino de regreso. Añade una mejora de Velocidad de Carrera después de cada pocas mejoras de pesas significativas."
         },
         {
-          "name": "Sustento de herramientas",
-          "description": "La recolección de recursos se vuelve mucho más fuerte una vez que puedes reunir consistentemente Osmio, fragmentos de vidrio, plantas y materiales de slime para artesanías posteriores."
+          "name": "Protege los Brainrots Mutados",
+          "description": "Las tiradas de mutación solo rinden frutos después de que regresas y los colocas. Una mejor Velocidad de Carrera convierte los momentos de mutación afortunados en ingresos pasivos reales."
         },
         {
-          "name": "Rutina de base",
-          "description": "La mejor configuración de cultivo apoya más que solo la comida. Debería abastecer tu almacenamiento, herramientas de movimiento, mejoras de armas y futuros experimentos de fusión."
+          "name": "Usa Rutas, No Solo Velocidad Pura",
+          "description": "La Velocidad de Carrera es tu ventaja de estadísticas, pero la disciplina de ruta también importa. Aprende la línea de regreso limpia más corta antes de farmear en zonas más profundas."
+        },
+        {
+          "name": "Reconstruye la Velocidad tras el Impulso de Rebirth",
+          "description": "El Rebirth mejora el escalado a largo plazo, pero la supervivencia del reclamo sigue decidiendo tu próximo ascenso. Reequilibra las pesas y la velocidad rápidamente una vez que los ingresos se reinicien."
         }
       ],
       "growthMilestones": [
-        "Fertilizar una semilla",
-        "Cosechar una nuez completamente crecida",
-        "Crear ciclos de materiales repetibles",
-        "Convertir el cultivo en progresión a largo plazo"
+        "Coloca dos o tres Brainrots tempranos, luego compra un nivel barato de Velocidad de Carrera.",
+        "No dejes que el Poder de Patada avance varias zonas por delante de la velocidad de movimiento.",
+        "Durante las ventanas de suerte, farmea solo en zonas de las que puedas regresar de forma segura.",
+        "Practica una ruta más corta repetible desde cada zona nueva.",
+        "Después del Rebirth, restaura el equilibrio entre peso y velocidad tan pronto como el flujo de efectivo se estabilice."
       ]
     },
     "lucidBlocksBestEarlyUnlocks": {
-      "title": "Mejores desbloqueos iniciales de Lucid Blocks",
-      "displayType": "priorityCards",
-      "intro": "Los desbloqueos iniciales más fuertes son aquellos que mejoran la seguridad, el almacenamiento y el movimiento. En Lucid Blocks, unas pocas mejoras prácticas pueden hacer que el resto del juego sea mucho más fluido.",
+      "title": "Patada Perfecta en Kick a Lucky Block",
+      "displayType": "solutionCards",
+      "intro": "La Patada Perfecta es la habilidad de sincronización que conecta el Poder de Patada, el alcance de zona y la caza de mutaciones. Un control confiable del medidor mejora cada sesión de farmeo sin necesidad de potenciadores premium.",
       "priorities": [
         {
-          "name": "Qualia personal",
+          "name": "Empieza Desde tu Parcela",
           "priority": "Esencial",
-          "description": "Tan pronto como obtengas acceso a tu Qualia personal, tu partida se volverá mucho más estable. Actúa como un centro confiable para el almacenamiento, la construcción y el reagrupamiento."
+          "description": "Párate en tu parcela, activa el bloque y concéntrate en la barra de tiempo antes del lanzamiento para una configuración más limpia y repetible."
         },
         {
-          "name": "Pico de Escarcha",
-          "priority": "Muy alta",
-          "description": "Una herramienta de minería inicial rápida y barata hecha de Osmio y Palo. Es una de las mejoras más útiles para acelerar la recolección inicial de recursos."
+          "name": "Llena la Zona Verde",
+          "priority": "Esencial",
+          "description": "Haz que el medidor caiga en la zona verde en lugar de soltarlo antes. Un golpe verde completo otorga una verdadera Patada Perfecta con la máxima potencia de lanzamiento."
         },
         {
-          "name": "Cubo de Almacenamiento",
-          "priority": "Muy alta",
-          "description": "La presión del inventario comienza pronto, por lo que obtener tu primer contenedor confiable tipo cofre es una mejora importante de calidad de vida."
+          "name": "Usa el Alcance Extra",
+          "priority": "Muy Alta",
+          "description": "Usa el lanzamiento más fuerte para apuntar a la zona más lejana que tu configuración actual pueda convertir de manera segura en regresos completados."
         },
         {
-          "name": "__PROTECTED_6a765cb2__",
+          "name": "Convierte el Potenciador de Suerte",
           "priority": "Alta",
-          "description": "El gancho es uno de los hitos de movimiento más claros del juego y rápidamente hace que la exploración sea más rápida y segura."
+          "description": "El bono de suerte específico de la patada solo importa después de un reclamo exitoso, así que corre por la ruta más limpia de regreso y colócalo de inmediato."
         },
         {
-          "name": "Guante planeador",
+          "name": "Acumula con Ventanas de Suerte",
           "priority": "Alta",
-          "description": "El guante planeador añade otro gran impulso a la movilidad y hace que el movimiento a larga distancia sea mucho más eficiente."
-        },
-        {
-          "name": "Varita de proyectiles o bombas",
-          "priority": "Alta",
-          "description": "Una herramienta a distancia o una opción explosiva te brinda una respuesta más segura ante enemigos peligrosos y encuentros tipo desafío."
+          "description": "Durante las ventanas de Suerte Global, prioriza las Patadas Perfectas continuamente para que la suerte del evento, la sincronización de la patada y los intentos de mutación se acumulen."
         }
       ]
     },
     "lucidBlocksAchievementTracker": {
-      "title": "Seguimiento de logros de Lucid Blocks",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks tiene actualmente 19 logros de Steam, y se dividen naturalmente en progresión de exploración, artesanía, movilidad, combate y crecimiento.",
+      "title": "Eventos de Suerte de Kick a Lucky Block",
+      "displayType": "cards",
+      "intro": "Los eventos de suerte son más efectivos cuando te preparas antes de que comience el temporizador. Mantén el flujo de ingresos, asegura tu ruta y convierte cada ventana potenciada en reclamos completados.",
       "groups": [
         {
-          "name": "Exploración",
+          "name": "Ventanas de Eventos Principales",
           "achievements": [
             {
-              "title": "__PROTECTED_c973d4a3__ α",
-              "description": "Entrar en una qualia."
+              "title": "Evento de Suerte Global",
+              "description": "Cuando comience la suerte en todo el servidor, cambia las tareas lentas de configuración por patadas rápidas y repetidas desde la zona más fuerte de la que puedas regresar de forma segura."
             },
             {
-              "title": "__PROTECTED_c973d4a3__ γ",
-              "description": "Descubrir una línea ley de tiamana."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ δ",
-              "description": "Superar un desafío de tiamana."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ ε",
-              "description": "Logro oculto."
+              "title": "Ventana de Suerte x2",
+              "description": "Usa los periodos x2 para ciclos estables: Perfect Kick, regresar, colocar, repetir. Esto es especialmente eficiente mientras construyes consistencia en el juego temprano y medio."
             }
           ]
         },
         {
-          "name": "Artesanía e invocación",
+          "name": "Ventanas de Ráfaga de Alto Valor",
           "achievements": [
             {
-              "title": "Apotheosis α",
-              "description": "Fusionar un objeto."
+              "title": "Ventana de Suerte x4",
+              "description": "Una ventana x4 es lo suficientemente fuerte como para justificar un enfoque total en el volumen de patadas. Minimiza el tiempo en la tienda a menos que una mejora rápida mantenga tu ciclo seguro."
             },
             {
-              "title": "Apotheosis β",
-              "description": "Fusionar una alimaña."
+              "title": "Ventana de Suerte x8",
+              "description": "Usa solo tu mejor configuración: la zona más fuerte alcanzable, una ruta limpia, suficiente Run Speed y un tiempo de Perfect Kick disciplinado."
             },
             {
-              "title": "Apotheosis γ",
-              "description": "Fusionar un artefacto divino."
-            },
-            {
-              "title": "Arcángel β",
-              "description": "Invoca tu fe."
+              "title": "Ventana de Evento Admin Abuse",
+              "description": "Trata los picos de eventos especiales como ráfagas premium para cazar mutaciones y convierte tantos lanzamientos de alto valor como sea posible antes de que termine la ventana."
             }
           ]
         },
         {
-          "name": "Movilidad y utilidad",
+          "name": "Mejor Configuración de Acumulación",
           "achievements": [
             {
-              "title": "Virtud α",
-              "description": "Volar con el guante planeador."
+              "title": "Suerte Global + Perfect Kick",
+              "description": "Usa la suerte del servidor y el tiempo preciso del medidor juntos para que cada patada tenga una mayor calidad de lanzamiento y mejores condiciones de evento."
             },
             {
-              "title": "Virtud β",
-              "description": "Dominar un gancho."
+              "title": "Añade Kick Power al Ritmo Adecuado",
+              "description": "El Kick Power expande el alcance de la zona, pero solo auméntalo cuando el Run Speed y el control de la ruta aún puedan asegurar los regresos."
             },
             {
-              "title": "Arcángel α",
-              "description": "Empuñar una varita de proyectiles."
-            },
-            {
-              "title": "Arcángel γ",
-              "description": "Empuñar un explosivo."
-            }
-          ]
-        },
-        {
-          "name": "Combate y criaturas",
-          "achievements": [
-            {
-              "title": "Masacre de __PROTECTED_26ee183b__",
-              "description": "Derrotar osos burbuja inocentes."
-            },
-            {
-              "title": "Arcángel δ",
-              "description": "Eliminar una criatura blasfema."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ β",
-              "description": "Morir."
-            },
-            {
-              "title": "Dominio γ",
-              "description": "Cambiar el nombre a una alimaña adorable."
-            }
-          ]
-        },
-        {
-          "name": "Crecimiento y cultivo",
-          "achievements": [
-            {
-              "title": "Dominio α",
-              "description": "Fertilizar una semilla."
-            },
-            {
-              "title": "Dominio β",
-              "description": "Cosechar una nuez completamente crecida."
-            },
-            {
-              "title": "Dominio δ",
-              "description": "Logro oculto."
+              "title": "Acumula Suerte de Mutación para Ráfagas de Eventos",
+              "description": "Si estás farmeando mutaciones activamente, combina los potenciadores enfocados en mutaciones con el tiempo de los eventos en lugar de usarlos en ventanas inactivas de bajo valor."
             }
           ]
         }
       ]
     },
     "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Preguntas frecuentes sobre un solo jugador y plataformas de Lucid Blocks",
-      "displayType": "accordion",
-      "intro": "Estas son las preguntas principales sobre plataformas y acceso que los jugadores suelen hacer antes de comprar Lucid Blocks.",
+      "title": "Game Passes de Kick a Lucky Block",
+      "displayType": "faq",
+      "intro": "Los game passes pueden acelerar la progresión, pero su valor depende de tu cuello de botella actual. Prioriza los pases que resuelvan tu limitación de hoy en lugar de comprar todo a la vez.",
       "faqs": [
         {
-          "question": "¿Es Lucid Blocks para un solo jugador?",
-          "answer": "Sí. Lucid Blocks es un juego para un solo jugador."
+          "question": "¿Cuándo es x2 Cash la compra correcta?",
+          "answer": "Se vuelve fuerte después de que tu parcela ya tenga generadores confiables y puedas reciclar el dinero extra directamente en pesas, velocidad y recuperación de rebirth."
         },
         {
-          "question": "¿Está planeado el multijugador o cooperativo?",
-          "answer": "No. No se planea multijugador para el lanzamiento ni para futuras actualizaciones."
+          "question": "¿Por qué comprar x2 Brainrot Luck en el juego temprano o medio?",
+          "answer": "Mejores resultados base de Brainrot mejoran cada multiplicador posterior y hacen que cada regreso exitoso sea más valioso mientras tu economía aún se está formando."
         },
         {
-          "question": "¿Dónde puedo jugar Lucid Blocks?",
-          "answer": "Actualmente está disponible en Steam para Windows."
+          "question": "¿Quién debería priorizar x2 Mutation Luck?",
+          "answer": "Los jugadores que ya alcanzan zonas valiosas y farmean activamente las ventanas de eventos obtienen el máximo provecho de este pase porque los intentos de mutación escalan con rutas sólidas."
         },
         {
-          "question": "¿Cuánto cuesta Lucid Blocks?",
-          "answer": "$9.99 en Steam."
+          "question": "¿Es el VIP una primera compra para la progresión?",
+          "answer": "Normalmente no. Es mejor tratarlo como un complemento premium opcional después de los pases de progresión principales como cash, Brainrot luck, mutation luck o kick power."
         },
         {
-          "question": "¿Lucid Blocks es compatible con controles?",
-          "answer": "Sí, pero no se recomienda jugar con control porque los menús no están diseñados para ello."
+          "question": "¿Cuándo ofrece x2 Kick Power el mayor valor?",
+          "answer": "Es más útil cuando los ingresos son estables pero la distancia bloquea el acceso a zonas de mayor valor como Mythic, Godly, Secret y más allá."
         },
         {
-          "question": "¿Lucid Blocks funciona en Steam Deck?",
-          "answer": "Sí. Proton 9.0 o 9.0.4 es la configuración recomendada habitualmente para Steam Deck."
-        },
-        {
-          "question": "¿Lucid Blocks funciona en Linux?",
-          "answer": "Sí. Se informa que Proton 9.0 funciona bien para Linux y Steam Deck."
-        },
-        {
-          "question": "¿Habrá soporte para Mac o Android?",
-          "answer": "Es posible que sean compatibles en el futuro, pero no son plataformas de lanzamiento actuales."
-        },
-        {
-          "question": "¿Lucid Blocks tiene traducciones?",
-          "answer": "No. Actualmente no hay traducciones planeadas."
-        },
-        {
-          "question": "¿Lucid Blocks seguirá recibiendo actualizaciones?",
-          "answer": "Sí. Se planean algunas actualizaciones de contenido después del lanzamiento, pero no pretenden continuar con un calendario regular indefinido."
+          "question": "¿Cuál es un orden práctico para comprar pases?",
+          "answer": "Comienza con el pase que solucione tu cuello de botella actual, luego reevalúa después de unas sesiones. Las rutas gratuitas siguen siendo viables con un buen tiempo, equilibrio de velocidad y planificación de rebirth."
         }
       ]
     },
     "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks en Steam Deck y controles",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks puede ejecutarse en Steam Deck, pero la configuración predeterminada puede necesitar ajustes. El teclado y el mouse siguen siendo la opción más fluida para los menús y el juego en general.",
+      "title": "Ingresos AFK en Kick a Lucky Block",
+      "displayType": "faq",
+      "intro": "La ruta AFK más sólida consiste en asegurar primero los Brainrots de alto valor y luego convertir el dinero acumulado en hitos significativos de peso y velocidad.",
       "faqs": [
         {
-          "question": "¿Lucid Blocks funciona en Steam Deck?",
-          "answer": "Sí. Proton 9.0 funciona bien, y Proton 9.0.4 es una solución compartida habitualmente para problemas en Steam Deck."
+          "question": "¿Cómo debo prepararme antes de que comience el entrenamiento AFK?",
+          "answer": "Coloca tus mejores Brainrots en la parcela antes de retirarte. Tus ingresos pasivos solo aumentarán si ya tienes unidades fuertes activas."
         },
         {
-          "question": "¿Qué debo hacer si los controles de Steam Deck no funcionan?",
-          "answer": "Fuerza la compatibilidad y cambia el juego a Proton 9.0.4. Es posible que la configuración predeterminada no acepte correctamente la entrada del control."
+          "question": "¿Qué hitos de peso son más importantes para el crecimiento AFK?",
+          "answer": "Una ruta práctica es Wooden Stick, Bone Barbell a $7,500, Copper Plate a $500,000, Iron Plate a $7.2M e Ice Barbell a $350M."
         },
         {
-          "question": "¿Lucid Blocks es compatible con controles?",
-          "answer": "Sí, pero no se recomienda jugar con control porque los menús del juego no están diseñados para ello."
+          "question": "¿Cuándo debo cobrar el dinero acumulado fuera de línea?",
+          "answer": "Cóbralo con regularidad en lugar de dejar que el límite se llene. Cobrar con frecuencia convierte los ingresos guardados en una progresión más rápida y recorridos más seguros."
         },
         {
-          "question": "¿Es posible el soporte para Linux?",
-          "answer": "Sí. Se informa que Proton 9.0 funciona bien para Linux y Steam Deck."
+          "question": "¿Qué debería comprar primero después de cobrar los ingresos AFK?",
+          "answer": "Invierte en la siguiente mejora que cambie los resultados, generalmente peso para llegar a zonas más lejanas o velocidad de carrera para proteger las recompensas valiosas."
         },
         {
-          "question": "¿Cuál es la mejor configuración de entrada?",
-          "answer": "El teclado y el mouse son la opción más fluida para la navegación por los menús y el juego general momento a momento."
+          "question": "¿A qué Brainrots debería darles prioridad para las mejoras?",
+          "answer": "Prioriza los Brainrots de nivel superior o mutados. Los espacios limitados en la parcela hacen que gastar en unidades comunes y raras sea ineficiente."
+        },
+        {
+          "question": "¿Cuál es el ciclo repetible de dinero AFK?",
+          "answer": "Patea, regresa a salvo, coloca mejores Brainrots, cobra los ingresos fuera de línea, reinvierte y repite. Ese ciclo potencia tanto el dinero pasivo como el poder de patada."
         }
       ]
     },
     "lucidBlocksSettingsAndAccessibility": {
-      "title": "Ajustes y accesibilidad de Lucid Blocks",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks ya cuenta con algunos ajustes prácticos y notas de compatibilidad que son importantes de inmediato cuando los jugadores inician el juego por primera vez.",
+      "title": "Progresión sin Robux en Kick a Lucky Block",
+      "displayType": "cards",
+      "intro": "La progresión sin Robux funciona cuando cada fase tiene un objetivo claro: generar ingresos, alcanzar hitos de peso, proteger las ganancias y luego hacer rebirth en el momento adecuado.",
       "settings": [
         {
-          "name": "Ajustes de pantalla",
-          "type": "Opción de comodidad",
-          "description": "Los ajustes de pantalla incluyen una opción que permite a los jugadores ocultar las manos en pantalla."
+          "name": "Paso 1: Comienza con recorridos de patada rápidos",
+          "type": "Crear base de ingresos",
+          "description": "Patea, regresa antes del tsunami y coloca cada Brainrot rápidamente. En los primeros minutos, la consistencia es mejor que la rareza perfecta."
         },
         {
-          "name": "Compatibilidad de gráficos",
-          "type": "Requisito del sistema",
-          "description": "Se requiere soporte de __PROTECTED_38625270__ para que los gráficos se rendericen correctamente. Los sistemas sin __PROTECTED_38625270__ pueden sufrir cierres inesperados y errores gráficos graves."
+          "name": "Paso 2: Compra el primer peso útil",
+          "type": "Poder inicial",
+          "description": "Usa primero el Wooden Stick gratuito, luego ahorra para el Bone Barbell de $7,500 para mejorar el alcance en las zonas iniciales sin potenciadores de pago."
         },
         {
-          "name": "Preferencia de entrada",
-          "type": "Configuración de control",
-          "description": "Existe soporte para controles, pero el teclado y el mouse brindan una experiencia más fluida porque los menús no están diseñados para el uso de controles."
+          "name": "Paso 3: Ahorra para saltos más grandes",
+          "type": "Planificación de hitos",
+          "description": "Después del Bone Barbell, prioriza saltos más grandes como el Copper Plate de $500,000, y luego el Iron Plate y el Ice Barbell como objetivos a largo plazo."
         },
         {
-          "name": "Soporte de idiomas",
-          "type": "Localización",
-          "description": "La configuración actual es solo en inglés y no hay traducciones planeadas en este momento."
+          "name": "Paso 4: Aumenta la velocidad de carrera antes de arriesgarte demasiado",
+          "type": "Seguridad de la ruta",
+          "description": "Cuando las zonas se alejan, la velocidad de carrera protege las recompensas raras y evita perder Brainrots valiosos ante la presión de las olas."
+        },
+        {
+          "name": "Paso 5: Mejora solo los mejores Brainrots",
+          "type": "Eficiencia de dinero",
+          "description": "Reemplaza las unidades de bajos ingresos a medida que lleguen otras más fuertes y enfoca el dinero de las mejoras en Brainrots de alta rareza o mutados."
+        },
+        {
+          "name": "Paso 6: Haz Rebirth en el momento adecuado",
+          "type": "Multiplicador a largo plazo",
+          "description": "El primer rebirth se desbloquea con 1,000 de poder de patada y otorga un multiplicador de dinero de 2x. Haz rebirth cuando tu base pueda reconstruirse rápido, no solo cuando aparezca el umbral."
         }
       ]
     },
     "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Actualizaciones y notas del parche de Lucid Blocks",
+      "title": "Actualizaciones de Kick a Lucky Block",
       "displayType": "timeline",
-      "intro": "Lucid Blocks ya está recibiendo correcciones rápidas post-lanzamiento y pequeñas actualizaciones de usabilidad.",
+      "intro": "Sigue los hitos de Roblox y eventos con fecha para decidir qué farmear primero cada vez que cambie el meta de progresión en vivo.",
       "entries": [
         {
-          "title": "Actualización 2.8.2",
-          "type": "Actualización de IU",
-          "description": "Se cambió el nombre de \"awaken\" (despertar) a \"exit\" (salir) en el menú principal."
+          "type": "API de Roblox",
+          "title": "2 de mayo de 2026: Listado de Roblox actualizado",
+          "description": "La API oficial de juegos registró una actualización el 2026-05-02T16:52:37Z. Usa esta marca de tiempo como el marcador público más reciente antes de volver a revisar eventos activos y cambios en la tienda."
         },
         {
-          "title": "Pequeño parche para cierres al iniciar",
-          "type": "Hotfix",
-          "description": "Se lanzó un parche dedicado para los jugadores cuyo juego se cerraba inesperadamente al iniciar."
+          "type": "Meta de Mutaciones",
+          "title": "2 de mayo de 2026: Cobertura de mutaciones ampliada",
+          "description": "El conjunto público actual de mutaciones incluye Gold, Diamond, Plasma, Molten, Radioactive, Shadow, Electrified y Rainbow, con multiplicadores que van desde 1.5x hasta 30x."
         },
         {
-          "title": "Soporte de contenido post-lanzamiento",
-          "type": "Nota de hoja de ruta",
-          "description": "Se planean algunas actualizaciones de contenido después del lanzamiento, pero no pretenden continuar con un calendario regular indefinido."
+          "type": "Avance del evento",
+          "title": "26 de abril de 2026: Señal del evento Update 1",
+          "description": "El listado del evento Update 1 promocionó nuevos Brainrots, nuevas mutaciones y un avance de Admin Abuse, indicando actividad de tiempo limitado impulsada por la suerte."
+        },
+        {
+          "type": "Lanzamiento",
+          "title": "7 de abril de 2026: Lanzamiento público en Roblox",
+          "description": "Kick a Lucky Block se lanzó en Roblox con el ciclo principal de patear, escapar del tsunami, colocar Brainrots para ganar dinero, comprar pesas y escalar con rebirth."
         }
       ]
     },
     "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Solución de cierres inesperados y solución de problemas de Lucid Blocks",
+      "title": "Estadísticas en vivo y enlaces oficiales de Kick a Lucky Block",
       "displayType": "steps",
-      "intro": "La mayoría de los problemas inmediatos de inicio y cierres deben revisarse en un orden sencillo: nivel de parche, soporte de gráficos, compatibilidad de plataforma y registros.",
+      "intro": "Usa los IDs oficiales y las métricas de la plataforma en vivo para confirmar que estás siguiendo la experiencia correcta y los canales activos.",
       "steps": [
         {
-          "title": "Instala el último hotfix para cierres inesperados",
-          "description": "Si el juego se cierra al iniciar, actualiza primero y prueba de nuevo con el parche más reciente para cierres al inicio."
+          "title": "Confirmar la identidad oficial del juego",
+          "description": "Usa el ID de lugar raíz 89469502395769 y el ID de universo 10004244222 para verificar la página oficial de la experiencia Kick a Lucky Block."
         },
         {
-          "title": "Verifica el soporte de __PROTECTED_38625270__",
-          "description": "Lucid Blocks requiere soporte de __PROTECTED_38625270__. Los sistemas sin __PROTECTED_38625270__ pueden sufrir cierres inesperados o problemas graves de renderizado."
+          "title": "Seguir jugadores actuales y capacidad",
+          "description": "Los jugadores actuales son alrededor de 217,831 con un tamaño máximo de servidor de 5, lo que te ayuda a medir las ventanas de farmeo activo y la presión del servidor."
         },
         {
-          "title": "Usa Proton 9.0.4 en Steam Deck",
-          "description": "Si la entrada o el comportamiento de inicio en Steam Deck fallan, fuerza la compatibilidad y cambia a Proton 9.0.4."
+          "title": "Monitorear visitas y favoritos",
+          "description": "Los totales públicos recientes incluyen 142,117,343 visitas y 5,907,791 favoritos, útiles para seguir el impulso después de los parches."
         },
         {
-          "title": "Recopila registros de cierres (logs)",
-          "description": "Abre Ejecutar de Windows, pega %APPDATA%, ve a lucid blocks/logs y reúne los archivos .txt para solucionar el problema."
+          "title": "Revisar señales de aprobación y votos",
+          "description": "La aprobación es de aproximadamente 96.76% basada en 285,768 votos positivos y 9,573 votos negativos del endpoint de votos de Roblox."
         },
         {
-          "title": "Reporta el problema correctamente",
-          "description": "Comparte los registros y los detalles del dispositivo a través del foro oficial de reportes de errores en Discord o en la página de la comunidad de Steam."
+          "title": "Guardar canales oficiales en marcadores",
+          "description": "Mantén acceso rápido a la página del juego en Roblox, al grupo de desarrolladores No More Flops y al Discord oficial para anuncios y seguimiento de eventos."
+        },
+        {
+          "title": "Verificar marcadores históricos antes de las sesiones",
+          "description": "Usa la fecha de creación 7 de abril de 2026 y la última fecha de actualización listada 2 de mayo de 2026 como referencias base al revisar los cambios de progresión."
         }
       ]
     }
   },
   "faq": {
-    "title": "Preguntas",
-    "titleHighlight": "frecuentes",
-    "subtitle": "Todo lo que necesitas saber sobre Lucid Blocks",
+    "title": "Kick a Lucky Block",
+    "titleHighlight": "Preguntas frecuentes",
+    "subtitle": "Respuestas rápidas sobre el estado de los códigos, opciones de progresión y seguimiento de actualizaciones.",
     "questions": [
       {
-        "question": "¿Es Lucid Blocks un juego para un solo jugador?",
-        "answer": "Sí. Lucid Blocks es un juego exclusivamente para un solo jugador, sin planes para multijugador o cooperativo."
+        "question": "¿Hay códigos activos ahora mismo?",
+        "answer": "El estado de los códigos puede cambiar con el tiempo, por lo que la comprobación más rápida es el módulo de códigos de la página de inicio además de los anuncios oficiales del juego."
       },
       {
-        "question": "¿Qué es el sistema Apotheosis en Lucid Blocks?",
-        "answer": "Apotheosis es el sistema de creación por fusión de forma libre de Lucid Blocks. En lugar de seguir recetas fijas, combinas materiales y descubres tus propias rutas de creación."
+        "question": "¿Qué debería mejorar primero: el peso o la velocidad de carrera?",
+        "answer": "Si tus regresos fallan, prioriza la velocidad. Si tus rutas son estables, prioriza el peso para desbloquear mejores zonas."
       },
       {
-        "question": "¿Dónde puedo jugar Lucid Blocks?",
-        "answer": "Lucid Blocks está disponible actualmente en Steam para Windows. El soporte para Linux y Steam Deck está disponible a través de Proton 9.0."
+        "question": "¿Cuándo debería hacer rebirth?",
+        "answer": "Haz rebirth cuando tu ruta actual sea estable y tu multiplicador de reinicio acelere claramente el siguiente ciclo."
       },
       {
-        "question": "¿Cuánto cuesta Lucid Blocks?",
-        "answer": "Lucid Blocks cuesta $9.99 en Steam."
+        "question": "¿Cómo farmeo mejores Brainrots de manera constante?",
+        "answer": "Aumenta la distancia gradualmente, mantén alta la seguridad de retorno y reemplaza las unidades de bajo rendimiento tan pronto como las opciones más fuertes se estabilicen."
       },
       {
-        "question": "¿Lucid Blocks es compatible con controles?",
-        "answer": "Sí, pero no se recomienda jugar con control porque los menús no están diseñados para ello. El teclado y el mouse son la opción más fluida."
+        "question": "¿Necesito game passes para progresar bien?",
+        "answer": "No. Una ruta disciplinada de juego gratuito con tiempos de mejora precisos puede progresar de forma constante a través de todos los sistemas principales."
       },
       {
-        "question": "¿Recibirá actualizaciones Lucid Blocks?",
-        "answer": "Sí. Se planean algunas actualizaciones de contenido después del lanzamiento, pero no se pretende que continúen con un calendario regular indefinido."
+        "question": "¿Dónde debería seguir las actualizaciones?",
+        "answer": "Usa la página oficial de Roblox, el grupo de desarrolladores y la comunidad de Discord para obtener el flujo de actualizaciones más directo."
       }
     ]
   },
   "cta": {
-    "title": "¿Listo para explorar Lucid Blocks?",
-    "description": "¡Únete a la comunidad de Lucid Blocks en Discord para ver guías, actualizaciones y discusiones!",
+    "title": "¿Listo para tu próximo ciclo de mejoras?",
+    "description": "Usa la navegación por módulos para saltar al sistema exacto que quieras optimizar a continuación.",
     "joinCommunity": "Únete a Discord",
-    "joinGame": "Juega en Steam"
+    "joinGame": "Juega en Roblox"
   },
   "footer": {
-    "title": "Wiki de Lucid Blocks",
-    "description": "Tu centro completo de recursos para la fabricación, biomas, criaturas, logros y guías de supervivencia de Lucid Blocks.",
+    "title": "Wiki de Kick a Lucky Block",
+    "description": "Guías enfocadas en el estado de códigos, Brainrots, mutaciones, pesos, rutas rápidas y planificación de renacimientos.",
     "resources": "Recursos",
     "community": "Comunidad",
     "legal": "Legal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Comunidad de Steam",
-    "steamStore": "Tienda de Steam",
+    "discord": "Servidor de Discord",
+    "twitter": "Videos de YouTube",
+    "steamCommunity": "Grupo de Desarrolladores",
+    "steamStore": "Página oficial de Roblox",
     "about": "Acerca de",
-    "privacy": "Política de privacidad",
-    "terms": "Términos de servicio",
-    "copyrightNotice": "Derechos de autor",
-    "copyright": "© 2026 Wiki de Lucid Blocks. No afiliada con los desarrolladores de Lucid Blocks.",
-    "disclaimer": "Sitio web de recursos no oficial creado por fans."
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "copyrightNotice": "Aviso de Derechos de Autor",
+    "copyright": "© 2026 Wiki de Kick a Lucky Block. No afiliado con Roblox Corporation ni No More Flops.",
+    "disclaimer": "Todas las marcas registradas pertenecen a sus respectivos dueños. Este es un proyecto de conocimiento independiente hecho por fans."
   },
   "pages": {
-    "guides": {
-      "title": "Guías de Lucid Blocks",
-      "description": "Guías completas de juego, desde conceptos básicos para principiantes hasta estrategias avanzadas de Apotheosis. Domina la supervivencia y la fabricación.",
-      "metaTitle": "Guías de Lucid Blocks - Estrategias de principiante a avanzado",
-      "metaDescription": "Guías completas de Lucid Blocks que cubren consejos para principiantes, el sistema Apotheosis, estrategias de supervivencia y tácticas expertas para dominar este sandbox surrealista.",
-      "categoryLabel": "GUÍAS DEL JUEGO",
-      "whatIs": "¿Qué son las guías?",
-      "whatIsDescription": "Guías exhaustivas que cubren mecánicas de juego, estrategias de supervivencia y el sistema de fabricación Apotheosis. Aprende todo, desde los primeros pasos hasta técnicas avanzadas.",
-      "why": "¿Por qué leer las guías?",
+    "codes": {
+      "title": "Códigos de Kick a Lucky Block",
+      "description": "Rastrea códigos activos, códigos expirados y el estado del menú de canje en un solo lugar.",
+      "metaTitle": "Códigos de Kick a Lucky Block - Estado de Activos y Expirados",
+      "metaDescription": "Consulta el estado más reciente de los códigos de Kick a Lucky Block, los pasos de canje y dónde se anuncian nuevas recompensas.",
+      "categoryLabel": "RASTREADOR DE CÓDIGOS",
+      "whatIs": "¿Qué son los códigos?",
+      "whatIsDescription": "Los códigos son recompensas promocionales limitadas compartidas por los desarrolladores. Esta sección rastrea si el canje está disponible actualmente, qué entradas están activas y cuáles han expirado.",
+      "why": "¿Por qué revisar los códigos primero?",
       "whySteps": {
-        "step1Title": "Aprende las mecánicas principales",
-        "step1Description": "Entiende el sistema Apotheosis y evita errores comunes de principiante",
-        "step2Title": "Progresión rápida",
-        "step2Description": "Sigue caminos probados para sobrevivir y prosperar en este mundo surrealista",
-        "step3Title": "Domina las estrategias",
-        "step3Description": "Desarrolla tácticas avanzadas para la exploración y la fabricación"
+        "step1Title": "Reclama potenciadores gratuitos rápido",
+        "step1Description": "Usa recompensas activas para acelerar el crecimiento de poder inicial y los ingresos de la parcela sin esfuerzo adicional.",
+        "step2Title": "Evita entradas expiradas",
+        "step2Description": "Mira el estado activo y expirado claramente para no perder tiempo probando entradas inactivas.",
+        "step3Title": "Sigue los lanzamientos oficiales",
+        "step3Description": "Rastrea dónde se anuncian nuevas recompensas para que puedas canjearlas antes de que expiren."
       },
-      "featured": "Destacado y esencial",
+      "featured": "Destacados y Esenciales",
+      "all": "Todos los códigos"
+    },
+    "guide": {
+      "title": "Guía de Kick a Lucky Block",
+      "description": "Rutas para principiantes, prioridades de progresión y ciclos de juego diarios para un crecimiento más rápido.",
+      "metaTitle": "Guía de Kick a Lucky Block - Progresión de Principiante a Avanzado",
+      "metaDescription": "Aprende la progresión eficiente en Kick a Lucky Block, desde las primeras patadas hasta ciclos optimizados de renacimiento e ingresos.",
+      "categoryLabel": "GUÍA DE PROGRESIÓN",
+      "whatIs": "¿Qué es la sección de Guía?",
+      "whatIsDescription": "La sección de guía explica el orden práctico de progresión: qué hacer en tu primera sesión, cuándo entrenar poder, cómo equilibrar el riesgo y los ingresos, y cómo evitar estancamientos comunes.",
+      "why": "¿Por qué usar una guía estructurada?",
+      "whySteps": {
+        "step1Title": "Empieza con el ciclo correcto",
+        "step1Description": "Sigue una secuencia de apertura comprobada para que cada minuto mejore tu poder, distancia y economía.",
+        "step2Title": "Reduce el ensayo y error",
+        "step2Description": "Omite mejoras ineficientes usando prioridades probadas para el entrenamiento, la ubicación y el momento del renacimiento.",
+        "step3Title": "Escala hacia el juego final",
+        "step3Description": "Pasa del farmeo básico a rutas de mayor valor con menos reinicios y mejor planificación."
+      },
+      "featured": "Destacados y Esenciales",
       "all": "Todas las guías"
     },
-    "crafting": {
-      "title": "Fabricación en Lucid Blocks",
-      "description": "Domina el sistema de fusión Apotheosis con mecánicas de esencia, recetas y estrategias de fabricación para objetos poderosos.",
-      "metaTitle": "Fabricación en Lucid Blocks - Sistema Apotheosis y recetas",
-      "metaDescription": "Domina el sistema de fabricación Apotheosis de Lucid Blocks. Aprende mecánicas de esencia, recetas de fusión y estrategias para crear herramientas y armas poderosas.",
-      "categoryLabel": "SISTEMA DE FABRICACIÓN",
-      "whatIs": "¿Qué es la fabricación?",
-      "whatIsDescription": "El sistema Apotheosis es una mecánica de fusión única impulsada por esencias donde combinas hasta seis objetos para descubrir nuevas recetas. Sin menús de fabricación fijos: la experimentación es la clave.",
-      "why": "¿Por qué dominar la fabricación?",
+    "mutations": {
+      "title": "Mutaciones de Kick a Lucky Block",
+      "description": "Efectos de las mutaciones, impacto en el valor y estrategia práctica de tiradas por etapa de progresión.",
+      "metaTitle": "Mutaciones de Kick a Lucky Block - Efectos y Comparación de Valor",
+      "metaDescription": "Compara los efectos de las mutaciones y el impacto en el valor en Kick a Lucky Block para decidir qué conservar, hacer reroll o reemplazar.",
+      "categoryLabel": "ÍNDICE DE MUTACIONES",
+      "whatIs": "¿Qué son las Mutaciones?",
+      "whatIsDescription": "Las mutaciones son modificadores especiales que cambian la producción de Brainrot y el valor de rareza. Su impacto puede ser grande, por lo que entender las prioridades es clave para un crecimiento estable a largo plazo.",
+      "why": "¿Por qué rastrear el valor de las mutaciones?",
       "whySteps": {
-        "step1Title": "Desbloquea objetos poderosos",
-        "step1Description": "Descubre herramientas esenciales, armas y equipo de movilidad a través de la fusión",
-        "step2Title": "Entiende las esencias",
-        "step2Description": "Aprende cómo se combinan las esencias de los objetos para crear resultados predecibles",
-        "step3Title": "Optimiza recursos",
-        "step3Description": "Usa mecánicas de dilución para maximizar la producción con materiales baratos"
+        "step1Title": "Conserva las tiradas de alto impacto",
+        "step1Description": "Identifica qué resultados de mutación merecen espacios a largo plazo en lugar de un reemplazo inmediato.",
+        "step2Title": "Planifica mejor tus rerolls",
+        "step2Description": "Usa niveles de valor para decidir cuándo vale la pena gastar recursos en un reroll y cuándo mantenerlo.",
+        "step3Title": "Coincide con los objetivos de cada etapa",
+        "step3Description": "Usa diferentes objetivos de mutación para la aceleración temprana, consistencia a mitad del juego y escalado al final del juego."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todas las guías de fabricación"
+      "featured": "Destacados y Esenciales",
+      "all": "Todas las Mutaciones"
     },
-    "items": {
-      "title": "Objetos de Lucid Blocks",
-      "description": "Guías detalladas de objetos que cubren herramientas, armas, equipo de movilidad y soluciones de almacenamiento con recetas de fabricación y consejos de uso.",
-      "metaTitle": "Objetos de Lucid Blocks - Guía de herramientas, armas y equipo",
-      "metaDescription": "Base de datos completa de objetos para Lucid Blocks, incluyendo herramientas, armas, equipo de movilidad y almacenamiento. Aprende a fabricar y usar cada objeto de manera efectiva.",
-      "categoryLabel": "OBJETOS Y EQUIPAMIENTO",
-      "whatIs": "¿Qué son los objetos?",
-      "whatIsDescription": "Guías exhaustivas de herramientas, armas, equipo de movilidad y objetos funcionales. Aprende recetas de fabricación, estrategias de uso y combinaciones óptimas.",
-      "why": "¿Por qué consultar las guías de objetos?",
+    "brainrots": {
+      "title": "Kick a Lucky Block Brainrots",
+      "description": "Listas de Brainrot, comparaciones de rareza/valor y estrategia de gestión de espacios.",
+      "metaTitle": "Kick a Lucky Block Brainrots - Lista, valor y mejores selecciones",
+      "metaDescription": "Explora los Brainrot de Kick a Lucky Block por rareza y valor para elegir mejores ubicaciones y objetivos de reemplazo.",
+      "categoryLabel": "BASE DE DATOS DE BRAINROT",
+      "whatIs": "¿Qué son los Brainrots?",
+      "whatIsDescription": "Los Brainrots son las unidades coleccionables principales que generan ingresos en tu parcela. Su rareza, estado de mutación y elecciones de ubicación afectan directamente tu velocidad de ganancia.",
+      "why": "¿Por qué optimizar las elecciones de Brainrot?",
       "whySteps": {
-        "step1Title": "Aprende recetas de fabricación",
-        "step1Description": "Descubre cómo fabricar herramientas y armas esenciales usando Apotheosis",
-        "step2Title": "Optimiza tu equipamiento",
-        "step2Description": "Elige los mejores objetos para tu estilo de juego y etapa de progresión",
-        "step3Title": "Mejora tu supervivencia",
-        "step3Description": "Equípate con equipo de movilidad y armas para navegar por este mundo peligroso"
+        "step1Title": "Mejorar las ganancias de la parcela",
+        "step1Description": "Prioriza las unidades que produzcan mayores retornos para cada espacio en tu etapa actual de progresión.",
+        "step2Title": "Reemplazar unidades de bajo rendimiento",
+        "step2Description": "Usa comparaciones de valor para eliminar unidades débiles antes y liberar espacio para mejores opciones.",
+        "step3Title": "Construir un núcleo estable",
+        "step3Description": "Crea una alineación equilibrada que respalde tanto los ingresos diarios como las mejoras de mutación a largo plazo."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los objetos"
+      "featured": "Destacados y esenciales",
+      "all": "Todos los Brainrots"
     },
-    "biomes": {
-      "title": "Biomas de Lucid Blocks",
-      "description": "Explora las regiones del mundo, características ambientales, ubicaciones de recursos y consejos de supervivencia para cada bioma.",
-      "metaTitle": "Biomas de Lucid Blocks - Regiones del mundo y exploración",
-      "metaDescription": "Explora los biomas de Lucid Blocks, incluyendo las Líneas Ley de Tiamana, Fog Meadow y regiones surrealistas. Encuentra recursos, evita peligros y navega por un mundo infinito.",
-      "categoryLabel": "REGIONES DEL MUNDO",
-      "whatIs": "¿Qué son los biomas?",
-      "whatIsDescription": "Guías de las diferentes regiones del mundo, características ambientales, distribución de recursos y zonas de peligro. Aprende qué esperar y cómo prepararte para cada área.",
-      "why": "¿Por qué explorar los biomas?",
+    "power": {
+      "title": "Kick a Lucky Block Power",
+      "description": "Pesas, umbrales de poder de patada, ganancias de velocidad y ritmo de renacimiento.",
+      "metaTitle": "Kick a Lucky Block Power - Pesas, escalado de patada y tiempos de renacimiento",
+      "metaDescription": "Planifica el crecimiento de poder en Kick a Lucky Block con mejoras de pesas, umbrales de distancia y tiempos prácticos de renacimiento.",
+      "categoryLabel": "PROGRESIÓN DE PODER",
+      "whatIs": "¿Qué es la progresión de poder?",
+      "whatIsDescription": "La progresión de poder abarca mejoras de pesas, escalado de distancia de patada y eficiencia de movimiento. Una buena planificación de umbrales te permite alcanzar mejores zonas y recompensas más pronto.",
+      "why": "¿Por qué optimizar las rutas de poder?",
       "whySteps": {
-        "step1Title": "Encuentra recursos",
-        "step1Description": "Localiza materiales raros y esencias específicas de cada región",
-        "step2Title": "Evita peligros",
-        "step2Description": "Entiende los riesgos ambientales y las criaturas hostiles",
-        "step3Title": "Planifica tu exploración",
-        "step3Description": "Prepara las herramientas y el equipo adecuados para cada tipo de bioma"
+        "step1Title": "Alcanzar mejores distancias antes",
+        "step1Description": "Usa puntos de control de mejora claros para desbloquear zonas más lejanas sin gastos innecesarios.",
+        "step2Title": "Equilibrar poder y velocidad",
+        "step2Description": "Evita invertir de más en una sola estadística ajustando tus opciones de entrenamiento a tu ruta de farmeo actual.",
+        "step3Title": "Renacer en mejores momentos",
+        "step3Description": "Usa tiempos de renacimiento basados en umbrales para proteger el impulso y evitar reinicios ineficientes."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los biomas"
+      "featured": "Destacados y esenciales",
+      "all": "Todas las guías de poder"
     },
-    "building": {
-      "title": "Construcción en Lucid Blocks",
-      "description": "Domina las dimensiones personales Qualia, la construcción de bases, la gestión de almacenamiento y técnicas creativas de construcción.",
-      "metaTitle": "Construcción en Lucid Blocks - Qualia y construcción de bases",
-      "metaDescription": "Domina la construcción en Lucid Blocks con las dimensiones personales Qualia, construcción de bases, soluciones de almacenamiento y técnicas creativas de construcción.",
-      "categoryLabel": "CONSTRUCCIÓN Y BASES",
-      "whatIs": "¿Qué es la construcción?",
-      "whatIsDescription": "Guías sobre el sistema de dimensiones personales Qualia, construcción de bases, gestión de almacenamiento y construcción creativa. Aprende a crear tu refugio seguro en este mundo surrealista.",
-      "why": "¿Por qué construir bases?",
+    "shop": {
+      "title": "Tienda de Kick a Lucky Block",
+      "description": "Prioridades de la tienda, desbloqueos de regalos/intercambios y orden de gasto inteligente.",
+      "metaTitle": "Tienda de Kick a Lucky Block - Mejor orden de compra y prioridades económicas",
+      "metaDescription": "Usa una lista práctica de prioridades de la tienda de Kick a Lucky Block para mejoras, funciones de regalo y planificación económica.",
+      "categoryLabel": "PLANIFICACIÓN DE LA TIENDA",
+      "whatIs": "¿Qué es la sección de la Tienda?",
+      "whatIsDescription": "La sección de la tienda se enfoca en el orden de compra, el valor de las mejoras y los desbloqueos de utilidad, como las funciones relacionadas con regalos e intercambios. Ayuda a reducir el gasto innecesario.",
+      "why": "¿Por qué planificar las compras?",
       "whySteps": {
-        "step1Title": "Crea espacios seguros",
-        "step1Description": "Establece bases seguras para el almacenamiento y las operaciones de fabricación",
-        "step2Title": "Gestiona tus recursos",
-        "step2Description": "Organiza tus materiales de manera eficiente con soluciones de almacenamiento",
-        "step3Title": "Desbloquea Qualia",
-        "step3Description": "Accede a dimensiones de bolsillo personales para la máxima comodidad"
+        "step1Title": "Invierte primero en el mayor ROI",
+        "step1Description": "Prioriza las mejoras que optimicen los ciclos de ingresos de inmediato en lugar de compras estéticas de bajo impacto.",
+        "step2Title": "Desbloquea funciones de utilidad",
+        "step2Description": "Monitorea cuándo desbloquear los regalos y otras funciones para que apoyen el progreso en lugar de retrasarlo.",
+        "step3Title": "Protege tu economía",
+        "step3Description": "Evita rutas de gasto sin salida que frenen el crecimiento de tu poder y la preparación para el reinicio."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todas las guías de construcción"
+      "featured": "Destacados y esenciales",
+      "all": "Todas las guías de la tienda"
     },
-    "support": {
-      "title": "Soporte de Lucid Blocks",
-      "description": "Soporte técnico, compatibilidad de plataformas, optimización de rendimiento y solución de problemas comunes.",
-      "metaTitle": "Soporte de Lucid Blocks - Ayuda técnica y soluciones",
-      "metaDescription": "Obtén soporte técnico para Lucid Blocks, incluyendo la configuración de Steam Deck, soluciones a cierres inesperados, optimización de rendimiento y guías de compatibilidad de plataformas.",
-      "categoryLabel": "SOPORTE TÉCNICO",
-      "whatIs": "¿Qué es el soporte?",
-      "whatIsDescription": "Guías técnicas que cubren la compatibilidad de plataformas, optimización de rendimiento, soluciones a cierres inesperados y problemas comunes. Obtén ayuda con Steam Deck, preguntas sobre multijugador y ajustes.",
-      "why": "¿Por qué consultar el soporte?",
+    "leaderboard": {
+      "title": "Tabla de posiciones de Kick a Lucky Block",
+      "description": "Patrones de la tabla de posiciones, configuraciones de los mejores jugadores y planificación de ascenso.",
+      "metaTitle": "Tabla de posiciones de Kick a Lucky Block - Estrategia de ascenso y patrones del meta superior",
+      "metaDescription": "Estudia las tendencias de la tabla de posiciones de Kick a Lucky Block para mejorar las decisiones de configuración y subir en el ranking de manera más eficiente.",
+      "categoryLabel": "META DE LA TABLA DE POSICIONES",
+      "whatIs": "¿Qué es la sección de la Tabla de posiciones?",
+      "whatIsDescription": "Esta sección sigue el juego enfocado en la tabla de posiciones: señales de clasificación, patrones de progresión de los mejores jugadores y ajustes de configuración que te ayudan a subir de forma constante.",
+      "why": "¿Por qué analizar las tendencias de la tabla de posiciones?",
       "whySteps": {
-        "step1Title": "Soluciona problemas técnicos",
-        "step1Description": "Resuelve cierres inesperados, problemas de rendimiento y de compatibilidad",
-        "step2Title": "Optimiza el rendimiento",
-        "step2Description": "Configura los ajustes para obtener la mejor experiencia en tu plataforma",
-        "step3Title": "Compatibilidad de plataformas",
-        "step3Description": "Aprende sobre Steam Deck, soporte para controles y requisitos del sistema"
+        "step1Title": "Aprende referencias competitivas",
+        "step1Description": "Observa qué priorizan los mejores jugadores para comparar tu configuración con estándares probados.",
+        "step2Title": "Refina tu ruta de construcción",
+        "step2Description": "Usa los patrones de clasificación para ajustar tus decisiones de mutación, poder y parcela con objetivos claros.",
+        "step3Title": "Sube con consistencia",
+        "step3Description": "Convierte los datos de la tabla de posiciones en rutinas repetibles en lugar de experimentación aleatoria."
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los artículos de soporte"
+      "featured": "Destacados y esenciales",
+      "all": "Todas las guías de la tabla de posiciones"
     }
   }
 }

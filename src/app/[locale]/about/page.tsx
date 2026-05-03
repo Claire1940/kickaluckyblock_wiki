@@ -1,4 +1,4 @@
-import Link from 'next/link'
+import { Link } from '@/i18n/navigation'
 import type { Metadata } from 'next'
 import { buildLanguageAlternates } from '@/lib/i18n-utils'
 import { type Locale } from '@/i18n/routing'
@@ -14,7 +14,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   return {
     title: 'About Kick a Lucky Block Wiki - Your Ultimate Roblox Game Resource',
-    description: 'Learn about Kick a Lucky Block Wiki, a community-driven resource hub providing comprehensive guides, crafting tips, creature info, and strategies for the Kick a Lucky Block Roblox game.',
+    description: 'Learn about Kick a Lucky Block Wiki, a community-driven resource hub covering codes, brainrots, mutations, weights, rebirth routes, and progression strategies.',
     robots: {
       index: false,
       follow: true,
@@ -75,10 +75,10 @@ export default function About() {
             <p>
               Kick a Lucky Block Wiki is an <strong>unofficial, fan-made resource website</strong> dedicated to helping players
               master the Roblox game "Kick a Lucky Block". We are a community-driven platform that provides comprehensive guides,
-              crafting tips, biome information, creature details, and strategic insights to enhance your gaming experience.
+              code tracking, Brainrot value references, mutation planning, and strategic progression insights to enhance your gameplay.
             </p>
             <p>
-              Whether you're a new player just starting your survival journey or a seasoned veteran looking to optimize your strategies,
+              Whether you're a new player learning your first kick route or a veteran optimizing rebirth timing and income loops,
               Kick a Lucky Block Wiki is here to support you every step of the way.
             </p>
           </div>
@@ -96,7 +96,7 @@ export default function About() {
             </p>
             <ul>
               <li><strong>Provide reliable information:</strong> Keep our content updated with the latest game changes, new items, and balance updates</li>
-              <li><strong>Build useful tools:</strong> Develop guides, crafting calculators, and planners that help players make informed decisions</li>
+              <li><strong>Build useful tools:</strong> Develop code trackers, progression planners, and comparison references that help players make informed decisions</li>
               <li><strong>Foster community:</strong> Create a welcoming space where players can learn, share strategies, and grow together</li>
               <li><strong>Stay accessible:</strong> Keep all resources free and easy to use for players of all skill levels</li>
             </ul>
@@ -105,7 +105,7 @@ export default function About() {
             <p>
               We envision Kick a Lucky Block Wiki as the <strong>go-to destination</strong> for every Kick a Lucky Block player seeking
               to improve their gameplay. We want to be the resource that players trust and rely on, whether they need
-              crafting guides, want to explore new biomes, or are looking for advanced survival tactics.
+              working code updates, Brainrot and mutation comparisons, or advanced rebirth and distance strategy.
             </p>
           </div>
         </div>
@@ -118,51 +118,51 @@ export default function About() {
           <div className="grid md:grid-cols-2 gap-6">
             {/* Feature Card 1 */}
             <div className="p-6 rounded-xl bg-slate-900/50 border border-slate-800">
-              <div className="text-2xl mb-3">🔨</div>
-              <h3 className="text-xl font-semibold text-white mb-2">Crafting Guides</h3>
+              <div className="text-2xl mb-3">🎁</div>
+              <h3 className="text-xl font-semibold text-white mb-2">Codes Tracking</h3>
               <p className="text-slate-300">
-                Comprehensive crafting recipes and Apotheosis fusion guides to help you create powerful items.
-                Master the art of item synthesis!
+                Fast status checks for active and expired codes, including redemption steps and update watch notes.
+                Claim rewards without wasting time on dead entries.
               </p>
             </div>
 
             {/* Feature Card 2 */}
             <div className="p-6 rounded-xl bg-slate-900/50 border border-slate-800">
-              <div className="text-2xl mb-3">🌍</div>
-              <h3 className="text-xl font-semibold text-white mb-2">Biome Information</h3>
+              <div className="text-2xl mb-3">🧠</div>
+              <h3 className="text-xl font-semibold text-white mb-2">Brainrot References</h3>
               <p className="text-slate-300">
-                Detailed guides on all biomes, their unique features, resources, and dangers.
-                Explore every corner of the surreal world safely.
+                Brainrot rarity and value comparisons to help you pick what to keep, replace, and upgrade.
+                Improve plot efficiency with practical placement logic.
               </p>
             </div>
 
             {/* Feature Card 3 */}
             <div className="p-6 rounded-xl bg-slate-900/50 border border-slate-800">
-              <div className="text-2xl mb-3">🦋</div>
-              <h3 className="text-xl font-semibold text-white mb-2">Creature Database</h3>
+              <div className="text-2xl mb-3">✨</div>
+              <h3 className="text-xl font-semibold text-white mb-2">Mutation Planning</h3>
               <p className="text-slate-300">
-                Complete information on all creatures, their behaviors, drops, and how to deal with them.
-                Know your friends from your foes.
+                Mutation effect breakdowns and practical strategy notes for deciding when to keep, reroll, or sell.
+                Focus investment on outcomes that actually move progression.
               </p>
             </div>
 
             {/* Feature Card 4 */}
             <div className="p-6 rounded-xl bg-slate-900/50 border border-slate-800">
-              <div className="text-2xl mb-3">🎯</div>
-              <h3 className="text-xl font-semibold text-white mb-2">Achievement Guides</h3>
+              <div className="text-2xl mb-3">🏋️</div>
+              <h3 className="text-xl font-semibold text-white mb-2">Weights & Power Scaling</h3>
               <p className="text-slate-300">
-                Step-by-step guides to unlock all 19 achievements in the game.
-                Complete your collection with our detailed walkthroughs.
+                Purchase-order references for weights, kick power growth, and distance milestones.
+                Spend smarter to unlock stronger zones faster.
               </p>
             </div>
 
             {/* Feature Card 5 */}
             <div className="p-6 rounded-xl bg-slate-900/50 border border-slate-800">
-              <div className="text-2xl mb-3">📚</div>
-              <h3 className="text-xl font-semibold text-white mb-2">Survival Strategies</h3>
+              <div className="text-2xl mb-3">♻️</div>
+              <h3 className="text-xl font-semibold text-white mb-2">Rebirth Strategy</h3>
               <p className="text-slate-300">
-                Essential survival tips, building strategies, and exploration guides.
-                Learn how to thrive in the surreal sandbox world.
+                Rebirth timing playbooks and rebuild priorities based on real run loops.
+                Balance short-term income with long-term scaling.
               </p>
             </div>
 
@@ -171,8 +171,7 @@ export default function About() {
               <div className="text-2xl mb-3">🌍</div>
               <h3 className="text-xl font-semibold text-white mb-2">Multilingual Support</h3>
               <p className="text-slate-300">
-                Content available in multiple languages including English, Russian, Portuguese,
-                German, Spanish, Japanese, Korean, and French.
+                Content available in multiple languages including English, Portuguese, Spanish, and Indonesian.
               </p>
             </div>
           </div>
@@ -195,7 +194,7 @@ export default function About() {
               <li><strong>Meta shifts:</strong> We track gameplay trends and update guides based on real player experiences</li>
             </ul>
             <p>
-              <strong>Want to contribute?</strong> Whether you've discovered a new crafting recipe, found a hidden biome,
+              <strong>Want to contribute?</strong> Whether you've found a new code update pattern, discovered a stronger Brainrot route,
               or have suggestions for new guides, we'd love to hear from you! Reach out through our contact channels below.
             </p>
           </div>
@@ -222,7 +221,7 @@ export default function About() {
               <li><strong>Community management:</strong> Listening to player feedback and fostering a positive environment</li>
             </ul>
             <p className="text-slate-400 italic text-sm">
-              Project Codename: "Dreamscape" – Navigating the surreal together.
+              Project Codename: "Lucky Loop" - Tracking practical progress for every run.
             </p>
           </div>
         </div>

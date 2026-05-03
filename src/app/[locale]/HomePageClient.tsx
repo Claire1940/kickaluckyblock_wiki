@@ -956,7 +956,7 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale, 
               <ul className="space-y-2 text-sm">
                 <li>
                   <Link
-                    href="/about"
+                    href={locale === 'en' ? '/about' : `/${locale}/about`}
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
                   >
                     {t.footer.about}
@@ -964,7 +964,7 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale, 
                 </li>
                 <li>
                   <Link
-                    href="/privacy-policy"
+                    href={locale === 'en' ? '/privacy-policy' : `/${locale}/privacy-policy`}
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
                   >
                     {t.footer.privacy}
@@ -972,7 +972,7 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale, 
                 </li>
                 <li>
                   <Link
-                    href="/terms-of-service"
+                    href={locale === 'en' ? '/terms-of-service' : `/${locale}/terms-of-service`}
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
                   >
                     {t.footer.terms}
@@ -980,7 +980,7 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale, 
                 </li>
                 <li>
                   <Link
-                    href="/copyright"
+                    href={locale === 'en' ? '/copyright' : `/${locale}/copyright`}
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
                   >
                     {t.footer.copyrightNotice}
