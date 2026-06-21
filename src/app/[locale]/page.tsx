@@ -1,3 +1,4 @@
+import { setRequestLocale } from 'next-intl/server'
 import { getLatestArticles } from '@/lib/getLatestArticles'
 import type { ModuleLinkMap } from '@/lib/buildModuleLinkMap'
 import type { Language } from '@/lib/content'
@@ -120,6 +121,7 @@ interface PageProps {
 
 export default async function HomePage({ params }: PageProps) {
 	const { locale } = await params
+	setRequestLocale(locale)
   validateHomePageContracts()
 
   // 服务器端获取最新文章数据
